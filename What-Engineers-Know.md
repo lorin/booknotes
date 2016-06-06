@@ -4,14 +4,16 @@ History
 Book by Walter G. Vincenti
 
 
-This book is a collection of case studies about how certain types of
-engineering evolved in aeronautics, with some synthesis at the end of the book.
+This book describes five case studies about engineering work in aeronautics from
+the first half of the twentieth century, with some synthesis at the end of the book.
 
 
 ## General notes
 - Engineering knowledge is distinct from scientific knowledge
 - Three types of engineering work: design, construction, operation. (The book
     focuses on design and construction).
+
+Terms: design, normal design
 
 ## Ch 1: Introduction: Engineering as Knowledge
 
@@ -28,6 +30,21 @@ Vincenti quotes G.F.C. Rogers (with Vincenit's additions in brackets):
 > Engineering refers to the practice of organizing the design and construction
 > [and, I would add, operation] of any artifice which transform the physical
 > world around us to meet some recognized need.
+
+Focus of the book is on *normal design*, as opposed to radical design.
+
+Levels of design for airplanes:
+
+1. Project definition
+2. Overall design
+3. Major-component design
+4. Subdivision of areas of component design
+5. Further subdivision into highly specific problems
+
+- Problems at upper levels tends to be conceptual and relatively unstructural
+- Most effort is at lower levels
+- At lower levels, problems are usually well-defined and activity is highly
+    structured
 
 
 ## Ch 2: Design and the Growth of Knowledge: The Davis Wing and the Problem of Airfoil Design, 1908—1945
