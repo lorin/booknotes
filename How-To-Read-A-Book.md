@@ -2,6 +2,10 @@
 
 Book by Mortimer J. Adler & Charles Van Doren
 
+Levels of reading:
+ - elementary
+ - inspectional reading
+
 ## Outline
 
 - Part One: The Dimensions of Reading
@@ -18,7 +22,7 @@ Book by Mortimer J. Adler & Charles Van Doren
         - stages and levels
         - higher levels of reading and higher education
         - reading and the democratic ideal of education
-    4. The second leel of reading: inspectional reading
+    4. The second level of reading: inspectional reading
         - inspectional reading I
         - systematic skimming or pre-reading
         - inspectional reading II: superficial reading
