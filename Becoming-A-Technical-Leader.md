@@ -74,4 +74,9 @@ Keep a journal.
 
 Write 5 min a day for 3 months.
 
-Goal is to learn about yourself.
+Why:
+
+- learn about yourself
+- understand what's involved in making a behavioral change (writing each day)
+- helps overcome self-blindness, which stands in the way of overcoming other
+    obstacles
