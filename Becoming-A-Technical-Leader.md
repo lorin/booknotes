@@ -22,11 +22,12 @@ Strategies on how to become a better technical leader.
     1. What is leadership, anyway?
     2. Models of leadership style
     3. A problem-solving style
-    - Understanding the problem
-    - Managing the flow of ideas
-    - Controlling the quality
+        - Understanding the problem
+        - Managing the flow of ideas
+        - Controlling the quality
     4. How leaders develop
-    4. But I can't because
+    5. But I can't because
+        - I'm not not a manager
 - Part Two: Innovation
     6. The three great obstacles to innovation
         - Are you aware of waht you had for dessert?
@@ -67,6 +68,9 @@ Strategies on how to become a better technical leader.
     24. Finding suport for change
 - Epilogue
 
+## Ch. 5: But I can't Because
+
+In a well-designed engine, there is no weakest link.
 
 ## Ch. 7: A tool for developing self-awareness
 
@@ -80,3 +84,5 @@ Why:
 - understand what's involved in making a behavioral change (writing each day)
 - helps overcome self-blindness, which stands in the way of overcoming other
     obstacles
+
+
