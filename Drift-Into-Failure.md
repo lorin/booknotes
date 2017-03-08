@@ -6,7 +6,8 @@ Sidney, Dekker
 
 complexity, drift, failure, broken part, Newton-Descartes, diversity, systems
 theory, unruly technology, theory, rational, rational choice theory,
-decrementalism, relationships, high-reliability organizations
+decrementalism, relationships, high-reliability organizations, normalization of
+deviance
 
 local rationality principle: people are doing what makes sense given the situational indications, operational pressures, and organizational norms existing at the time.
 
@@ -50,8 +51,35 @@ Four ingredients of high reliability organizations:
    workloads contribute greatly to reduced error rates and enhanced reliability.
 - Smaller dangers are courted in order to understand and forestall larger ones.
 - Instead [a belief about the possibility to continue operating safely] should be a belief that is open to intervention as as to keep it curious, open-minded, complexly sensitized, inviting of doubt, and ambivalent toward the past.
-- ...
-
+- [Reaching and staying at a high-reliability end-state] involves a
+    preoccupation with failure, a reluctance to simplify, a sensitivity to
+    operations, deference to expertise and a commitment to resilience.
+- It also is an active consideration of all the places and moments where you
+    don't want to fail.
+- High-reliability theory suggests that it is this complexity of possible
+    interpretations of events that allow organizaitons to better anticipate and
+    detect what might go wrong in the future.
+- These decisions are sound when set against local judgment criteria; given the
+    time and budget pressures and short-term incentives that shape behavior.
+    Given the knowledge, goals, and focus of attention by the decision-makers,
+    as well as the nature of the data available to them at the time, it made
+    sense.
+- One of the ingredients in almost all stories of drift is a focus on production
+    and efficiency.
+- Recall Weick's and Perrow's warning: what cannot be believed cannot be seen.
+- It is this insidious delegation, this handove,r where the internalization of
+    external pressure takes place.
+- Instead, the processes by which such decisions come about, and by which
+    decision-makers create their local rationality, are one key to understanding
+    how safety can erode on the inside a complex socio-technical system.
+- "normalization of deviance"
+- The solution to risk, if any, is to ensure that the organization continually
+    reflects critically on and challenges its own definition of "normal"
+    operations, and finds ways to prioritize chronic safety concerns over acute
+    production pressures.
+- The idea that organizations are capable of inculcating a safety orientation
+    among its members through recruitment, socializing and indoctrination is met
+    with great skepticism.
 
 ## Outline
 
