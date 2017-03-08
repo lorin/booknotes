@@ -6,7 +6,7 @@ Sidney, Dekker
 
 complexity, drift, failure, broken part, Newton-Descartes, diversity, systems
 theory, unruly technology, theory, rational, rational choice theory,
-decrementalism, relationships
+decrementalism, relationships, high-reliability organizations
 
 local rationality principle: people are doing what makes sense given the situational indications, operational pressures, and organizational norms existing at the time.
 
@@ -20,6 +20,38 @@ Five concepts that characterize drift
     - Contribution of the protective structure
 
 Banality of accidents thesis: incidents do not precede accidents. Normal work does.
+
+Four ingredients of high reliability organizations:
+
+1. Leadership safety objectives
+2. The need for redundancy
+3. Decentralization, culture and continuity.
+4. Organizational learning (incremental learning through trial and error).
+
+## Highlights
+
+- drift occurs in small steps
+- complex systems are sensitively dependent on initial conditions
+- complex systems that can drift into failure are chaaracterized by unruly technology
+- System thinking is about relationships, not parts
+- Safety certification is about bridging the gap between a piece of gleaming new
+    technology in the hand now, and its adapter, coevolved, grimy, greased-down
+    wear and use further down the line.
+- Incidents do not precede accidents. Normal work does.
+- The so-called common-cause hypothesis (which holds that accidents and
+    incidents have common causes and that incidents are qualitatively identical
+    to accidents except for being just one step short of a true or complete
+    failure) is probably wrong for complex systems.
+- In high-reliability organizations, active searching and exploration for ways
+    to do things more safely is preferred over passively adapting to regulation
+    or top-down control
+- Continuous operations and training, non-stop on-the-job education, a regular
+   throughput of new students or other learners, and challenging operational
+   workloads contribute greatly to reduced error rates and enhanced reliability.
+- Smaller dangers are courted in order to understand and forestall larger ones.
+- Instead [a belief about the possibility to continue operating safely] should be a belief that is open to intervention as as to keep it curious, open-minded, complexly sensitized, inviting of doubt, and ambivalent toward the past.
+- ...
+
 
 ## Outline
 
@@ -43,6 +75,13 @@ Banality of accidents thesis: incidents do not precede accidents. Normal work do
     - Contribution of the protective structure
     - A story of drift
 3. The legacy of Newton and Descartes
+    - Why did Newton and Descrates have such an impact?
+    - So why should we care?
+    - What Newton can and cannot do
+    - Columbia: parts that broke in sequence
+    - Broken part, broken system?
+    - Accidents come from relationships, not parts
+    - We have Newton on a retainer
 4. The search for the broken component
 5. Theorizing drift
 6. What is complexity and systems thinking?
