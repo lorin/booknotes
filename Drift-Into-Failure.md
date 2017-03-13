@@ -15,11 +15,11 @@ Systems thinking is about relationships, not parts
 
 Five concepts that characterize drift:
 
-- scarcity and competition
-- Decrementalism, or small steps
-- Sensitive dependence on initial conditions
-- Unruly technology
-- Contribution of the protective structure
+* scarcity and competition
+* Decrementalism, or small steps
+* Sensitive dependence on initial conditions
+* Unruly technology
+* Contribution of the protective structure
 
 Banality of accidents thesis: incidents do not precede accidents. Normal work does.
 
