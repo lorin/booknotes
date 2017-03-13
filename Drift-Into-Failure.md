@@ -81,6 +81,31 @@ Four ingredients of high reliability organizations:
 - The idea that organizations are capable of inculcating a safety orientation
     among its members through recruitment, socializing and indoctrination is met
     with great skepticism.
+- Strutural secrecy, with participants not knowing about what goes on in other
+    parts of the organization, is a normal by-product of the bureaucratic
+    organization and social nature of complex work.
+- People do what locally makes sense to them, given their goals, knowledge and
+    focus of attention in that settings.
+- As with Vaughan's normalization of deviance, operational success with such
+    adapted procedures is one of the strongest motivators for doing it again,
+    and again.
+- This, instead, can be achieved by making the boundaries of system
+    performance explicit and known, and to help people develop skills at
+    coping with the edges of those boundaries.
+- Also, a reminder to try harder and watch out better, particularly during times
+    of high workload, is a poor substitute for actually developing skills to
+    cope at the boundary.
+- Safety is an emergent property, and its erosion is not about the breakage or
+    lack of quality of single components.
+- Drifiting into failure is not so much
+    about breakdowns or malfunctioning of components, as it is about an
+    organization not adapting effectively to cope with the complexity of its own
+    structure and environment.
+- Organizational resilience is about finding the political, practical and
+    operational means to invest in safety even under pressures of sacrcity and
+    competition, because that may be when such investments are needed most.
+- How can an organization become aware, and remain aware, of its models of risk
+    and danger?
 
 ## Outline
 
