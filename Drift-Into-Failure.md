@@ -140,12 +140,13 @@ accidents can happen when no parts are broken, or no parts are seen as broken.
 
 ### Outlines of drift
 
-Five concepts that characterize drift
-    - scarcity and competition
-    - Decrementalism, or small steps
-    - Sensitive dependence on initial conditions
-    - Unruly technology
-    - Contribution of the protective structure
+Five concepts that characterize drift:
+
+- scarcity and competition
+- Decrementalism, or small steps
+- Sensitive dependence on initial conditions
+- Unruly technology
+- Contribution of the protective structure
 
 ### Scarcity and competition
 
