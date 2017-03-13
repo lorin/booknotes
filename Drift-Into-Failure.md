@@ -68,7 +68,7 @@ Four ingredients of high reliability organizations:
 - One of the ingredients in almost all stories of drift is a focus on production
     and efficiency.
 - Recall Weick's and Perrow's warning: what cannot be believed cannot be seen.
-- It is this insidious delegation, this handove,r where the internalization of
+- It is this insidious delegation, this handover, where the internalization of
     external pressure takes place.
 - Instead, the processes by which such decisions come about, and by which
     decision-makers create their local rationality, are one key to understanding
