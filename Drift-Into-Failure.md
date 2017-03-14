@@ -106,6 +106,33 @@ Four ingredients of high reliability organizations:
     competition, because that may be when such investments are needed most.
 - How can an organization become aware, and remain aware, of its models of risk
     and danger?
+- Rather than being the result of a few or a number of component failures,
+    accidents involve the unanticipated interaction fo a multitude of events in
+    a complex system - events and interactions, often very normal, whose
+    combinatorial explosion can quickly outwit people's best efforts at
+    predicting and mitigating trouble.
+- The idea behind system accidents is that our ability to intellectualy manage
+    interactively complex systems has now been overtaken by our ability to build
+    them and let them grow.
+- All components can meet their specified design requirements, and still a
+    failure can occur.
+- The answer lies in understanding relationships.
+- We never enumerated certainties, only possibilities. We never pinpointed, only
+    sketched. That is what complexity and system thinking does.
+- the behavior of the system cannot be reduced to the behavior of the
+    constituent components, but only characterized on the basis of the multitude
+    of ever-changing relationships between them.
+- the performance of complex systems is typically optimized at the edge of
+    chaos, just before system behavior will become unrecognizably turbulent.
+- descriptions of complexity have to take history into account.
+- Open systems mean that it can be quite difficult to define the border of a
+    system.
+- Complex systems operate under conditions far from equilibrium.
+- in complex systems, history matters. Complex systems themselves have a
+    history.
+- Only constant training and indoctrination, as well as positive reinforcement,
+    can help build confidence and acceptance for the use of unmitigated
+    language.
 
 ## Outline
 
