@@ -133,6 +133,17 @@ Four ingredients of high reliability organizations:
 - Only constant training and indoctrination, as well as positive reinforcement,
     can help build confidence and acceptance for the use of unmitigated
     language.
+- Decrementalism, where organizational and operational adaptation around goal
+    conflicts and uncertainty produces small, stepwise normalization where each
+    next decrement is only a small deviation from the previously accepted norm,
+    and continued operational success is relied upon as a guarantee of future
+    safety
+- Resource scarcity and goal oppositions from one such pervasive influence.
+- In fact, what is remarkable about this accident is that everybody was pretty
+    much following the rules.
+- Behavior that is locally rational, that responds to local conditions and makes
+    sense given the various rules that govern it locally, can add up to
+    profoundly irrational behavior at the system level.
 
 ## Outline
 
