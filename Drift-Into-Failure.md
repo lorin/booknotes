@@ -144,6 +144,75 @@ Four ingredients of high reliability organizations:
 - Behavior that is locally rational, that responds to local conditions and makes
     sense given the various rules that govern it locally, can add up to
     profoundly irrational behavior at the system level.
+- Just like a lot of other technical problems - NASA engineers were, and always
+    had been, working in an environment where technical problems proliferated.
+    Flying with flaws was the norm.
+- ... safety problem into a maintenance problem. But what we really need to
+    understand is how these conversions of language made sense to
+    decision-makers at the time.
+- the important question to ask ourselves is how organizations can be made aware
+    early on that such shifts in language can have far-reaching consequences,
+    even if those are hard to foresee
+- Rather, we should be weary of renaming things that negotiate their perceived
+    risk down from what it was before.
+- Drift into failure, in these terms, is about optimizing the system until it is
+    perched on that edge of chaos. There, in that critical state, big,
+    devastating responses to small pertubations become possible.
+- Remember the basic message of this book. The growth of complexity in society
+    has got ahead of our understanding of how complex systems work and fail. Our
+    technologies have got ahead of our theories. Our theoreis are still
+    fundamentally reductionist, compoenential and lienar. Our technologies,
+    however, are increaasingly complex, emergent and non-linear.
+- Drift into failure involves the interation between diverse, interacting and
+    adaptive entities whose micro-level behaviors produce macro-level patterns,
+    to which they in turn adapt, creating new patterns.
+- Investigations of past failures thus do not contain much predictive value for
+    a complex system.
+- In a complex system, an action controls almost nothing. But it influences
+    almost everything.
+- The commitment that is called for here is to see safety-critical organizations
+    as complex adaptive systems.
+- It is important to realize that, in complex systems, the effects of local
+    decisions seldom stay local.
+- The five features of  drift - scarcity and competition, small steps, sensitive
+    dependency on initial conditions, unruly technology, and a contributing
+    regulator.
+- recommendations made by high-reliability theory include a validation fo
+    minority opinion and an encouragement of dissent
+- A local optimization may become a global disaster
+- Outsiders might think about this very differently, and they may represent a
+    resource that managers could capitalize
+- But for a regulator it means learning an entirely new repetoire of languages
+    and countermeasures: from componential, determinist, compliance to
+    co/counter-evolving complexity
+- in times of crisis, these people's responsibilities may well suddenly be
+    affected by a part failure way outside their functional area.
+- a Newtonian narrative of failure achieves its end only by erasing its true
+    subject: human agency and the way it is configured in a hugely complex
+    network of relationships and interdependencies.
+- Complexity and systems thinking denies us the comfort of one objectively
+    accessible reality that can, as long as we have accurate methods, arbitrate
+    between what is true and what is false. Or between what is right and what is
+    wrong.
+- accuracy cannot be achieved in complex systems tsince they defy exhaustive description
+- Authentic stories
+- A story of a complex system is authentific if it succeeds in communicating some of the vitality of everyday life in that system
+- In a complex system, there is no objective way to determine whose view is right and whose view is wrong, since the agents effectively live in different environments.
+- Diversity of narrative can be seen as an enormous source of resilience in complex systems.
+- In a complex system, we should gather as much information on the issue as possible
+- In a post-Newtonian ehtic, there is no longer an obvious relationship between
+    the behavior of parts in the system (or their malfunctioning ,for example,
+    "human errors") and system-level outcomes. Instead, system-level behaviors
+    emerge from the multitude of relationships, interdependencies and
+    interconnections inside the system, but cannot be reduced to those
+    relationships or interconnections. In a post-Newtonian ethic, we resist
+    looking for the "causes" of failure or success. System-level outcomes have
+    no clearly traceable causes as theire relationships to effects are neither
+    simple nor linear.
+- There is no objective way of constructing a story of what happened
+- We can at best hope and aim to produce authentic stories, stories that are
+    true to experience, true to the phenomenology of being there, of being
+    suspend inside complexity.
 
 ## Outline
 
