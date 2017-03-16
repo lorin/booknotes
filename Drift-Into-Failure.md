@@ -7,9 +7,12 @@ Sidney, Dekker
 complexity, drift, failure, broken part, Newton-Descartes, diversity, systems
 theory, unruly technology, theory, rational, rational choice theory,
 decrementalism, relationships, high-reliability organizations, normalization of
-deviance
+deviance, complexity, efficiency, scarcity, competition, initial conditions,
+normal, resilience
 
-local rationality principle: people are doing what makes sense given the situational indications, operational pressures, and organizational norms existing at the time.
+local rationality principle: people are doing what makes sense given the
+situational indications, operational pressures, and organizational norms
+existing at the time.
 
 Systems thinking is about relationships, not parts
 
@@ -196,8 +199,11 @@ Four ingredients of high reliability organizations:
     wrong.
 - accuracy cannot be achieved in complex systems tsince they defy exhaustive description
 - Authentic stories
-- A story of a complex system is authentific if it succeeds in communicating some of the vitality of everyday life in that system
-- In a complex system, there is no objective way to determine whose view is right and whose view is wrong, since the agents effectively live in different environments.
+- A story of a complex system is authentific if it succeeds in communicating
+  some of the vitality of everyday life in that system
+- In a complex system, there is no objective way to determine whose view is
+  right and whose view is wrong, since the agents effectively live in different
+  environments.
 - Diversity of narrative can be seen as an enormous source of resilience in complex systems.
 - In a complex system, we should gather as much information on the issue as possible
 - In a post-Newtonian ehtic, there is no longer an obvious relationship between
@@ -244,7 +250,29 @@ Four ingredients of high reliability organizations:
     - Accidents come from relationships, not parts
     - We have Newton on a retainer
 4. The search for the broken component
+    - Broken components after a hailstorm
+    - Broken ocmponents to explain a broken system
+    - Newton and the simplicity of failure
+    - Reductionism and the Eureka part
+    - Causes for effects an be found
+    - The foreseeability of harm
+    - Time-reversibility
+    - Completeness of knowledge
+    - A Newtonian ethic of failure
 5. Theorizing drift
+    - Man-made disasters
+    - The incubation and surprise of failure
+    - Risk as energy to be contained: barrier analysis
+    - High reliability organizations
+    - Challenging the belief in continued safe operations
+    - Goal interactions and production pressure
+    - Normalizing deviance, structural secrecy and practical drift
+    - The normalization of deviance
+    - How to prevent the normalization of deviance
+    - Structural secrecy and practical drift
+    - Managing the information environment
+    - Control theory and drift
+    - Resilience engineering
 6. What is complexity and systems thinking?
 7. Manging the complexity of drift
 
