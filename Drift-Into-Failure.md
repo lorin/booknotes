@@ -291,7 +291,6 @@ Four ingredients of high reliability organizations:
     - Adaptation and history
     - Complex versus complicated
     - Complexity and drift
-    -
 7. Manging the complexity of drift
 
 
