@@ -24,6 +24,15 @@ Five concepts that characterize drift:
 * Unruly technology
 * Contribution of the protective structure
 
+Systems thinking perspcetive on the five concepts:
+
+* Resource scarcity and competition, which leads to a chronic need to balance cost pressures with safety. In a complex system, this means that the thousands smaller and larger decisions and trade-offs that get made throughout the system each day can generate a joint preference without central coordination, and without apparent local consequences: production and efficiency get served in people’s local goal pursuits while safety gets sacrificed – but not visibly so;
+* Decrementalism, where constant organizational and operational adaptation around goal conflicts and uncertainty produces small, stepwise normalization where each next decrement is only a small deviation from the previously accepted norm, and continued operational success is relied upon as a guarantee of future safety;
+* Sensitive dependence on initial conditions. Because of the lack of a central designer or any part that knows the entire complex system, conditions can be changed in one of its corners for a very good reason and without any apparent implications: it’s simply no big deal. This may, however, generate reverberations through the interconnected webs of relationships; it can get amplified or suppressed as it modulates through the system;
+* Unruly technology, which introduces and sustains uncertainties about how and when things may fail. Complexity can be a property of the technology-in-context. Even though parts or sub-systems can be modeled exhaustively in isolation (and therefore remain merely complicated), their operation with each other in a dynamic environment generates the unforeseeabilities and uncertainties of complexity;
+* Contribution of the entire protective structure (the organization itself, but also the regulator, legislation, and other forms of oversight) that is set up and maintained to ensure safety (at least in principle: some regulators would stress that all they do is ensure regulatory compliance). Protective structures themselves can consist of complex webs of players and interactions, and are exposed to an environment that influences it with societal expectations, resource constraints, and goal interactions. This affects how it condones, regulates and helps rationalize or even legalizes definitions of “acceptable” system performance.
+
+
 Banality of accidents thesis: incidents do not precede accidents. Normal work does.
 
 Four ingredients of high reliability organizations:
@@ -274,6 +283,15 @@ Four ingredients of high reliability organizations:
     - Control theory and drift
     - Resilience engineering
 6. What is complexity and systems thinking?
+    - More redundancy and barriers, more complexity
+    - Up and out, not down and in
+    - Systems thinking
+    - Complex systems theory
+    - The butterfly effect
+    - Adaptation and history
+    - Complex versus complicated
+    - Complexity and drift
+    -
 7. Manging the complexity of drift
 
 
