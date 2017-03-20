@@ -260,7 +260,7 @@ Four ingredients of high reliability organizations:
     - We have Newton on a retainer
 4. The search for the broken component
     - Broken components after a hailstorm
-    - Broken ocmponents to explain a broken system
+    - Broken components to explain a broken system
     - Newton and the simplicity of failure
     - Reductionism and the Eureka part
     - Causes for effects an be found
