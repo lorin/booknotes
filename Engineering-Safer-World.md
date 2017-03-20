@@ -48,11 +48,11 @@ electromechanical dvices.
 It is possible and even quite easy to build software that we cannot understand
 in terms of being able to determine how it will behave under all conditions.
 
-incrase in system accidents stemming from intellectual unmanageability reltaed
+increase in system accidents stemming from intellectual unmanageability reltaed
 to interactively complex & tightly coupled designs that allow potentially unsafe
 interactions to go undetected during development
 
-Control software contriubts to accident bynot enforcing appropriate constraints
+Control software contriubts to accident by not enforcing appropriate constraints
 on behavior or by commanding behavior that violates the constraints.
 
 ### Classification of accident factors
