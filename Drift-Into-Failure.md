@@ -291,7 +291,24 @@ Four ingredients of high reliability organizations:
     - Adaptation and history
     - Complex versus complicated
     - Complexity and drift
+    - What is emergence?
+    - Organized complexity
+    - Accidents as emergent properties
+    - Phase shifts and tipping points
+    - Optimized at the edge of chaos
 7. Manging the complexity of drift
+    - Complexity, control and influence
+    - Diversity as a safety value
+    - Turning the five features of drift into levers of influence
+    - Resource scarcity and competition
+    - Sensitive dependency and small steps
+    - Unruly technology
+    - Contribution of the protective structure
+    - Drifting into success
+    - From a paperclip to a house
+    - Complexity, drift, and accountability
+    - Enron's drift into failure
+    - A post-Newtonian ethic for failure in complex systems
 
 
 ## Failure is always an option
@@ -342,4 +359,19 @@ This is the banality of accidents thesis. These are not incidents. Incidents do
 not precede accidents. Normal work does. In these systems:
 
 > accidents are different in nature from those occurring in safe systems: in this case accidents usually occur in the absence of any serious breakdown or even of any serious error. They result from a combination of factors, none of which can alone cause an accident, or even a serious incident; therefore these combinations remain difficult to detect and to recover using traditional safety analysis logic. For the same reason, reporting becomes less relevant in predicting major disasters.
+
+...
+
+## Managing the complexity of drift
+
+### Resource scarcity and competition
+
+Don't try to fully optimize a system. Lack of slack leaves you vulnerable to
+small pertubations that can cause large events. If you are highly optmized,
+that's the time to ask about if there's any margin left.
+
+Diversity of opinion can be one way to make the system stop and think when it
+thinks it can least afford to do so.
+
+
 
