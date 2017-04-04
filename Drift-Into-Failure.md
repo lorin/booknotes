@@ -35,6 +35,14 @@ Systems thinking perspcetive on the five concepts:
 
 Banality of accidents thesis: incidents do not precede accidents. Normal work does.
 
+Features of complex systems
+
+1. Complex systems can exhibit tendencies to drift into failure because of uncertainty and competition in their environment. Adaptation to these environmental features is driven by a chronic need to balance resource scarcity and cost pressures with safety.
+2. Drift occurs in small steps.
+3. Complex systems are sensitively dependent on initial conditions.
+4. Complex systems that can drift into failure are characgerized by unruly technology.
+
+
 Four ingredients of high reliability organizations:
 
 1. Leadership safety objectives
@@ -311,7 +319,28 @@ Four ingredients of high reliability organizations:
     - A post-Newtonian ethic for failure in complex systems
 
 
-## Failure is always an option
+## Ch. 1: Failure is always an option
+
+Rational choice theory: assumes that agents take actions that optimize their
+utilities conditional on information and actions of others.
+
+Under this theory, when accident happens, it's because somebody knew the risks
+and made an amoral calculation of consciously putting money before safety.
+
+("BP should have known all of this...").
+
+This worldview isn't *wrong*, but it  excludes other readings and other results.
+It leaves us less diverse, less able to respond in novel or more useful ways.
+
+The growth of complexity in society has got ahead of our understanding of how
+complex systems work and fail.
+
+We can model and understand things in isolation. But not when they are part of a
+system that interacts with many other components embedded within a competitive,
+nominally regulated society.
+
+
+
 
 Features of complex systems
 
