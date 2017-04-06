@@ -8,7 +8,13 @@ complexity, drift, failure, broken part, Newton-Descartes, diversity, systems
 theory, unruly technology, theory, rational, rational choice theory,
 decrementalism, relationships, high-reliability organizations, normalization of
 deviance, complexity, efficiency, scarcity, competition, initial conditions,
-normal, resilience
+normal, resilience, Newtonian, complex adaptive systems
+
+**Message of the book**: complexity of what society and commerce can gie rise to
+today is not matched by the theories we have that can explain why such things go
+wrong.
+
+We can't ever really understand why things go wrong.
 
 local rationality principle: people are doing what makes sense given the
 situational indications, operational pressures, and organizational norms
@@ -335,10 +341,17 @@ It leaves us less diverse, less able to respond in novel or more useful ways.
 The growth of complexity in society has got ahead of our understanding of how
 complex systems work and fail.
 
+When an accident happens, we think we can figure out what went wrong, what the
+broken part is. But we're applying Newtonian folk-science, we really can't.
+
 We can model and understand things in isolation. But not when they are part of a
 system that interacts with many other components embedded within a competitive,
 nominally regulated society.
 
+We can't rely on theories that only work for simpler systems. Instead, must turn
+to: complexity theory aka systems theory aka theory of complex adaptive systems.
+
+Example: Gaussian copula and financial crisis
 
 
 
