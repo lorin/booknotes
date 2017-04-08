@@ -21,6 +21,10 @@ local rationality principle: people are doing what makes sense given the
 situational indications, operational pressures, and organizational norms
 existing at the time.
 
+In systems, people make "good enough" decisions based on their local view of the
+world. Because of the interconnectedness of systems, these decisions can have
+unforeseen consequences.
+
 Systems thinking is about relationships, not parts
 
 Five concepts that characterize drift:
@@ -78,6 +82,7 @@ Four ingredients of high reliability organizations:
 - Continuous operations and training, non-stop on-the-job education, a regular
    throughput of new students or other learners, and challenging operational
    workloads contribute greatly to reduced error rates and enhanced reliability.
+- The frame of reference for understanding people’s ideas and people’s decisions, then, should be their own local work context, the context in which they were embedded, and from whose (limited) point of view assessments and decisions were made.
 - Smaller dangers are courted in order to understand and forestall larger ones.
 - Instead [a belief about the possibility to continue operating safely] should be a belief that is open to intervention as as to keep it curious, open-minded, complexly sensitized, inviting of doubt, and ambivalent toward the past.
 - [Reaching and staying at a high-reliability end-state] involves a
@@ -329,6 +334,10 @@ Four ingredients of high reliability organizations:
 
 ## Ch. 1: Failure is always an option
 
+### Who messed up here?
+
+### Rational choice theory
+
 Rational choice theory: assumes that agents take actions that optimize their
 utilities conditional on information and actions of others.
 
@@ -346,12 +355,20 @@ complex systems work and fail.
 When an accident happens, we think we can figure out what went wrong, what the
 broken part is. But we're applying Newtonian folk-science, we really can't.
 
+### Technology has developed more quickly than theory
+
 We can model and understand things in isolation. But not when they are part of a
 system that interacts with many other components embedded within a competitive,
 nominally regulated society.
 
 We can't rely on theories that only work for simpler systems. Instead, must turn
 to: complexity theory (systems theory, theory of complex adaptive systems).
+
+### The Gaussian copula
+
+Example: Gaussian copula and financial crisis
+
+### Complexity, local and rationality
 
 It's impossible to objectively know how an entire complex system works. Because
 of this, to understand why people involved in a system behave the way that they do,
@@ -360,11 +377,17 @@ place. Use their *frame of reference*, understand the *local work context*.
 
 local rationality principle: people are doing what makes sense gievn the
 situational indications, operational pressures, and organizational norms at the
-time.
+time. Contrast with: rational choice theory.
 
+Reasoning and decision-making is based on people's local understanding,
+attention, goals, and knowledge, not on global.
 
-Example: Gaussian copula and financial crisis
+What matters for people is that the decision (mostly) works in their situation,
+that the decisions they make are achieving their goals as far as they understand.
 
+### Complexity and drift into failure
+
+(here)
 
 
 Features of complex systems
