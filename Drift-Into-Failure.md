@@ -8,9 +8,10 @@ complexity, drift, failure, broken part, Newton-Descartes, diversity, systems
 theory, unruly technology, theory, rational, rational choice theory,
 decrementalism, relationships, high-reliability organizations, normalization of
 deviance, complexity, efficiency, scarcity, competition, initial conditions,
-normal, resilience, Newtonian, complex adaptive systems
+normal, resilience, Newtonian, complex adaptive systems, cybernetics, local work
+context, local rationality principle
 
-**Message of the book**: complexity of what society and commerce can gie rise to
+**Message of the book**: complexity of what society and commerce can give rise to
 today is not matched by the theories we have that can explain why such things go
 wrong.
 
@@ -73,6 +74,7 @@ Four ingredients of high reliability organizations:
 - In high-reliability organizations, active searching and exploration for ways
     to do things more safely is preferred over passively adapting to regulation
     or top-down control
+- Direct, unmediated (or objective) knowledge of how a whole complex system works is impossible.
 - Continuous operations and training, non-stop on-the-job education, a regular
    throughput of new students or other learners, and challenging operational
    workloads contribute greatly to reduced error rates and enhanced reliability.
@@ -349,7 +351,17 @@ system that interacts with many other components embedded within a competitive,
 nominally regulated society.
 
 We can't rely on theories that only work for simpler systems. Instead, must turn
-to: complexity theory aka systems theory aka theory of complex adaptive systems.
+to: complexity theory (systems theory, theory of complex adaptive systems).
+
+It's impossible to objectively know how an entire complex system works. Because
+of this, to understand why people involved in a system behave the way that they do,
+you need to understand their view of the world at the time the action took
+place. Use their *frame of reference*, understand the *local work context*.
+
+local rationality principle: people are doing what makes sense gievn the
+situational indications, operational pressures, and organizational norms at the
+time.
+
 
 Example: Gaussian copula and financial crisis
 
