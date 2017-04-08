@@ -68,7 +68,7 @@ Strategies on how to become a better technical leader.
     24. Finding suport for change
 - Epilogue
 
-## Ch. 5: But I can't Because
+## Ch. 5: But I can't because
 
 In a well-designed engine, there is no weakest link.
 
