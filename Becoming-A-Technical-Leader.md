@@ -31,6 +31,9 @@ Strategies on how to become a better technical leader.
 - Part Two: Innovation
     6. The three great obstacles to innovation
         - Are you aware of waht you had for dessert?
+        - Self-blindness: the number one obstacle
+        - No-problem syndrome: the number two obstacle
+        - Single-solution belief: the number three obstacle
     7. A tool for developing self-awareness
         - A test of your motivation
         - Your initial reaction
@@ -71,6 +74,33 @@ Strategies on how to become a better technical leader.
 ## Ch. 5: But I can't because
 
 In a well-designed engine, there is no weakest link.
+
+## Ch. 6: The three great obstacles to innovation
+
+1. Self-blindness
+2. No-problem syndrome
+3. Single-solution belief
+
+### Self-blindness
+
+inability to see ourselves as others see us
+
+### No-problem syndrome
+
+The unshakable belief in your own master intelligence.
+
+One person describes a terribly vexing problem, but the other merely responds
+with a callous, "No problem." Responding reflexively with a solution instead of
+taking the time to understand the problem.
+
+### Single-solution belief
+
+Belief that there is a single correct solution to a problem
+
+Managers who succumb to this believe there is only one right way for their
+reports to do their work.
+
+
 
 ## Ch. 7: A tool for developing self-awareness
 
