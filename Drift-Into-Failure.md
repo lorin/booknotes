@@ -70,8 +70,12 @@ Four ingredients of high reliability organizations:
 - Safety certification is about bridging the gap between a piece of gleaming new
     technology in the hand now, and its adapter, coevolved, grimy, greased-down
     wear and use further down the line.
-- Incidents do not precede accidents. Normal work does.
-- The so-called common-cause hypothesis (which holds that accidents and
+- Local decisions that made sense at the time given the goals, knowledge and
+    mindset of decision-makers, can cumulatively become a set of socially
+    organized circumstances that make the system more likely to produce a
+    harmful outcome.
+- Incidents do not precede accidents. Normal work does.  The so-called
+- common-cause hypothesis (which holds that accidents and
     incidents have common causes and that incidents are qualitatively identical
     to accidents except for being just one step short of a true or complete
     failure) is probably wrong for complex systems.
@@ -386,6 +390,15 @@ What matters for people is that the decision (mostly) works in their situation,
 that the decisions they make are achieving their goals as far as they understand.
 
 ### Complexity and drift into failure
+
+Decision makers are locally rational, but local actions can have global effects.
+
+Drift into failure: local decisions that make sense in the context in which they
+were made can accumulate in such a way that they make accidents more likely.
+
+Harmful outcome becomes a routine by-product of the characteristics of the
+complex system itself.
+
 
 (here)
 
