@@ -7,9 +7,10 @@ Sidney, Dekker
 complexity, drift, failure, broken part, Newton-Descartes, diversity, systems
 theory, unruly technology, theory, rational, rational choice theory,
 decrementalism, relationships, high-reliability organizations, normalization of
-deviance, complexity, efficiency, scarcity, competition, initial conditions,
-normal, resilience, Newtonian, complex adaptive systems, cybernetics, local work
-context, local rationality principle
+deviance, complexity, efficiency, uncertainty, scarcity, competition, initial
+conditions, normal, resilience, Newtonian, complex adaptive systems,
+cybernetics, local work context, local rationality principle, cost pressures,
+multiple competing goals
 
 **Message of the book**: complexity of what society and commerce can give rise to
 today is not matched by the theories we have that can explain why such things go
@@ -46,13 +47,12 @@ Systems thinking perspcetive on the five concepts:
 
 Banality of accidents thesis: incidents do not precede accidents. Normal work does.
 
-Features of complex systems
+**Features of complex systems**
 
 1. Complex systems can exhibit tendencies to drift into failure because of uncertainty and competition in their environment. Adaptation to these environmental features is driven by a chronic need to balance resource scarcity and cost pressures with safety.
 2. Drift occurs in small steps.
 3. Complex systems are sensitively dependent on initial conditions.
 4. Complex systems that can drift into failure are characgerized by unruly technology.
-
 
 Four ingredients of high reliability organizations:
 
@@ -253,6 +253,9 @@ Four ingredients of high reliability organizations:
 - We can at best hope and aim to produce authentic stories, stories that are
     true to experience, true to the phenomenology of being there, of being
     suspend inside complexity.
+- Decisions set a precedent, particularly if they generate successful outcomes
+  with less resource expenditure.
+
 
 ## Outline
 
@@ -399,16 +402,45 @@ were made can accumulate in such a way that they make accidents more likely.
 Harmful outcome becomes a routine by-product of the characteristics of the
 complex system itself.
 
+Decisions that local actors make are reasonable at the time that they occur
+given the context. But these decisions end up (unintentionally) constraining and
+shaping how other people make decisions within the system. These earlier decisions are
+end up becoming standard operating procedure, the status quo, the way that
+things are gone. They provide the context for later decisions that get made by
+other actors in other parts of the system.
 
-(here)
+
+> Decisions make good local sense given the limited knowledge available to people in that part of the complex system. But invisible and unacknowledged reverberations of those decisions penetrate the complex system. They become categories of structure, thought and action used by others (for example, a Gaussian copula becomes the risk assessment tool), and they limit or amplify the knowledge available to others (for example, a single risk number). This helps point people’s attention in some directions rather than others, it helps direct and constrain what other people in the complex system will see as sensible, rational or even possible. Wherever we turn in a complex system, there is limited access to information and solutions. Embedded as they are in a complex system, then, individual choices can be rendered unviable, precluding all but a few courses of action and constraining the consideration of other options. They can even become the means by which people discover their or their organization’s very preferences.
+
+Drift occurs when agents within a system are all making local decisions that
+have a cumulative effect, that collectively push the system in a given
+direction. Local decisions lead to a systemwide response because they are made
+in the context of earlier decisions, and because of global properties
+(uncertainty, competition) that nudge decisions in a certain directions.
+
+> Adaptive responses to local knowledge and information throughout the complex
+> system can become an adaptive, cumulative response of the entire system – a
+> set of responses that can be seen as a slow but steady drift into failure.
 
 
-Features of complex systems
+**Features of complex systems**
 
 1. Complex systems can exhibit tendencies to drift into failure because of uncertainty and competition in their environment. Adaptation to these environmental features is driven by a chronic need to balance resource scarcity and cost pressures with safety.
 2. Drift occurs in small steps.
 3. Complex systems are sensitively dependent on initial conditions.
 4. Complex systems that can drift into failure are characgerized by unruly technology.
+
+**Uncertainty and competition**
+
+Agents within a system must deal with uncertainty and competition. When making
+decisions, agents must satisfy multiple goals: safety, resource scarcity, cost
+pressures. They therefore must make tradoeffs, and these tradeoffs occur in the
+many different decisions that happen every day by many agents with a system.
+
+**Drift in small steps**
+
+(here)
+
 
 ## Features of drift
 
