@@ -38,7 +38,7 @@ Five concepts that characterize drift:
 
 Systems thinking perspcetive on the five concepts:
 
-* Resource scarcity and competition, which leads to a chronic need to balance cost pressures with safety. In a complex system, this means that the thousands smaller and larger decisions and trade-offs that get made throughout the system each day can generate a joint preference without central coordination, and without apparent local consequences: production and efficiency get served in people’s local goal pursuits while safety gets sacrificed – but not visibly so;
+* Resource scarcity and competition, which leads to a chronic need to balance cost pressures with safety. In a complex system, this means that the thousands of smaller and larger decisions and trade-offs that get made throughout the system each day can generate a joint preference without central coordination, and without apparent local consequences: production and efficiency get served in people’s local goal pursuits while safety gets sacrificed – but not visibly so;
 * Decrementalism, where constant organizational and operational adaptation around goal conflicts and uncertainty produces small, stepwise normalization where each next decrement is only a small deviation from the previously accepted norm, and continued operational success is relied upon as a guarantee of future safety;
 * Sensitive dependence on initial conditions. Because of the lack of a central designer or any part that knows the entire complex system, conditions can be changed in one of its corners for a very good reason and without any apparent implications: it’s simply no big deal. This may, however, generate reverberations through the interconnected webs of relationships; it can get amplified or suppressed as it modulates through the system;
 * Unruly technology, which introduces and sustains uncertainties about how and when things may fail. Complexity can be a property of the technology-in-context. Even though parts or sub-systems can be modeled exhaustively in isolation (and therefore remain merely complicated), their operation with each other in a dynamic environment generates the unforeseeabilities and uncertainties of complexity;
@@ -65,7 +65,7 @@ Four ingredients of high reliability organizations:
 
 - drift occurs in small steps
 - complex systems are sensitively dependent on initial conditions
-- complex systems that can drift into failure are chaaracterized by unruly technology
+- complex systems that can drift into failure are characterized by unruly technology
 - System thinking is about relationships, not parts
 - Safety certification is about bridging the gap between a piece of gleaming new
     technology in the hand now, and its adapter, coevolved, grimy, greased-down
