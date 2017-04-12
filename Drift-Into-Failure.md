@@ -75,10 +75,10 @@ Four ingredients of high reliability organizations:
     organized circumstances that make the system more likely to produce a
     harmful outcome.
 - Incidents do not precede accidents. Normal work does.  The so-called
-- common-cause hypothesis (which holds that accidents and
-    incidents have common causes and that incidents are qualitatively identical
-    to accidents except for being just one step short of a true or complete
-    failure) is probably wrong for complex systems.
+  common-cause hypothesis (which holds that accidents and
+  incidents have common causes and that incidents are qualitatively identical
+  to accidents except for being just one step short of a true or complete
+  failure) is probably wrong for complex systems.
 - In high-reliability organizations, active searching and exploration for ways
     to do things more safely is preferred over passively adapting to regulation
     or top-down control
