@@ -7,10 +7,10 @@ Sidney, Dekker
 complexity, drift, failure, broken part, Newton-Descartes, diversity, systems
 theory, unruly technology, theory, rational, rational choice theory,
 decrementalism, relationships, high-reliability organizations, normalization of
-deviance, complexity, efficiency, uncertainty, scarcity, competition, initial
+deviance, complexity, efficiency, uncertainty, resource scarcity, competition, initial
 conditions, normal, resilience, Newtonian, complex adaptive systems,
 cybernetics, local work context, local rationality principle, cost pressures,
-multiple competing goals
+multiple competing goals, adaptation
 
 **Message of the book**: complexity of what society and commerce can give rise to
 today is not matched by the theories we have that can explain why such things go
@@ -64,6 +64,7 @@ Four ingredients of high reliability organizations:
 ## Highlights
 
 - drift occurs in small steps
+- In a complex system, however, doing the same thing twice will not predictably or necessarily lead to the same results. Past success cannot be taken as a guarantee of future success or safety.
 - complex systems are sensitively dependent on initial conditions
 - complex systems that can drift into failure are characterized by unruly technology
 - System thinking is about relationships, not parts
@@ -255,6 +256,7 @@ Four ingredients of high reliability organizations:
     suspend inside complexity.
 - Decisions set a precedent, particularly if they generate successful outcomes
   with less resource expenditure.
+- People come to expect and accept deviance from what may have been a previous norm. They have come to believe that things will “probably be fine” and that it will do “a good job”
 
 
 ## Outline
@@ -439,8 +441,20 @@ many different decisions that happen every day by many agents with a system.
 
 **Drift in small steps**
 
-(here)
+In the face of resource scarcity, agents will tend to make small decisions that
+favor saving resources over safety. Dekker calls these "adaptations". They'll
+save time by being a little less vigilant. And, lo and behold, nothing bad
+happened, and so skipping that little extra safety check becomes the norm. They
+become precedents.
 
+> People come to expect and accept deviance from what may have been a previous norm. They have come to believe that things will “probably be fine” and that it will do “a good job”.
+
+
+In a complex system, just becomes something worked before, doesn't mean it will work again.
+
+**Sensitive dependence on initial conditions**
+
+(here)
 
 ## Features of drift
 
