@@ -454,6 +454,19 @@ In a complex system, just becomes something worked before, doesn't mean it will 
 
 **Sensitive dependence on initial conditions**
 
+A small decision early on in a complex system can have far-reaching consequences
+in the future.
+
+> the potential for drift into failure can be baked into a very small decision or event.
+
+BP example: classifying drill site as onshore instead of offshore. This had
+consequences for regulatory and environmental approval proces.
+
+**Unruly technology**
+
+Unruly technologies create *uncertainty*. We can't accurately model/predict the
+behavior of these kinds of technologies.
+
 (here)
 
 ## Features of drift
