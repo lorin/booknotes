@@ -80,6 +80,7 @@ Four ingredients of high reliability organizations:
   incidents have common causes and that incidents are qualitatively identical
   to accidents except for being just one step short of a true or complete
   failure) is probably wrong for complex systems.
+- Drift, in other words, is not just a decrease of a system’s adaptive capacity. It is as much an emergent property of a system’s adaptive capacity.
 - In high-reliability organizations, active searching and exploration for ways
     to do things more safely is preferred over passively adapting to regulation
     or top-down control
@@ -466,6 +467,45 @@ consequences for regulatory and environmental approval proces.
 
 Unruly technologies create *uncertainty*. We can't accurately model/predict the
 behavior of these kinds of technologies.
+
+Examples:
+ - Gaussian copula
+ - Deepwater drilling rigs
+
+**Protective structures interact with the system**
+
+> [C]omplex systems, because of the constant transaction with their environment (which is essential for their adaptation and survival) draw in the protective structure that is supposed to prevent them from failing.
+
+> The protective structures (even those inside an organization itself) that are set up and maintained to ensure safety, are subject to its interactions and interdependencies with the operation it is supposed to control and protect.
+
+Regulators that are supposed to ensure that the system functions safely are
+subject to the same kind of local decision making as the agents that act within
+the system.
+
+Because the protective structure interacts with the system, it is effectively
+part of the system, which means that it is
+vulnerable to the same issues that cause the system to drift into failure in the
+first place.
+
+Examples:
+- Rating agencies during the financial crisis
+- Aviation regulators (described in next chapter)
+- Internal risk management department of Enron
+- Minerals Management Service and "alternative compliance" process for deepwater
+    drilling
+
+Protective structure can actively contribute to the complexity of the system, as
+it is often made of multiple agents that have conflicting goals.
+
+### A great title, a lousy metaphor
+
+"Drift" evokes imagery of reduced adaptation, but that's misleading, it happens
+because of constant adaptation that appears to be successful.
+
+> Drift, in other words, is not just a decrease of a system’s adaptive capacity. It is as much an emergent property of a system’s adaptive capacity.
+
+- Example: Congress diverting funds from ISS led to a changing environment for
+    Space Shuttle Operations, which had to adapt.
 
 (here)
 
