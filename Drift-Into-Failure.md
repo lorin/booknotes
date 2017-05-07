@@ -507,6 +507,42 @@ because of constant adaptation that appears to be successful.
 - Example: Congress diverting funds from ISS led to a changing environment for
     Space Shuttle Operations, which had to adapt.
 
+Failure in complex systems is not just a matter of a few bad decisions or bad
+people that push a system over the edge. It takes more, and longer.
+
+Complex systems are successful *because of* their complexity, not in spite of
+it. This web of relationships is what enables the system to be creative and to
+adapt to challenges in the environment.
+
+Don't think of drift in linear terms, in the sense of a regressive sequence of events that
+occurred in the past.  Instead, think of drift occurring because of constant
+adaptation to what is happening *now*. Drift is a consequence of adaptation.
+
+### Why we must not turn drift into the next folk model
+
+Don't take "drift" too seriously as a metaphor. Adaptation doesn't always go in
+one direction.
+
+Observing that drift happened is hindsight, retrospective.
+
+- outside perspectives
+- new perspectives
+- diversity of perspectives
+- taking the long view
+
+Don't conclude that society is regressing because of the "drift" metaphor.
+
+Encourages post-structural view. Don't assume that drift is either in the story
+or not. There is no fact of the matter, no inherent truth in the story. There
+are no final conclusions, we simply can't know what ever really happened in an
+accident.
+
+Read drift *into* the story instead of *out* of it.
+
+
+> By reading drift into a particular failure, we will probably learn some interesting things. But we will surely miss or misconstrue other things.
+
+
 (here)
 
 ## Features of drift
