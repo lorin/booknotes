@@ -539,13 +539,16 @@ accident.
 
 Read drift *into* the story instead of *out* of it.
 
-
 > By reading drift into a particular failure, we will probably learn some interesting things. But we will surely miss or misconstrue other things.
 
+By *not* reading drift into the story, we might also miss/misconstrue things. 
 
-(here)
+It's an explicit choice on our part whether we read drift into a story or not.
+Depends on what we bring to the story, how much we are willing to dig.
 
 ## Features of drift
+
+[here]
 
 ### Unanswered questions
 
