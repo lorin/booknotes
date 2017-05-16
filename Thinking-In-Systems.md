@@ -8,9 +8,26 @@ Donella H. Meadows
 * feedback loops
 * delays
 * dynamic equilibirum
-* archetypes (common system structures that produce characteristic patterns of
-    behavior)
+* archetypes (common system structures that produce characteristic patterns of behavior)
 * resilience
+* rules
+* goals
+* paradigms
+
+## Book structure
+
+- Part one: System structure and behavior
+    - 1. The basics
+    - 2. A brief visit to the sytems zoo
+- Part two: systems and us
+    - 3. Why systems work so well.
+    - 4. Why systems surprise us.
+    - 5. System traps ... and opportunities.
+- Part three: creating change - in systems and in our philosophy
+    - 6. Leverage points - places to intervene in a system
+    - 7. Living in a world of systems
+
+
 
 ## Guidelines for living in a world of systems
 
@@ -31,3 +48,18 @@ Donella H. Meadows
 15. Don't erod the goal of goodness.
 
 
+## Places to intervene in a system
+(increasing order of effectiveness)
+
+12. Numbers
+11. Buffers
+10. Stock-and-flow structures
+9. Delays
+8. Balancing feedback loops
+7. Reinforcing feedback loops
+6. Information flows
+5. Rules
+4. Self-organization
+3. Goals
+2. Paradigms
+1. Transcending paradigms
