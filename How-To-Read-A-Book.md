@@ -3,8 +3,13 @@
 Book by Mortimer J. Adler & Charles Van Doren
 
 Levels of reading:
- - elementary
- - inspectional reading
+
+ - (1) elementary
+ - (2) inspectional reading I
+ - (2) systematic skimming (pre-reading)
+ - (2) inspectional reading II: superficial reading
+ - (3) analytical reading
+ - (4) syntopical reading
 
 ## Outline
 
@@ -31,7 +36,7 @@ Levels of reading:
         - the problem of comprehension
         - summary of inspectional reading
     5. How to be a demanding reader
-        - the seence of active reading: the four basic questions a reader asks
+        - the sense of active reading: the four basic questions a reader asks
         - how to make a book your own
         - the three kinds of note-making
         - forming the habit of reading
@@ -120,9 +125,9 @@ Levels of reading:
          - the apparent ease of reading social science
          - difficulties of reading social science
          - reading social science literature
-- Part Four: The Ultimate Goalss of reading
+- Part Four: The Ultimate Goals of reading
     20. the fourth level of reading: syntopical reading
-        - the role fo inspection in syntopical reading
+        - the role of inspection in syntopical reading
         - the five steps in syntopical reading
         - the need for objectivity
         - an example of an exercise in syntopical reading: the idea of progress
