@@ -235,7 +235,7 @@ Four ingredients of high reliability organizations:
     wrong.
 - accuracy cannot be achieved in complex systems tsince they defy exhaustive description
 - Authentic stories
-- A story of a complex system is authentific if it succeeds in communicating
+- A story of a complex system is authentic if it succeeds in communicating
   some of the vitality of everyday life in that system
 - In a complex system, there is no objective way to determine whose view is
   right and whose view is wrong, since the agents effectively live in different
