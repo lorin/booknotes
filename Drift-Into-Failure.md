@@ -599,8 +599,15 @@ questions unanswered.
 Without answering those questions, we miss an opportunity to further our
 understanding of safety in complex systems.
 
+Question: Why are there so many parts that appear broken in retrospect but did not at the
+end?
 
-[here]
+How did a maintenance program suddenly become *deficient*?
+
+Our traditional (Newtonian-Cartesian) metaphors show us how things ended up, but not how they got there.
+
+Field is starting to move from looking only at the *sharp-end*  to
+*blunt-end* (organizational, administrative, regulatory) as well.
 
 Systems thinking is about relationships, not parts
 
@@ -609,6 +616,8 @@ carved-out bits. Systems thinking is about non-linearity and dynamics, not about
 linear cause-effect-cause sequences. Systems thinking is about accidents that
 are more than the sum of the broken parts. It is about understanding how
 accidents can happen when no parts are broken, or no parts are seen as broken.
+
+[here]
 
 ### Outlines of drift
 
