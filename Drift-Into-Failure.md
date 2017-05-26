@@ -546,7 +546,7 @@ By *not* reading drift into the story, we might also miss/misconstrue things.
 It's an explicit choice on our part whether we read drift into a story or not.
 Depends on what we bring to the story, how much we are willing to dig.
 
-## Features of drift
+## Ch. 2: Features of drift
 
 Example of Alaska Airlines flight 261 in 2000 where the pilots lost control and
 it crashed into the ocean.
