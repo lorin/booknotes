@@ -548,9 +548,59 @@ Depends on what we bring to the story, how much we are willing to dig.
 
 ## Features of drift
 
-[here]
+Example of Alaska Airlines flight 261 in 2000 where the pilots lost control and
+it crashed into the ocean.
+
+### The broken part
+
+> the jackscrew-nut assembly that holds the horizontal stabilizer had failed, rendering the aircraft uncontrollable.
+
+describes the role of the horizontal stabilizer
+
+jackscrew and nut assembly need adequate lubrication, otherwise the constant
+grinding wears out the thread on either the nut or the screw
+
+> On the surface, the accident seemed to fit a simple category: mechanical failure as a result of poor maintenance. A single component failed because people did not maintain it well. It had not been lubricated sufficiently. This led to the catastrophic failure of a single component. The break instantly rendered the aircraft uncontrollable and sent it plummeting into the Pacific.
+
+
+Because the system have safeguards against individual failures, other things
+had to have gone wrong.
+
+- no suggstion in any checklist that flight crew should divert to nearest
+  possible airport when experiencing horizontal stabilizer trouble
+- crew did nto have guidance on how to fly an airplane with a jammed
+  stabilizer, using the autopilot was "inappropriate". Without guidance,
+  improvising could make the probelm worse.
+- access panel in the tail was too small to adequately perform lubrication task
+- widespread deficiencies in Alaska Airlines' maintenance program
+    - lack of adequate technical data to demonstrate extensions of the
+       lubrication interval would not present a hizard
+    - lack of task-by-task engineering analysis and justification in the
+      process by which manufactureres revise recommended maintenance task
+      intervals and by which airlines establish and revise these intervals
+    - process for measuring how much slack there was in the screw/nut assembly
+      did not meet aircraft manufacturer specifications
+    - on-wing end-play check procedure was never validated and was known to
+      have low reliability
+- shortcomings in regularity oversight by FAA
+- aircraft design that did not account for the loss of the acme nut threads as
+  a catastrophic single-point failure mode
+
+Because of our Western thinking, we are inclined to see the failure in terms of
+a broken component (the jackscrew) that can be explained in terms of other
+broken components (list above)
+
 
 ### Unanswered questions
+
+Explaining failure in terms of failures of other components leaves important
+questions unanswered.
+
+Without answering those questions, we miss an opportunity to further our
+understanding of safety in complex systems.
+
+
+[here]
 
 Systems thinking is about relationships, not parts
 
