@@ -8,12 +8,12 @@ Terms: habit, structural, history, philosophy, science, practical, theoretical
 
 ## Levels of reading
 
-- (1) elementary
-- (2) inspectional reading I
-- (2) systematic skimming (pre-reading)
-- (2) inspectional reading II: superficial reading
-- (3) analytical reading
-- (4) syntopical reading
+- 1. elementary
+- 2. inspectional reading I
+- 2. systematic skimming (pre-reading)
+- 2. inspectional reading II: superficial reading
+- 3. analytical reading
+- 4. syntopical reading
 
 ## Basic questions
 
