@@ -8,14 +8,33 @@ Terms: habit, structural, history, philosophy, science, practical, theoretical
 
 ## Levels of reading
 
-- 1. elementary
-- 2. inspectional reading I
-- 2. systematic skimming (pre-reading)
-- 2. inspectional reading II: superficial reading
-- 3. analytical reading
-- 4. syntopical reading
+1. Elementary
+2. Inspectional reading (systematic skimming & superficial reading)
+3. Analytical reading
+4. Syntopical reading
 
-## Basic questions
+## Inspectional reading I: systematic skimming or pre-reading
+
+p32-35
+
+1. Look at the title page and, if the book has one, its preface.
+2. Study the table of contents to get a sense of the book's structure.
+3. Check the index to estimate the range of topics and crucial terms.
+4. Read the publisher's blurb.
+5. Look at the chapters that seem to be pivotal to its arguments. Look at
+   summary statements in opening and closing pages.
+6. Turn the pages, dipping in here and there, reading a paragraph or two,
+   sometimes several pages in sequence, never more than that. Read the last 2-3
+   pages to get summary info.
+
+## Inspectional reading I: superficial reading
+
+Read straight through without stopping to ponder things you don't understand
+right away.
+
+Read
+
+## Basic questions to answer about a book
 
 pp 46-47
 
