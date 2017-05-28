@@ -599,10 +599,13 @@ questions unanswered.
 Without answering those questions, we miss an opportunity to further our
 understanding of safety in complex systems.
 
-Question: Why are there so many parts that appear broken in retrospect but did not at the
+Questions:
+- Why are there so many parts that appear broken in retrospect but did not at the
 end?
+- How did a maintenance program suddenly become *deficient*?
+- Why did none of the deficiences strike anybody as deficiencies at the time?
+- If somebody did not them, why wasn't that voice persuasive?
 
-How did a maintenance program suddenly become *deficient*?
 
 Our traditional (Newtonian-Cartesian) metaphors show us how things ended up, but not how they got there.
 
