@@ -2,14 +2,41 @@
 
 Book by Mortimer J. Adler & Charles Van Doren
 
-Levels of reading:
+A practical book.
 
- - (1) elementary
- - (2) inspectional reading I
- - (2) systematic skimming (pre-reading)
- - (2) inspectional reading II: superficial reading
- - (3) analytical reading
- - (4) syntopical reading
+Terms: habit, structural, history, philosophy, science, practical, theoretical
+
+## Levels of reading
+
+- (1) elementary
+- (2) inspectional reading I
+- (2) systematic skimming (pre-reading)
+- (2) inspectional reading II: superficial reading
+- (3) analytical reading
+- (4) syntopical reading
+
+## Basic questions
+
+pp 46-47
+
+1. What is this book about, as a whole?
+2. What is being said in detail, and how?
+3. Is the book true, in whole or part?
+4. What of it?
+
+
+## Rules of analytical reading
+
+1. You must know what kind of book you are reading, and you should know this as
+   early in the process as possible, preferably before you begin to read. (p60) 
+2. State the unity of the whole book in a single sentence, or at most a few
+   sentences (a short paragraph). (p75)
+3. Set forth the major parts of the book, and show how these are organized into
+   a whole, by being ordered to one another and to the unity of the whole.
+   (p76)
+4. Define the problem or problems the author is trying to solve. (p92)
+
+Rules summarized on p95.
 
 ## Outline
 
