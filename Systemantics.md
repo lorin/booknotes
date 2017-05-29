@@ -7,7 +7,91 @@ by John Gall
   exploit, reality, malfunction, delusion, fallacy, anergy, expand, unexpected,
   behaves, law, goals, specialization, competition, selection, grow, evolve
 
-## PREFACE II:
+## Table of contents
+
+### Part one: basic theory
+
+#### A. The mysterious ways of systems
+
+1. First principles
+2. Laws of growth
+3. The generalized uncertainty principle
+4. A...B..C..Disaster (feedback)
+5. The power of positive feedback: a warning
+6. What next? (the life cycle of systems)
+
+#### B. Inside and outside
+
+7. The grand illusion
+8. Inside systems
+9. Delusion systems versus systems delusions
+10. Systems-people
+
+#### C. Function and failure
+
+11. Elementary systems-functions
+12. Advanced systems-functions
+13. The system knows (system goals)
+14. Systems-failure (theory of errors)
+15. Glitches, gremlins, bugs
+16. Form, function, failure
+17. Colossal errors
+18. Unexpected interactions
+
+#### D. Communication theory
+
+19. Communication theory
+20. Information
+21. Talking to the system
+
+### Part two: applied systemantics
+
+#### A. systems and self-defense (meta-strategies)
+
+22. How not to solve porblems
+23. The Tao of problem avoidance
+24. The creative tack
+
+#### B. Practical systems-design
+
+25. Design don'ts
+26. Catastrophe theory
+
+#### C. Management and other myths
+
+27. Wishful feedback
+28. Fear of feedback
+29. Feedback and the future
+30. Catalyic managership
+31. The "problem" problem
+32. The limits to grandiosity
+33. Disaster control
+
+#### D. Intervention
+
+34. Where's the problem?
+35. Probing the system
+36. The problem in the solution
+37. Taming systems
+38. The problem in the question
+39. THe net of Indra
+40. Beyond stability
+41. After the solution, what? (the next problem)
+42. Envoi: beyond expertise
+43. Appendix I. Annotated compendium
+44. Appendix II. Self-evaluation quizzes
+45. Appendix III. Readers' tear-out feedback sheet
+46. Appendix IV. horrible examples
+47. Appendix V. Glossary
+48. Appendix VI. Animal exemplars
+49. Appendix VII. List of horrible examples
+50. Biased bibliography and good reading list
+
+
+
+## 43. Appendix I. Annotated compendium
+
+### PREFACE II:
 
 Cherish your exceptions. Cherish your system-failures.
 
@@ -17,7 +101,7 @@ Meta-strategy I: The most effective approach to coping is to learn the basic law
 
 Satir's Summation: Problems are not the problem; coping is the problem.
 
-## Historical Overview
+### Historical Overview
 
 Primal Scenario or Basic Data of Experience: Systems in general work poorly or not at all.
 
@@ -27,7 +111,7 @@ Alternative formulations:
 - Complicated systems seldom exceed five percent efficiency.
 - If anything can go wrong, it will (Murphy's Law)
 
-## Chapter 1: first principles
+### Chapter 1: first principles
 
 Fundamental theorem: New systems generate new problems.
 
@@ -39,7 +123,7 @@ Low of conservation of anergy: The total amount of anergy in the universe is con
 
 Corollary: Systems operate by redistributing anergy into different forms and into accmulations of different sizes.
 
-## Chapter 2: Laws of growth
+### Chapter 2: Laws of growth
 
 Systems expand, and as they expand, they encroach
 
@@ -49,7 +133,7 @@ Big-bang theorem:
 - Systems tend to expand to fill the known universe
 
 
-## Chapter 3: The Generalized Uncertainty Principle
+### Chapter 3: The Generalized Uncertainty Principle
 
 The Generalized Uncertainty Principle (G.U.P.): Systems display antics
 
@@ -59,7 +143,7 @@ West's Wisdom: Reality is more complex than it seems
 
 Climax design theorem (non-additivity theorem): A large system produced by expanding the dimensions of a smaller system does not behave like the smaller system.
 
-## Chapter 4: A...B...C..Disaster (feedback)
+### Chapter 4: A...B...C..Disaster (feedback)
 
 Le Chatelier's Principle: The system always kicks back
 
@@ -68,11 +152,11 @@ Alternatively:
 - Systems get in the way
 - Systems tend to oppose their own proper functions
 
-## Chapter 5: The power of positive feedback: a warning
+### Chapter 5: The power of positive feedback: a warning
 
 Beware of positive feedback
 
-## Chapter 6: What next? The life cycle of systems:
+### Chapter 6: What next? The life cycle of systems:
 
 Systems tend to malfunction conspicuously just after their greatest triumph
 
@@ -86,7 +170,7 @@ Fully prepared for the past (F.P.F.P.):
 Alternatively:
 The ghost of the old system continues to haunt the new.
 
-## Chapter 7: The Grand Illusion
+### Chapter 7: The Grand Illusion
 
 Functionary's falsity: people in systems do not do what the system says they are doing.
 
@@ -100,7 +184,7 @@ A systems-delusion: if Detroit makes it, it must be an automobile.
 
 The naming fallacy: the name is most emphatically not the thing.
 
-## Chapter 8: Inside Systems
+### Chapter 8: Inside Systems
 
 The F.L.A.W. (fundamental law of administrative workings): things are what they are reported to be.
 
@@ -125,7 +209,7 @@ Memory joggers:
 - the chart is not the patient.
 - the dossier is not the person.
 
-## Chapter 9: Delusion systems versus systems delusions
+### Chapter 9: Delusion systems versus systems delusions
 
 The jet travel paradox: when you get there, you're still not there.
 
@@ -133,7 +217,7 @@ Stein's extension: when you do get there, there's no there there.
 
 Manager's mirage: the system takes the credit (for any favorable eventuality).
 
-## Chapter 10: Systems-people
+### Chapter 10: Systems-people
 
 Systems attract systems-people
 
@@ -147,7 +231,7 @@ Rohe's theorem: designers of systems tend to design ways for themselves to bypas
 
 The explotation theorems: if a system can be exploited, it will be exploited.
 
-## Chapter 11: elementary systems-functions
+### Chapter 11: elementary systems-functions
 
 Basic axiom of systems-function: big systems either work on their own or they don't. If they don't, you can't make them.
 
@@ -168,7 +252,7 @@ Rule of Thumb:
 - A complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a working simple system.
 
 
-## Chapter 12: advanced system function
+### Chapter 12: advanced system function
 
 Functional indeterminacy Theorem (F.I.T): in complex systems, malfunction and even total non-function may not be detectable for long periods, if ever.
 
@@ -179,7 +263,7 @@ alternatively: whatever the system has done before, you can be sure it will do i
 
 Briefly: the system continues to do its thing, regardless of circumstances
 
-## Chapter 13: the system knows (system goals)
+### Chapter 13: the system knows (system goals)
 
 Systems develop goals of their own the instant they come into being.
 
@@ -193,7 +277,7 @@ Alternatively:
 - The system behaves as if it has a will to live.
 - The system behaves as if it has a will of its own.
 
-## Chapter 14: Systems-failure (theory of errors)
+### Chapter 14: Systems-failure (theory of errors)
 
 Any large system is going to be operating most of the time in failure mode
 
@@ -207,7 +291,7 @@ Corollary: The crucial variables are discovered by accident
 
 The fail-safe theorem: when a fail-safe system fails, it fails by failing to fail safe
 
-## Chapter 15: Glitches, gremlins, bugs
+### Chapter 15: Glitches, gremlins, bugs
 
 If it doesn't fail here, it will fail there.
 
@@ -219,7 +303,7 @@ Glitch-hunter's theorem:
 - cherish your bugs. Study them.
 - error correction is what we do
 
-## Chapter 16: form, function failure
+### Chapter 16: form, function failure
 
 Wiener's wish: the struture of a machine or an organism is an index of the performance that may be expected of it
 
@@ -231,7 +315,7 @@ Emended form:
 
 Specialized incapacity theorem: as systems grow in size and copmlexity, they tend to lose basic functions
 
-## Chapter 17: Colossal errors
+### Chapter 17: Colossal errors
 
 Large lumps of liability theorem:
 
@@ -248,11 +332,11 @@ total systems theorems:
 - total systems tend to run away (go out of control)
 - a total system in a runaway sequence may be forced to grow rapidly or disintegrate in chaos
 
-## Chapter 18: Unexpected interactions
+### Chapter 18: Unexpected interactions
 
 In setting up a new system, tread softly. You may be disturbing another system that is actually working.
 
-## Chapter 19: Communication theory
+### Chapter 19: Communication theory
 
 The inherent limitation:
 
@@ -267,7 +351,7 @@ Dunn's indeterminacy:
 - The meaning of a communication is the behavior that results
 
 
-## Chapter 20: information
+### Chapter 20: information
 
 Lynd's Lemma: Knowledge for what?
 
@@ -288,17 +372,17 @@ Rule of thumb for missing information:
 - don't bother to look for it. you won't find it.
 - in a closed system, information tends to decrease and hallucination to increase.
 
-## Chapter 21: Talking to the system
+### Chapter 21: Talking to the system
 
 Deregulated dinosaur effect: extra brain in tail, tail wags on own schedule
 
-## Chapter 22: How not to solve problems
+### Chapter 22: How not to solve problems
 
 Inevitability-of-reality fallacy: things have to be the way they are and not otherwise because that's just the way they are.
 
 Unawareness thereom: if you're not aware that you have a problem, how can you call for help?
 
-## Chapter 23: The tao of problem avoidance
+### Chapter 23: The tao of problem avoidance
 
 If you're not there, the accident can happen without you
 
@@ -309,7 +393,7 @@ Meta-strategy II:
 
 Peter's creative incompetence theorem: if you obviously can't do it you probably won't be asked.
 
-## Chapter 24: the creative tack
+### Chapter 24: the creative tack
 
 If something isn't working, don't keep doing it. Do somethinge else instead.
 
@@ -317,7 +401,7 @@ Afterthought: do almost anything else.
 
 Meta-strategy III: For maximum success, feel free to switch systems and even to change goals.
 
-## Chapter 25: design don'ts
+### Chapter 25: design don'ts
 
 Do it without a new system if you can
 
@@ -351,7 +435,7 @@ that is: large amounts of poor data tend to preempt any amount of good data
 
 Brooks' bitter bidding: plan to scrap the first system. You will anyway.
 
-## Chapter 26: Catastrophe Theory
+### Chapter 26: Catastrophe Theory
 
 The Jell-O Principle: When everything correlates with everything else, things will never settle down
 
@@ -359,7 +443,7 @@ Brinkley's Breakthrough: togetherness is great, but don't knock get-away-ness
 
 Edsel's edifying admonitio:n: don't put your name on it until you are sure it will float.
 
-## Chapter 27: Wishful feedback
+### Chapter 27: Wishful feedback
 
 output phobia: output is dagnerous
 
@@ -373,11 +457,11 @@ alternatively: it hasn't fed back until the system changes course
 
 The face-of-the-future theorem: in dealing with the shape of things to come, it pays to be good at recognizing shapes
 
-## Chapter 28: Fear of feedback
+### Chapter 28: Fear of feedback
 
 The first law of systems-survival: a system that ignores feedback has already begun the process of terminal instability.
 
-## Chapter 29: Feedback and the future
+### Chapter 29: Feedback and the future
 
 Boulding's Law: Nature is wise only when feedbacks are rapid
 
@@ -389,7 +473,7 @@ Gall's emendation: the future is no more predictable now than it was in the past
 
 (escape from predestination): when the sytem acts, it participates in the creation of the future. The future is partly determined by what we do now.
 
-## Chapter 30: Catalytic managership
+### Chapter 30: Catalytic managership
 
 Cataylic managership rule: use the spontaneous offerings of the system
 
@@ -397,7 +481,7 @@ Utilization meta-strategy: utilize the principle of utilization
 
 Vernacular variants: if it's for digging a hole it should probably look something like a shovel. If it looks like a shovel, try using it for digging a hole.
 
-## Chapter 31: The 'problem' problem
+### Chapter 31: The 'problem' problem
 
 Great advances do not come out of systems designed to produce great advances.
 
@@ -407,7 +491,7 @@ Ashby's formulation:
 complex systems have complex behaviors
 major advances take place by fits and starts
 
-## Chapter 32: The limits to grandiosity
+### Chapter 32: The limits to grandiosity
 
 The limit theorems:
 a. you can't change just one thing
@@ -433,7 +517,7 @@ Bateson's Whimsy:
 If it's not worth doing, it's worth doing well.
 
 
-## Chapter 33: Disaster control
+### Chapter 33: Disaster control
 
 Minsky's admonition:
 In order to succeed it is necessary to know how to avoid the most likely was to fail.
@@ -441,14 +525,14 @@ In order to succeed it is necessary to know how to avoid the most likely was to 
 Jung's runic riddle:
 If it puts a weapon in your hand, it is aiming at some kind of violence.
 
-## Chapter 34: Where's the problem?
+### Chapter 34: Where's the problem?
 
 In order to be effective, an intervention must introduce a change at the correct logical level.
 
 Meta-strategy V:
 If a problem seems unsolvable, consider that you may have a meta-problem
 
-## Chapter 35: Probing the system
+### Chapter 35: Probing the system
 
 The law of requisite variety: control is exercised by the element with the greatest variety of behavioral responses
 
@@ -456,7 +540,7 @@ But: probing will get you only so far
 
 In fact: in most cases, you can't get there from here
 
-## Chapter 36: The problem in the solution
+### Chapter 36: The problem in the solution
 
 The system is altered by the probe used to test it.
 
@@ -488,7 +572,7 @@ escalating the wrong solution does not improve the outcome. If things are acting
 Or: when problems don't yield to commonsense solutions, look for the thermostat.
 
 
-## Chapter 38: The problem in the question
+### Chapter 38: The problem in the question
 The automatic pilot is not much help with highjackers
 
 If you can't change the sytsem, change the frame - it comes to the same thing
@@ -502,7 +586,7 @@ Meta-strategies:
 5. If your problem seems unsolvable, consider that you may have a meta-problem
 
 
-## Chapter 39: The Net of Indra
+### Chapter 39: The Net of Indra
 
 Any given element of one system is simultaneously an element in an infinity of other systems
 
@@ -513,7 +597,7 @@ There is no such thing as noninvolvment.
 Or at least:
 No noninvolvement here means involvement there.
 
-## Chapter 40: Beyond stabilitiy
+### Chapter 40: Beyond stabilitiy
 
 The second law of systems-survival:
 In order to remain unchanged, the system must change
