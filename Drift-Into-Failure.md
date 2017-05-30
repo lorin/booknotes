@@ -620,9 +620,21 @@ linear cause-effect-cause sequences. Systems thinking is about accidents that
 are more than the sum of the broken parts. It is about understanding how
 accidents can happen when no parts are broken, or no parts are seen as broken.
 
-[here]
+In the above example:
+ - there were changes in regulations and oversight regimes (as always)
+ - underspecified technical procedures and continuous quality developments in
+   aircraft upkeep (procedures are always underspecified, changes in how to
+   conduct maintenance are always ongoing)
+ - this all interacted with what one company and its regular saw as sensible & safe
+
+
+A story of drift is just a story. It's not more true than any other account.
+It's a perspective that is more open to certain properties of socio-technical
+systems (complexity, dynamics, erosion, adaptation).
 
 ### Outlines of drift
+
+[here]
 
 Five concepts that characterize drift:
 
