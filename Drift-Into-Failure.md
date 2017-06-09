@@ -634,6 +634,14 @@ systems (complexity, dynamics, erosion, adaptation).
 
 ### Outlines of drift
 
+In hindsight, trajectory looks certain, inevitable. That's not the case for the
+people who are involved at the time.
+
+Drift may be very difficult to recognize without hindsight.
+
+When there are signs of trouble, we tend to focus on fixing problems with
+components. We don't think in terms of drift.
+
 [here]
 
 Five concepts that characterize drift:
