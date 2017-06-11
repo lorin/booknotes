@@ -6,6 +6,11 @@ A practical book.
 
 Terms: habit, structural, history, philosophy, science, practical, theoretical
 
+General notes:
+
+- If you can't rephrase the important sentences in your own words, you likely
+  don't understand them.
+
 ## Levels of reading
 
 1. Elementary
@@ -52,8 +57,18 @@ pp 46-47
    a whole, by being ordered to one another and to the unity of the whole.
    (p76)
 4. Define the problem or problems the author is trying to solve. (p92)
+5. Find the important words and come to terms. (p98)
+6. Mark the most important sentences in a book and discover the propositions
+   they contain. (p120)
+7. Locate or construct the basic arguments in the book by finding them in the
+   connection of sentences. (p120) *Alternatively*: Find if you can the paragraphs in a book
+   that state its important arguments; but if the arguments are not thus
+   expressed, your task is to construct them, by taking a sentence from this
+   paragraph, and one from that, until you have gathered together the sequence
+   of sentences that state the propositions that compose the argument.
+   (pp 129-130)
 
-Rules summarized on p95.
+Rules summarized on p95, p120.
 
 ## Outline
 
