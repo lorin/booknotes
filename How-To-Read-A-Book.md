@@ -67,6 +67,7 @@ pp 46-47
    paragraph, and one from that, until you have gathered together the sequence
    of sentences that state the propositions that compose the argument.
    (pp 129-130)
+8. Find out what the author's solutions are. (p135)
 
 Rules summarized on p95, p120.
 
