@@ -642,8 +642,6 @@ Drift may be very difficult to recognize without hindsight.
 When there are signs of trouble, we tend to focus on fixing problems with
 components. We don't think in terms of drift.
 
-[here]
-
 Five concepts that characterize drift:
 
 - scarcity and competition
@@ -653,6 +651,28 @@ Five concepts that characterize drift:
 - Contribution of the protective structure
 
 ### Scarcity and competition
+
+Complex systems do not function in isolation. They constantly interact with
+their external environment.
+
+An environment applies constraints on a system: 
+- amount of capital available
+- number of customres reachable
+- qualifications on available empoyees
+- how fast things can be built, developed, driven
+- the existence of competing organizations
+
+Many industries are very competitve. Airlines and deregulation in the 70s as an example.
+
+Jens Rasumssen: work in complex systems is bounded by three types of
+constraints (boundaries):
+1. economic: system can't sustain itself if boundary exceeded
+2. workload: people/tech can't perform their tasks if boundary exceeded
+3. safety boundary: system fails if boundary exceeded
+
+
+[here]
+
 
 This moved Langewiesche to say that Murphy’s law is wrong: everything that can
 go wrong usually goes right, and then we draw the wrong conclusion.
