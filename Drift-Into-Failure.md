@@ -10,7 +10,7 @@ decrementalism, relationships, high-reliability organizations, normalization of
 deviance, complexity, efficiency, uncertainty, resource scarcity, competition, initial
 conditions, normal, resilience, Newtonian, complex adaptive systems,
 cybernetics, local work context, local rationality principle, cost pressures,
-multiple competing goals, adaptation, feedback imbalance
+multiple competing goals, adaptation, feedback imbalance, fine tuning
 
 **Message of the book**: complexity of what society and commerce can give rise to
 today is not matched by the theories we have that can explain why such things go
@@ -700,17 +700,35 @@ trade-offs were perfectly reasonable.
 
 Feedback imbalance: It's easy to quantify the increase in efficiency when
 making trade-offs, but it's not easy to quantify the corresponding reduction in
-safety.
+safety. It may appear as if there's no reduction in safety at all. Example:
+jackscrew assembly where there were no previously reported fatigue problems.
 
+Because of this feedback imbalance, there will be a tendency towards making
+trade-offs towards efficiency in an environment where resources are scarce and
+there are goals to be met. From the outside, this looks like the folks at the
+sharp-end are pushing experiments outside of the system envelope. But from the
+inside, this is just adaptation in the face of constraints.
 
+These adaptations, which start out as deviations from normal behavior, then
+become the normal behavior. This is how people within the system are able to
+achieve their goals ("maximizing capacity utilization but doing so safely;
+meeting technical or clinical requirements, but also deadlines").
 
-[here]
+Those inside of the system may believe that these trade-offs they have made
+haven't sacrificed safety because nothing bad has happened so far. However,
+they may simply have been lucky rather than operating safely. We never know
+when our luck will run out.
 
 
 This moved Langewiesche to say that Murphy’s law is wrong: everything that can
 go wrong usually goes right, and then we draw the wrong conclusion.
 
+### Decrementalism, or small steps
+
+[here]
+
 ### Sensitive dependency on initial conditions
+
 
 Safety certification is about bridging the gap between a piece of gleaming new
 technology in the hand now, and its adapted, coevolved, grimy, greased-down wear
