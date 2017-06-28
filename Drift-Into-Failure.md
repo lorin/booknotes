@@ -10,7 +10,7 @@ decrementalism, relationships, high-reliability organizations, normalization of
 deviance, complexity, efficiency, uncertainty, resource scarcity, competition, initial
 conditions, normal, resilience, Newtonian, complex adaptive systems,
 cybernetics, local work context, local rationality principle, cost pressures,
-multiple competing goals, adaptation
+multiple competing goals, adaptation, feedback imbalance
 
 **Message of the book**: complexity of what society and commerce can give rise to
 today is not matched by the theories we have that can explain why such things go
@@ -664,11 +664,44 @@ An environment applies constraints on a system:
 
 Many industries are very competitve. Airlines and deregulation in the 70s as an example.
 
-Jens Rasumssen: work in complex systems is bounded by three types of
+Jens Rasmussen: work in complex systems is bounded by three types of
 constraints (boundaries):
 1. economic: system can't sustain itself if boundary exceeded
 2. workload: people/tech can't perform their tasks if boundary exceeded
 3. safety boundary: system fails if boundary exceeded
+
+Example of a noncommercial org experiencing these constraints: Air
+Transportation Oversight System (ATOS) experiencing time pressure to complete
+inspections
+
+Resource scarcity/pressure is simply a fact of life.
+
+Consequences of resource pressure:
+- people fight over resources
+- we make tradeoffs
+- management chooses to invest or prioritize in certain areas over others
+
+
+"The pressure expresses itself... in almost all engineering and operational
+trade-offs between strength and cost, between efficiency and diligence."
+
+"working successfully under pressures and resource constraints is a source of professional pride."
+
+The main driver of drift is borne of this conflict between maximizing safety
+and just being able to do the thing at all.
+
+Within this conflict, we deviate more and more from safer but less efficient
+practices.
+
+As we use a system more and more, we learn how the system behaves, and we adapt
+our own behaviors accordingly. We make trade-offs that favor efficiency that,
+in hindsight, appear as poor judgment. However, from our perspective, these
+trade-offs were perfectly reasonable.
+
+Feedback imbalance: It's easy to quantify the increase in efficiency when
+making trade-offs, but it's not easy to quantify the corresponding reduction in
+safety.
+
 
 
 [here]
