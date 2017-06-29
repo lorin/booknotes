@@ -93,6 +93,9 @@ The second stage is rules 5-8, for answering the second basic question.
    Determine which of his problems the author has solved, and which he has not;
    and as the latter decide which the author knew he had failed to solve.
    (p135)
+9. You must be able to say, with reasonable certainty, "I understand," before
+   you can say any one of the following things: "I agree," or "I disagree," or "I
+   suspend judgment" (pp142-143).
 
 Rules summarized on p95, p120, p135.
 
