@@ -18,9 +18,9 @@ by Nancy Leveson
 ## Notes (from A New Accident Model for Enigneering Safer Systems)
 
 Redundancy may even increase risk by adding complexity. All software problems
-detected during the flight testing of a NASA experimental aircraft suing two
+detected during the flight testing of a NASA experimental aircraft using two
 versions of the computer based control system resulted from errors in the
-rdundancy management system added to protect against software errors - the much
+redundancy management system added to protect against software errors - the much
 simpler control software itself worked perfectly. Overconfidence in redundancy
 and misunderstanding of the failure modes of software-implemented components has
 played an important role in recent aerospace accidents, such as the loss of the
@@ -57,6 +57,7 @@ on behavior or by commanding behavior that violates the constraints.
 
 ### Classification of accident factors
 
+```
 1. Inadequate enforcement of constraints (control actions)
     1.1 Unidentified hazards
     1.2 Inappropriate, ineffective, or missing control actions for identified
@@ -81,3 +82,4 @@ on behavior or by commanding behavior that violates the constraints.
     3.2 Communication flaw
     3.3 Time lag
     3.4 Inadequate sensor operation (incorrect or no information provided)
+```
