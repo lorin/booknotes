@@ -469,8 +469,9 @@ Unruly technologies create *uncertainty*. We can't accurately model/predict the
 behavior of these kinds of technologies.
 
 Examples:
- - Gaussian copula
- - Deepwater drilling rigs
+
+- Gaussian copula
+- Deepwater drilling rigs
 
 **Protective structures interact with the system**
 
@@ -725,10 +726,15 @@ go wrong usually goes right, and then we draw the wrong conclusion.
 
 ### Decrementalism, or small steps
 
-[here]
+Example: jackscrew assembly
+
+Initial lubrication schedule was every 300 to 350 flight hours, airplane
+grounded every few weeks for maintenance. Drift happened: lubrication interval
+was eventually extended to 2550 hours by a series of small steps.
 
 ### Sensitive dependency on initial conditions
 
+[here]
 
 Safety certification is about bridging the gap between a piece of gleaming new
 technology in the hand now, and its adapted, coevolved, grimy, greased-down wear
