@@ -98,6 +98,8 @@ The second stage is rules 5-8, for answering the second basic question.
    suspend judgment" (pp142-143).
 10. When you disagree, do so reasonably, and not disputatiously or
     contentiously. (p145)
+11. Respect the difference between knowledge and more personal opinion, by
+    giving reasons for any critical judgment you have. (p150)
 
 Rules summarized on p95, p120, p135.
 
