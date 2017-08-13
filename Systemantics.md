@@ -359,14 +359,15 @@ The Basic Information Theorem (B.I.T.): information decays
 
 Whitehead's variation: knowledge does not keep any better than fish
 
-Rate-of-decay theorem: the most urgently needed information decays fastests
+Rate-of-decay theorem: the most urgently needed information decays fastest
 
 Law of interconvertibility: one system's garbage is another system's precious raw material
 
 inaccessibility theorem:
+
 - the information you have is not the information you want
 - the information you want is not the information you need
-- the information you need is not the informatino you can obtain
+- the information you need is not the information you can obtain
 
 Rule of thumb for missing information:
 - don't bother to look for it. you won't find it.
