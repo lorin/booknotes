@@ -601,6 +601,7 @@ Without answering those questions, we miss an opportunity to further our
 understanding of safety in complex systems.
 
 Questions:
+
 - Why are there so many parts that appear broken in retrospect but did not at the
 end?
 - How did a maintenance program suddenly become *deficient*?
@@ -622,6 +623,7 @@ are more than the sum of the broken parts. It is about understanding how
 accidents can happen when no parts are broken, or no parts are seen as broken.
 
 In the above example:
+
  - there were changes in regulations and oversight regimes (as always)
  - underspecified technical procedures and continuous quality developments in
    aircraft upkeep (procedures are always underspecified, changes in how to
