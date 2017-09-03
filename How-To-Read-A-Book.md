@@ -56,30 +56,28 @@ Rules 1-4 below apply to the first stage (p95)
 
 Rules 5-8 apply to the second stage (p135)
 
-
-The second stage is rules 5-8, for answering the second basic question.
-(p135).
+Rules 9-11 apply to the third stage (p164).
 
 
 1. You must know what kind of book you are reading, and you should know this as
    early in the process as possible, preferably before you begin to read. (p60) 
-   Classify the book according to kind and subject matter (p95).
+   Classify the book according to kind and subject matter (p95, 163).
 2. State the unity of the whole book in a single sentence, or at most a few
    sentences (a short paragraph). (p75)
-   State what the whole book is about with the utmost brevity (p95).
+   State what the whole book is about with the utmost brevity (p95, p163).
 3. Set forth the major parts of the book, and show how these are organized into
    a whole, by being ordered to one another and to the unity of the whole.
    (p76)
    Enumerate its major parts in their order and relation, and outline these
-   parts as you have outlined the whole (p95).
-4. Define the problem or problems the author is trying to solve. (p92)
+   parts as you have outlined the whole (p95, p163).
+4. Define the problem or problems the author is trying to solve. (p92, p163)
    Define the problem or problems the author is trying to solve. (p95).
 5. Find the important words and come to terms. (p98)
-   Come to terms with the author by interperting his key words. (p136)
+   Come to terms with the author by interperting his key words. (p136, p163)
 6. Mark the most important sentences in a book and discover the propositions
    they contain. (p120)
    Grasp the author's leading propositions by dealing with his most important
-   sentences. (p136)
+   sentences. (p136,p163)
 7. Locate or construct the basic arguments in the book by finding them in the
    connection of sentences. (p120) *Alternatively*: Find if you can the paragraphs in a book
    that state its important arguments; but if the arguments are not thus
@@ -88,11 +86,11 @@ The second stage is rules 5-8, for answering the second basic question.
    of sentences that state the propositions that compose the argument.
    (pp 129-130).
    Know the author's arguments, by finding them in, or constructing them out
-   of, sequences of sentences.
+   of, sequences of sentences (p?, p163).
 8. Find out what the author's solutions are. (p135)
    Determine which of his problems the author has solved, and which he has not;
    and as the latter decide which the author knew he had failed to solve.
-   (p135)
+   (p135, p163)
 9. You must be able to say, with reasonable certainty, "I understand," before
    you can say any one of the following things: "I agree," or "I disagree," or "I
    suspend judgment" (pp142-143).
