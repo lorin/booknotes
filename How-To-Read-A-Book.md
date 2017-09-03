@@ -39,7 +39,7 @@ right away.
 
 ## Basic questions to answer about a book
 
-pp 46-47
+pp 46-47, 164-165
 
 1. What is this book about, as a whole?
 2. What is being said in detail, and how?
@@ -102,6 +102,15 @@ The second stage is rules 5-8, for answering the second basic question.
     giving reasons for any critical judgment you have. (p150)
 
 Rules summarized on p95, p120, p135.
+
+## Disagreeing
+
+p156
+
+1. Authors is uninformed
+2. Author is misinformed
+3. Author is illogical -- reasoning is not cogent
+4. Analysis is incomplete
 
 ## Outline
 
@@ -167,7 +176,10 @@ Rules summarized on p95, p120, p135.
     - the importance of avoiding contentiousness
     - on the resolution of disgareements
 11. agreeing or disagreeing with an author
-    - prejudice and jdugment
+    - prejudice and judgment
+        1. Acknowldge the emotions you bring to a dispute
+        2. Make your own assumptions explicit
+        3. Attempt impartiality: read a book sympathetically
     - judging the author's soundness
     - judging the author's completeness
     - the third stage of analytical reasoning
