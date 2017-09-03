@@ -49,15 +49,7 @@ pp 46-47, 164-165
 
 ## Rules of analytical reading
 
-There are two stages, the correspond to the two basic questions mentioned
-above.
-
-Rules 1-4 below apply to the first stage (p95)
-
-Rules 5-8 apply to the second stage (p135)
-
-Rules 9-11 apply to the third stage (p164).
-
+### I. Finding what a book is about
 
 1. You must know what kind of book you are reading, and you should know this as
    early in the process as possible, preferably before you begin to read. (p60) 
@@ -72,6 +64,9 @@ Rules 9-11 apply to the third stage (p164).
    parts as you have outlined the whole (p95, p163).
 4. Define the problem or problems the author is trying to solve. (p92, p163)
    Define the problem or problems the author is trying to solve. (p95).
+
+### II. Interpreting a book's contents
+
 5. Find the important words and come to terms. (p98)
    Come to terms with the author by interperting his key words. (p136, p163)
 6. Mark the most important sentences in a book and discover the propositions
@@ -91,6 +86,11 @@ Rules 9-11 apply to the third stage (p164).
    Determine which of his problems the author has solved, and which he has not;
    and as the latter decide which the author knew he had failed to solve.
    (p135, p163)
+
+### III. Criticitizing a book as a communication of knowledge
+
+#### A. General maxims of intellectual etiquette
+
 9. You must be able to say, with reasonable certainty, "I understand," before
    you can say any one of the following things: "I agree," or "I disagree," or "I
    suspend judgment" (pp142-143).
@@ -99,7 +99,14 @@ Rules 9-11 apply to the third stage (p164).
 11. Respect the difference between knowledge and more personal opinion, by
     giving reasons for any critical judgment you have. (p150)
 
-Rules summarized on p95, p120, p135.
+#### B. Special criteria for poitns of criticism
+
+12. Show wherein the author is uninformed.
+13. Show wherein the author is misinformed.
+14. Show wherein the author is illogical.
+15. Show wherein the author's analysis or account is incomplete.
+
+Rules summarized on p95, p120, p135, pp164-165.
 
 ## Disagreeing
 
