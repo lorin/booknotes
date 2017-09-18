@@ -74,7 +74,7 @@ by John Gall
 36. The problem in the solution
 37. Taming systems
 38. The problem in the question
-39. THe net of Indra
+39. The net of Indra
 40. Beyond stability
 41. After the solution, what? (the next problem)
 42. Envoi: beyond expertise
