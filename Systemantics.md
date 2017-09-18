@@ -396,7 +396,7 @@ Peter's creative incompetence theorem: if you obviously can't do it you probably
 
 ### Chapter 24: the creative tack
 
-If something isn't working, don't keep doing it. Do somethinge else instead.
+If something isn't working, don't keep doing it. Do something else instead.
 
 Afterthought: do almost anything else.
 
