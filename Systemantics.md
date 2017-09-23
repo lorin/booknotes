@@ -430,7 +430,7 @@ Corollary: loose systems have larger interstices
 
 Gresham's law: bad design can rarely be overcome by more design, whether good or bad
 
-Spodick's modificatoin: adding numbers to a bad study doesn't clarify it
+Spodick's modification: adding numbers to a bad study doesn't clarify it
 
 that is: large amounts of poor data tend to preempt any amount of good data
 
