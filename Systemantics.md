@@ -281,7 +281,7 @@ Alternatively:
 
 Any large system is going to be operating most of the time in failure mode
 
-Fundamental failure theorem (F.F.F.T):
+Fundamental failure theorem (F.F.T):
 
 - A system can fail in an infinite number of ways
 - The mode of failure of a complex system cannot ordinarily be determined from its structure.
