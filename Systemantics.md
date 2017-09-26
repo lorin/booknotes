@@ -88,6 +88,33 @@ by John Gall
 50. Biased bibliography and good reading list
 
 
+Detailed notes
+
+## 7. The Grand Illusion
+
+People in systems do not do what the system says they are doing
+
+
+### Functionary's falsity
+In general, the larger and more complex the System, the less the resemblance
+between a particular function and the name it bears. 
+
+### Operational fallacy
+
+The system itself does not do what it says it is doing.
+
+Example: obtaining an apple
+
+* minimal system: walk down to a nearby apple orchard, pick an apple
+* small system: neighborhood grocery. Apples are not quite as fresh
+* large system: supermarket chain. Apples are picked green and ripened in
+  storage in a controlled environment. 
+
+Other examples:
+* Auto industry gives us what it calls "autos", which aren't necessarily whwat
+   we want
+* White bread that we get isn't really what the rest of the world would
+  consider bread
 
 ## 43. Appendix I. Annotated compendium
 
