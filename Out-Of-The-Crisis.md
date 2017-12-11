@@ -17,7 +17,7 @@
 
 ## 14 points for management
 
-1. Create constancy of purpose toward improvemnt of product and service, with
+1. Create constancy of purpose toward improvement of product and service, with
    the aim to become competitive and to stay in business, and to provide jobs.
 2. Adopt the new philosophy. We are in a new economic age. Western management
    must awaken to teh challenge, learn their responsibilites, and take on
