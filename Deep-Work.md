@@ -6,7 +6,6 @@ The Principle of Least Resistance: In a business setting, without clear
 feedback on the impact of various behaviors to the bottom line, we will tend
 toward behaviors that are easiest in the moment.
 
-The first step of this strategy is to identify the main high-level goals in both your professional and your personal life.
 
 ## Table of contents
 
@@ -223,6 +222,131 @@ requires unwavering attention can have a similar effect
 
 *The Any-Benefit Approach to Network Tool Selection:* You’re justified in using a network tool if you can identify any possible benefit to its use, or anything you might possibly miss out on if you don’t use it.
 
+This approach ignores all of the negatives associated with a too.
+
+*The Craftsman Approach to Tool Selection:* Identify the core factors that determine success and happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substantially outweigh its negative impacts.
+
+
+#### Apply the Law of the Vital Few to Your Internet Habits
+
+The first step of this strategy is to identify the main high-level goals in both your professional and your personal life.
+
+Authors goals:
+ * effective teacher in the classroom and mentor to grad stduents
+ * effective researcher
+
+Once you’ve identified these goals, list for each the two or three most important activities that help you satisfy the goal.
+
+These activities should be specific enough to allow you to clearly picture
+doing them. A good activity in this context would be something like: “regularly
+read and understand the cutting-edge results in my field.”
+
+Consider the network tools you currently use. For each such tool, go through the key activities you identified and ask whether the use of the tool has a substantially positive impact, a substantially negative impact, or little impact on your regular and successful participation in the activity.
+
+Keep using this tool only if you concluded that it has substantial positive impacts and that these outweigh the negative impacts.
+
+Example:
+
+Personal Goal: To maintain close and rewarding friendships with a group of people who are important to me. 
+
+Key Activities Supporting This Goal:
+
+1. Regularly take the time for meaningful connection with those who are most important to me (e.g., a long talk, a meal, joint activity).
+2. Give of myself to those who are most important to me (e.g., making nontrivial sacrifices that improve their lives).
+
+*The Law of the Vital Few*: In many settings, 80 percent of a given effect is due to just 20 percent of the possible causes.
+
+#### Quit social media
+
+Try stopping using social media for 30 days (don't tell people, just stop). After thirty days of this self-imposed network isolation, ask yourself the following two questions about each of the services you temporarily quit: 
+
+1. Would the last thirty days have been notably better if I had been able to use this service?
+2. Did people care that I wasn’t using this service?
+
+If your answer is “no” to both questions, quit the service permanently. If your answer was a clear “yes,” then return to using the service.
+
+They’re just products, developed by private companies, funded lavishly, marketed carefully, and designed ultimately to capture then sell your personal information and attention to advertisers.
+
+#### Don’t Use the Internet to Entertain Yourself
+
+Put more thought into your leisure time.
+
+Figure out in advance what you’re going to do with your evenings and weekends before they begin.
+
+Structured hobbies provide good fodder for these hours, as they generate
+specific actions with specific goals to fill your time.
+
+A set program of reading, where you spend regular time each night making
+progress on a series of deliberately chosen books, is also a good option, as
+is, of course, exercise or the enjoyment of good (in-person) company.
+
+If you want to eliminate the addictive pull of entertainment sites on your time and attention, give your brain a quality alternative.
 
 
 ### Rule #4: Drain the Shallows
+
+The shallow work that increasingly dominates the time and attention of knowledge workers is less vital than it often seems in the moment.
+
+There's only so much deep work you can do in a day (1 hour for beginners, up to 4 hours for an expert)
+
+Shallow work, therefore, doesn’t become dangerous until after you add enough to begin to crowd out your bounded deep efforts for the day.
+
+#### Schedule every minute of your day
+
+If your schedule is disrupted, you should, at the next available moment, take a few minutes to create a revised schedule for the time that remains in the day.
+
+Almost definitely you’re going to underestimate at first how much time you require for most things.
+
+*Overflow conditional blocks*: If you’re not sure how long a given activity
+might take, block off the expected time, then follow this with an additional
+block that has a split purpose. it. If you finish the activity on time,
+however, have an alternate use already assigned for the extra block (for
+example, some nonurgent tasks).
+
+Be liberal with your use of task blocks. Deploy many throughout your day and
+mae them longer than required to handle the tasks you plan in the morning.
+
+Decide in advance what you’re going to do with every minute of your workday.
+
+#### Quantify the Depth of Every Activity
+
+*Shallow Work:* Noncognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend not to create much new value in the world and are easy to replicate.
+
+Shallowness metric: How long would it take (in months) to train a smart recent college graduate with no specialized training in my field to complete this task?
+
+#### Ask Your Boss for a Shallow Work Budget
+
+For most people in most non-entry-level knowledge work jobs, the answer to the question will be somewhere in the 30 to 50 percent range.
+
+#### Finish Your Work by Five Thirty
+
+Author doesn't work after 5:30 PM.
+
+He calls this commitment *fixed-schedule productivity*: fix the firm goal of
+not working past a certain time, work backward to find productivity strategies
+that allow him to satsify this declaration.
+
+It takes a lot to convince the author to agree to something that yields shallow work.
+
+In addition to carefully guarding my obligations, I’m incredibly conscientious
+about managing my time. Because my time is limited each day, I cannot afford to
+allow a large deadline to creep up on me, or a morning to be wasted on
+something trivial, because I didn’t take a moment to craft a smart plan.
+
+By ruthlessly reducing the shallow while preserving the deep, this strategy
+frees up our time without diminishing the amount of new value we generate.
+
+Any obligation beyond your deepest efforts is suspect and seen as potentially
+disruptive. Your default answer becomes no, the bar for gaining access to your
+time and attention rises precipitously, and you begin to organize the efforts
+that pass these obstacles with a ruthless efficiency.
+
+#### Become hard to reach
+
+1. Make people who send you e-mail do more work
+    * Make it harder for external people to find your email to reach out to you
+2. Do more work when you send or reply to e-mails
+    * *Process-centric* approach to email, minimizes number of emails you
+      receive and mental clutter they generate. e.g., “I’d love to grab coffee. Let’s meet at the Starbucks on campus. Below I listed two days next week when I’m free. For each day, I listed three times. If any of those day and time combinations work for you, let me know. I’ll consider your reply confirmation for the meeting. If none of those date and time combinations work, give me a call at the number below and we’ll hash out a time that works. Looking forward to it.”
+3. Don't respond
+
