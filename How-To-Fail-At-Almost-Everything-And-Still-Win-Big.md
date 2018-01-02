@@ -442,9 +442,22 @@ Vegetarian flavors:
 Social influence can make it easier: hanging out with fit peopel can cause you
 to become more like them.
 
-### The vegetarian option
+### Healthy eating summary
 
-
+1. Pay attention to your energey level after eating certain foods. Find your
+   pattern.
+2. Remove uneahlthy, energy-draining food from your home.
+3. Stock up on *convenient* healthy food (e.g., apples, nuts, bananas) and let
+   laziness be your copilot in eating right.
+4. Stop eating foods that create feelings of addiction: white rice, white
+   potatoes, desserts, white bread, fried foods.
+5. Eat as much healthy food as you want, whenever you want.
+6. Get enough sleep, because tiredness creates the illusion of hunger.
+7. If your hunger is caused by tiredness, gtry healhty foods with fat, such as
+   nuts, avocados, protein bars, and cheese, to suppress the hungry feeling.
+8. If you're eating for social reasons only, choose the healthiest options
+  with low calories.
+9. Learn how to season your healthy-yet-bland foods.
 
 ## Summary
 
