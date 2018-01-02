@@ -205,6 +205,115 @@ Match your mental state to the task
 
 ### Don't be an asshole
 
+asshole: anyone who chooses to make the lives of others less pleasant for
+reasons that don't appear productive or necessary
+
+Behaviors:
+
+1. Changing the subject to him/herself
+2. Dominating conversation
+3. Bragging
+4. Cheating, lying
+5. Disagreeing with any suggestion, no matter how trivial
+6. Using honetsy as a justification for cruelty
+7. Withholding simple favors out of some warped sense of social justice
+8. Abandoning the rules of civil behavior, such as saying hello or making eye
+   contact
+
+### Priorities
+
+1. Health
+2. Economics: job investments, house
+3. Family, friends and lovers
+4. Local community
+5. Country
+6. World
+
+## Managing your attitude
+
+Best way to manage your attitude is by understanding your basic nature as a
+moist robot that can be programmers for happiness if you understand the user
+interface
+
+* tired people are grumpy, rested people are less so
+* exercise, food, and sleep are first buttons to push to elevate your attitude
+  and raise your energy
+
+Simple trick: increase your ratio of happy thoughts to disturbing thoughts
+
+* try daydreaming wonderful things in your future
+* don't worry that your daydreams are unlikely to come true
+* work on projects that have a real chance of changing the world, helping
+  humanity, and/or making a billion dollars
+* daydream of your idea being a huge success so you can enjoy the feeling
+
+### The power of smiling
+
+* smiling makes you feel better even if your smile is fake
+
+The next time you’re in a gloomy mood, try smiling at a stranger you pass on the street. You’ll be surprised how many people reflexively return the smile, and if you smile often enough, eventually that cue will boot up the happiness subroutine in your brain and release the feel-good chemicals you desire.
+
+### Success premium
+
+* success at anything has a spillover effect on other things
+* take advantage of the effect by becoming good at things that require nothing
+  but practice
+* once you become good at a ew unimportant things (hobbies, sports), habit of
+  success stays with you on more important quests
+
+### Pick the delusion that works
+
+* you shouldn't hestitate to modify your perceptions to whatever makes you
+  happy, because you're probably wrong about the underlying nature of reality
+  anyway.
+
+* I choose to imagine this book will do well because the illusion is highly
+  motivating. It increases my energy.
+
+## Affirmations
+
+Affirmations are the practice of repeating to yourself what you want to achieve
+while imagining the outcome you want.
+
+Can write it, speak it, or just think it in sentence form.
+
+Typical form: "I, Scott Adams, will become an astronaut".
+
+## Association programming
+
+To change youreslf, part of the solution might involve spending more time with
+the people who represent the change you seek
+
+## Happiness
+
+The only reasonable goal in life is maximizing your total lifetime experience of something called happiness.
+
+The single biggest trick for manipulating your happiness chemistyr is being
+able to do what you want, *when* you want.
+
+In your personal life and your career, consider schedule flexibility when
+making any big decision.
+
+Happiness has more to do with where you're heading than where you are.
+
+It's a good idea to have a sport or hobby that leaves you plenty of room to
+improve every year.
+
+*Imagination* is important. If you can't even imagine an improved future, you
+won't be happy no matter how well your life is going right now.
+
+Happiness is the natural state for most people whenever they feel healthy, have
+flexible schedules, and expect the future to be good.
+
+Primary culprit in bad moods is a deficit in one of the big five:
+* flexible schedule
+* imagination
+* sleep
+* diet
+* exercise
+
+
+
 
 ## Summary
 
