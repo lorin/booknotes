@@ -459,6 +459,36 @@ to become more like them.
   with low calories.
 9. Learn how to season your healthy-yet-bland foods.
 
+## Fitness
+
+Be active every day
+
+Three practical ways to schedule exercise in marriage:
+
+1. Join an organized team
+2. Always exercise at the same time every day.
+3. Exercise together (if you both really mean it)
+
+### Motivation to exercise
+
+Never exercise so much in one day that you won't feel like being active the
+next day.
+
+Soreness is like a penalty for exercising.
+
+Exercise becomes a habit when you do it every day without fail.
+
+### Reward
+
+I find it important to reward myself after exercise with a healthy snack that I
+enjoy, some downtime that involves reading interesting articles on my phone, or
+a nice cup of coffee. By putting those pleasures at the immediate end of my
+exercise, I develop a strong association between the exercise and the good
+feelings. It forms a habit.
+
+
+
+
 ## Summary
 
 * Focus on your diet first and get that right so you have energy to *want* to
