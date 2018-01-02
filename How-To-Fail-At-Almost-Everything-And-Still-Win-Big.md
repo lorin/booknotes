@@ -312,6 +312,137 @@ Primary culprit in bad moods is a deficit in one of the big five:
 * diet
 * exercise
 
+### Routine
+
+Find great comfort in routine
+
+### Recap
+
+* Eat right.
+* Exercise.
+* Get enough sleep.
+* Imagine an incredible future (even if you don't believe it).
+* Work toward a flexible schedule.
+* Do things you can steadily improve at.
+* Help others (if you've already helped yourself).
+* Reduce daily decisions to routine.
+
+
+## Diet
+
+Simple diet plan that works for me: I eat as much as I want, of anything I
+want, whenever I want
+
+Change what you want to eat the right kinds of food for enjoyment
+
+Changing food preferences:
+* think of body as a programmable robot as opposed to a fleshy bag full of
+  magic
+
+### Look for the pattern
+
+* Ask yourself how you feel at any given moment and then make a mental note of
+  waht you ate recently
+* simple carbs make the author sleepy: bread, potatoes, white rice
+* try and see if they have that effect
+* alternately, try: fruits, veggies, nuts, salad, fish, or chicken
+* Pasta doesn't make me sleepy and cranky like other simple carbs
+* Peanuts and chees satisfy hunger without making me tired
+
+### The food-exercise connection
+
+* food is the fuel that makes exercise possible
+* if you manage your diet right, you'll want to exercise more, and that will
+  translate into doing so
+
+#### Breaking the simple-carb addiction
+
+* steal willpower from the part of my brain that tries to avoid overeating: eat
+  as much as you want of anything that is not a simple carb
+
+### A diet template from your smart(ish) friend
+
+I can eat as much as I want of the foods on this list, and won't gain a pound
+as long as I stay active:
+
+* bananas
+* protein bars
+* peanuts
+* mixed nuts
+* cheese
+* whole wheat pasta
+* edamame (soybeans)
+* broccoli
+* cauliflower
+* brussel sprouts
+* fish
+* lettuce
+* tomatoes
+* apples
+* pears
+* carrots
+* radishes
+* cucumbers
+* quinoa
+* brown rice
+* berries
+
+I also prepare pasta and keep it in the refrigerator, along with veggies
+steamed in the microwave. When I want something warm and filling, I just mix
+the veggies and pasta, add some butter, microwave the dish for two minutes, and
+add pepper and Parmesan cheese.
+
+As I write this, my fridge is full of prepped, healthy food. There are some cut
+and washed strawberries and blackberries in one plastic container. Another has
+microwaved and cut brussels sprouts. Another has a concoction of quinoa and
+brown rice (that comes precooked) mixed with sautéed edamame, carrots, and
+broccoli. I literally open the lid, drag a small bowl through it and pop it in
+the microwave for two minutes.
+
+We also keep containers of carrots and celery, precut and washed, covered with water, in the fridge.
+
+The trick to eating right is to keep willpower out of the equation for your
+diet.
+
+### Know why you're eating
+
+You tend to eat when you don't have enough sleep
+
+When tiredness sparks hunger, try eating peanuts or mixed nuts to suppress
+appetite. Cheese also works.
+
+When you eat for social reasons (e.g., somebody else in the kitchen) aim for
+the lowest-calorie option (carrots, celery).
+
+### How to make healthy food taste good
+
+Vegetarian flavors:
+
+* Soy sauce
+* Cilantro
+* Lemon
+* Salt
+* Pepper
+* Butter (or butter substitute)
+* Garlic
+* Onion
+* Curry
+* Cheese
+* Tomato sauce
+* Salsa
+* Vegetable broth
+* Honey
+* Salad dressings
+* Balsamic vinegar
+* Black-bean sauce
+* Hot sauce
+
+### Adjusting your lifestyle for healthy eating
+
+Social influence can make it easier: hanging out with fit peopel can cause you
+to become more like them.
+
+### The vegetarian option
 
 
 
