@@ -15,7 +15,7 @@ Strategies on how to become a better technical leader.
 
 - Keep a journal
     *  Write about yourself
-- Everyone wants to feel userful
+- Everyone wants to feel useful
 
 ## Outline
 - Part One: Definition
@@ -30,7 +30,7 @@ Strategies on how to become a better technical leader.
         - I'm not not a manager
 - Part Two: Innovation
     6. The three great obstacles to innovation
-        - Are you aware of waht you had for dessert?
+        - Are you aware of what you had for dessert?
         - Self-blindness: the number one obstacle
         - No-problem syndrome: the number two obstacle
         - Single-solution belief: the number three obstacle
