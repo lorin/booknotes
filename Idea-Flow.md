@@ -22,7 +22,7 @@ I. Visibility
     - The perils of test automation
     - Understanding the problems
     - The deadline effect
-    - STOP making generatlizations
+    - STOP making generalizations
 - Identify the biggest pains
     - Categorize the friction
     - The limits of our brains
