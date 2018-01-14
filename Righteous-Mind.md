@@ -24,11 +24,12 @@ Our intuition is the "elephant" and rationality is the "rider".
 
 The second part is about how there are six aspects of morality:
 
-1. care/harm
-1. fairness/cheating
-1. loyalty/betrayal
-1. authority/subversion
-1. sanctity/degradation
+1. care/harm - care for children
+1. fairness/cheating - defense against free riders
+1. loyalty/betrayal - help form & maintain coalitions
+1. authority/subversion - help form relationships that benefit us in social hierarchies
+1. sanctity/degradation - omnivore's dilemma: protection against pathogens &
+   parasites
 1. liberty/oppression
 
 Liberals (WEIRD) generally only care about care, fairness, and liberty, where
@@ -206,7 +207,20 @@ Haidt, Jonathan. The Righteous Mind: Why Good People Are Divided by Politics and
             - Modularity can help us think about innate receptors, and how they produce a variety of initial perceptions that get developed in culturally variable ways.
             - Five good candidates for being taste receptors of the righteous mind are care, fairness, loyalty, authority, and sanctity.
     7. The moral foundations of politics
-
+        - A note on innateness
+            * Metaphor: First draft is written by genes during fetal development
+            * Not unmalleable, but organized in advance of experience
+        - 1. The care/harm foundation
+        - 2. The fairness/cheating foundation
+        - 3. The loyalty/betrayal foundation
+        - 4. The authority/subversion foundation
+        - 5. The sanctity/degradation foundation
+        - In sum
+            * The Care/harm foundation evolved in response to the adaptive challenge of caring for vulnerable children. It makes us sensitive to signs of suffering and need; it makes us despise cruelty and want to care for those who are suffering.
+            * The Fairness/cheating foundation evolved in response to the adaptive challenge of reaping the rewards of cooperation without getting exploited. It makes us sensitive to indications that another person is likely to be a good (or bad) partner for collaboration and reciprocal altruism. It makes us want to shun or punish cheaters.
+            * The Loyalty/betrayal foundation evolved in response to the adaptive challenge of forming and maintaining coalitions. It makes us sensitive to signs that another person is (or is not) a team player. It makes us trust and reward such people, and it makes us want to hurt, ostracize, or even kill those who betray us or our group.
+            * The Authority/subversion foundation evolved in response to the adaptive challenge of forging relationships that will benefit us within social hierarchies. It makes us sensitive to signs of rank or status, and to signs that other people are (or are not) behaving properly, given their position.
+            * The Sanctity/degradation foundation evolved initially in response to the adaptive challenge of the omnivore’s dilemma, and then to the broader challenge of living in a world of pathogens and parasites. It includes the behavioral immune system, which can make us wary of a diverse array of symbolic objects and threats. It makes it possible for people to invest objects with irrational and extreme values—both positive and negative—which are important for binding groups together.
     8. The conservative advantage
 * Part III: Morality Binds and Blinds
     9. Why are we so groupish?
