@@ -36,11 +36,13 @@ effectively.
 
 ## Keywords
 
-Emile Durkheim, David Hume, elephant & rider, WEIRD (Western educated
-industrial rich democratic), group selection, care/harm, fairness/cheating,
+Emile Durkheim, David Hume,
+elephant & rider, leaning towards & away,
+WEIRD (Western educated industrial rich democratic),
+group selection, care/harm, fairness/cheating,
 loyalty/betrayal, authority/subversion, sanctity/degradation, liberty/opression
 moral foundations theory, 
-Homo duplex, 90% chimp, 10% bee,
+Homo duplex, 90% chimp, 10% bee, hive switch
 nativist, empricist, rationalism,
 rationalist delusion
 
@@ -111,8 +113,26 @@ rationalist delusion
               misunderstand moral reasoning if you think about it as something
               people do by themselves in order to figure out the truth.
             * Therefore, if you want to change someone's mind about a moral or
-              political issue, *talk to the elephant first*.
+              political issue, *talk to the elephant first*. If you ask people
+              to believe something that violates their intuitions, they will
+              devote their efforts to finding an escape hatch-a reason to doubt
+              your argument or conclusion. They will almost always succeed.
     3. Elephants rule
+        1. Brains evaluate instantly and constantly
+        2. Social and political judgments are particularly intuitive
+        3. Our bodies guide our judgments
+        4. Psychopaths reason but don't feel
+        5. Babies feel but don't reason
+        6. Affective reactions are in the right place at the right time in the
+           brain
+        * Elephants are sometimes open to reason
+            - Main way we change mind on moral issues is interacting with other people
+            - If there is affection, admiration, or desire to pleaes other
+              person, elephant leans *toward* that person and rider tries to
+              find truth in other person's argument
+        * 
+
+
     4. Vote for me (here's why)
 * Part II: There's more to morality than harm and fairness
     5. Beyond weird morality
