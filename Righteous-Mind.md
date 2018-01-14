@@ -2,11 +2,15 @@
 
 ## Overview
 
-This book is a descriptive account of the human sense of morality,
+This book is a descriptive account of the intuitive nature of human morality,
 what aspects of morality are universal and what differs across cultures,
 and how morality helps societies function.
 
 Classification: scientific book (pyschology)
+
+Problem the author is trying to solve: what is the nature of human morality,
+how did it evolve, and what advantages does it provide, from an evolutionary
+design perspective?
 
 ## Parts
 
@@ -47,7 +51,8 @@ moral foundations theory,
 Homo duplex, 90% chimp, 10% bee, hive switch
 nativist, empricist, rationalism,
 rationalist delusion,
-moral matrix
+moral matrix,
+moral pluralism
 
 
 ## Central metaphors
@@ -169,7 +174,13 @@ moral matrix
         - Three ethics are more descriptive than one
         - How I became a pluralist
         - Stepping out of the matrix
+        - In sum
+            * The WEIRDer you are, the more you perceive a world full of separate objects, rather than relationships.
+            * Moral pluralism is true descriptively. As a simple matter of anthropological fact, the moral domain varies across cultures.
+            * The moral domain is unusually narrow in WEIRD cultures, where it is largely limited to the ethic of autonomy (i.e., moral concerns about individuals harming, oppressing, or cheating other individuals). It is broader—including the ethics of community and divinity—in most other societies, and within religious and conservative moral matrices within WEIRD societies.
+            * Moral matrices bind people together and blind them to the coherence, or even existence, of other matrices. This makes it very difficult for people to consider the possibility that there might really be more than one form of moral truth, or more than one valid framework for judging people or running a society.
 
+Haidt, Jonathan. The Righteous Mind: Why Good People Are Divided by Politics and Religion (pp. 129-130). Knopf Doubleday Publishing Group. Kindle Edition. 
     6. Taste buds of the righteous mind
     7. The moral foundations of politics
     8. The conservative advantage
