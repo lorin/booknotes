@@ -30,7 +30,8 @@ The second part is about how there are six aspects of morality:
 1. authority/subversion - help form relationships that benefit us in social hierarchies
 1. sanctity/degradation - omnivore's dilemma: protection against pathogens &
    parasites
-1. liberty/oppression
+1. liberty/oppression - defense against alphas: individuals who would dominate small
+   group
 
 Liberals (WEIRD) generally only care about care, fairness, and liberty, where
 conservatives care about all six.
@@ -44,7 +45,7 @@ effectively.
 
 ## Keywords
 
-Emile Durkheim, David Hume,
+Emile Durkheim, David Hume, Robert Trivers, Piaget, Lawrence Kohlberg, Elliot Turiel, Richard Shweder, Robert Trivers, E.O. Wilson,
 elephant & rider, leaning towards & away,
 Glaucon, ring of Gyges
 WEIRD (Western educated industrial rich democratic),
@@ -58,6 +59,14 @@ moral matrix,
 moral pluralism,
 utilitarianism, deontology,
 modularity/modules,
+hierarchy,
+social facts,
+anomie (normlessness),
+fairness: proportionality,
+cooperation,
+gossip & punishment,
+ultrasocial,
+shared intentionality
 
 
 ## Central metaphors
@@ -212,6 +221,8 @@ Haidt, Jonathan. The Righteous Mind: Why Good People Are Divided by Politics and
             * Not unmalleable, but organized in advance of experience
         - 1. The care/harm foundation
         - 2. The fairness/cheating foundation
+            * Robert Trivers: reciprocal altruism
+            * Proportionality
         - 3. The loyalty/betrayal foundation
         - 4. The authority/subversion foundation
         - 5. The sanctity/degradation foundation
@@ -222,8 +233,63 @@ Haidt, Jonathan. The Righteous Mind: Why Good People Are Divided by Politics and
             * The Authority/subversion foundation evolved in response to the adaptive challenge of forging relationships that will benefit us within social hierarchies. It makes us sensitive to signs of rank or status, and to signs that other people are (or are not) behaving properly, given their position.
             * The Sanctity/degradation foundation evolved initially in response to the adaptive challenge of the omnivore’s dilemma, and then to the broader challenge of living in a world of pathogens and parasites. It includes the behavioral immune system, which can make us wary of a diverse array of symbolic objects and threats. It makes it possible for people to invest objects with irrational and extreme values—both positive and negative—which are important for binding groups together.
     8. The conservative advantage
+        - Measuring morals
+        - What makes people vote Republican
+            * Vision of society: John Stuart Mill vs. Emile Durkheim
+            * Mill
+                - individualistic
+                - social contract for mutual benefit
+                - prevent harm to others
+                - exclusively based on care & fairness
+            * Durkheim
+                - over time, people found ways of living together
+                - binding themselves to each other
+                - suppressing each other's selfishness
+                - punishing deviants & free riders who threaten group
+                - Basic social unit: hierarchical structural family
+                - danger: anomie (normlessness)
+                - Stable network of nested & overlapping groups
+                - groups socialize, reshape and care for individuals
+                - if left to own devices, individuals would pursue shallow,
+                - carnal, selfish pleasures
+                - self-control over self-expressoin
+                - duty over rights
+                - loyalty to one's groups over concern for out-groups
+            * Durkheimian society requires loyalty, authority & sanctity
+              foundations
+        - What I had missed
+        - The liberty/opression foundation
+            * self-domestication: humans becamse tamer over time, which helped them cooperate better
+            * The Liberty/oppression foundation, I propose, evolved in response to the adaptive challenge of living in small groups with individuals who would, if given the chance, dominate, bully, and constrain others. The original triggers therefore include signs of attempted domination.
+        - Fairness as proportionality
+            * Recpirocal altruism is not easy to find among nonhuman species
+            * Reciprocal altruism fails to explain why people cooperate in
+              group activities
+            * Egalitarianism more rooted in hatred of domination than love of
+              equality
+            * protect group from cheaters & free riders
+        - Three versus six
+        - In sum
+            * Republicans understand social intuitionist model better than
+              Democrats
+            * Republicans speak more directly to the elephant
+            * Republicans have a better grasp of Moral Foundations Theory
+            * Durkheimian view of society
+                - Basic social unit: family, not individaul
+                - Order, hierarchy & tradition are valued
 * Part III: Morality Binds and Blinds
     9. Why are we so groupish?
+        - Victorious tribes?
+            * Multilevel selection
+        - A fast herd of deer?
+            * group selection
+        - Exhibit A: major transitions in evolution
+            * ultraoscial: live in v. large groups that have some internal
+              structure, enabling them to reap benefits of division of labor
+            * All non-human ultra-socials need to defned a shared nest
+        - Exhibit B: shared intentionality
+
+
     10. The hive switch
     11. Religion is a team sport
     12. Can't we all disagree more constructively
