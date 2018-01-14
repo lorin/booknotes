@@ -66,7 +66,11 @@ fairness: proportionality,
 cooperation,
 gossip & punishment,
 ultrasocial,
-shared intentionality
+shared intentionality,
+coevolution,
+Homo heidelbergensis
+Holocene,
+crossing the Rubicon
 
 
 ## Central metaphors
@@ -288,8 +292,29 @@ Haidt, Jonathan. The Righteous Mind: Why Good People Are Divided by Politics and
               structure, enabling them to reap benefits of division of labor
             * All non-human ultra-socials need to defned a shared nest
         - Exhibit B: shared intentionality
-
-
+            * Chimps can't collaborate
+            * human cognition veered away from that of other primates when our ancestors developed shared intentionality
+        - Exhibit C: genes & cultures coevolve
+            * Major events in human evolution:
+                - 5-7 MYA: ancestors of humans diverge from ancestors of
+                  chimps/bonobos
+                - 4 MYA: Australopithecines (e.g., "Lucy") emerge
+                - 2.4 MYA: Genus Homo emerges, Oldowan tool kit
+                - 1.8 MYA: Acheulean tool kit appears
+                - 500-700 KYA: Shared intentionality enables cumulative culture
+                  & gene-culture coevolution in Homo heilbergensis. Hunting
+                  with spears, plus cooking on hearths, shows much more
+                  collaboraitve groups
+                - 50-70 KYA: modern humans migrate out of Africa & Middle East
+                - 2-7 KYA: Holocene begins; agriculture & herding. Gene-culture
+                  coevolution speeds up, City-states, empires
+         - Exhibit D: evolution can be fast
+         - It's not all about war
+         - In sum
+            * Major transitions produce superorganisms
+            * Shared intentionality generates moral matrices
+            * Genes & cultures coevolve
+            * Evolution can be fast
     10. The hive switch
     11. Religion is a team sport
     12. Can't we all disagree more constructively
@@ -306,3 +331,9 @@ that kids construct their morality entirely from interactions (rationalist,
 Piaget, Kohlberg)
 
 There is more to morality than harm and fairness.
+
+The Rubicon crossing that let our ancestors function so well in their groups
+was the emergence of the uniquely human ability to share intentions and other
+mental representations.
+
+Haidt, Jonathan. The Righteous Mind: Why Good People Are Divided by Politics and Religion (p. 254). Knopf Doubleday Publishing Group. Kindle Edition. 
