@@ -1,5 +1,7 @@
 # The Righteous Mind by Jonathan Haidt
 
+See also <http://www.moralfoundations.org/>
+
 ## Overview
 
 This book is a descriptive account of the intuitive nature of human morality,
@@ -52,7 +54,9 @@ Homo duplex, 90% chimp, 10% bee, hive switch
 nativist, empricist, rationalism,
 rationalist delusion,
 moral matrix,
-moral pluralism
+moral pluralism,
+utilitarianism, deontology,
+modularity/modules,
 
 
 ## Central metaphors
@@ -182,7 +186,27 @@ moral pluralism
 
 Haidt, Jonathan. The Righteous Mind: Why Good People Are Divided by Politics and Religion (pp. 129-130). Knopf Doubleday Publishing Group. Kindle Edition. 
     6. Taste buds of the righteous mind
+        * The birth of moral science
+        * Attack of the systemizers
+        * Benthan and the utilitarian grill
+        * Kant and the deontological diner
+        * Getting back on track
+        * Broadening the palate
+        * Moral foundations theory
+            - Modules are like little switches in the brains of all mammals
+            - They are switched on by patterns that were important for survival
+              in a particular ecological niche
+            - Example: reacting with fear when seeing a snake (snake detector)
+            - original triggers (real snakes) vs current triggers (real snokes,
+              toy snakes, curved sticks, thick ropes, etc.)
+        * In sum
+            - Morality is like taste in many ways—an analogy made long ago by Hume and Mencius.
+            - Deontology and utilitarianism are “one-receptor” moralities that are likely to appeal most strongly to people who are high on systemizing and low on empathizing.
+            - Hume’s pluralist, sentimentalist, and naturalist approach to ethics is more promising than utilitarianism or deontology for modern moral psychology. As a first step in resuming Hume’s project, we should try to identify the taste receptors of the righteous mind.
+            - Modularity can help us think about innate receptors, and how they produce a variety of initial perceptions that get developed in culturally variable ways.
+            - Five good candidates for being taste receptors of the righteous mind are care, fairness, loyalty, authority, and sanctity.
     7. The moral foundations of politics
+
     8. The conservative advantage
 * Part III: Morality Binds and Blinds
     9. Why are we so groupish?
