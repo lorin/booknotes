@@ -53,7 +53,7 @@ WEIRD (Western educated industrial rich democratic),
 group selection, care/harm, fairness/cheating,
 loyalty/betrayal, authority/subversion, sanctity/degradation, liberty/opression
 moral foundations theory, 
-Homo duplex, 90% chimp, 10% bee, hive, hive switch
+Homo duplex, 90% chimp, 10% bee, hive, hive switch, Multilevel selection,
 nativist, empricist, rationalism, functionalism,
 rationalist delusion,
 moral matrix,
@@ -432,6 +432,12 @@ Haidt, Jonathan. The Righteous Mind: Why Good People Are Divided by Politics and
             - Emile Durkheim: binding foundations of loyalty, authority, and
               sanctity
         * Be suspicious of moral monists
+    - Part III
+        * Morality binds and blinds
+        * Heroes
+            - Charles Darwin: evolution incl. multilevel selection
+            - Emile Durkheim: Homo duplex
+        * Hive switch
 
 ## Miscellaneous notes
 
