@@ -45,7 +45,7 @@ effectively.
 
 ## Keywords
 
-Emile Durkheim, David Hume, Robert Trivers, Piaget, Lawrence Kohlberg, Elliot Turiel, Richard Shweder, Robert Trivers, E.O. Wilson, Putnam,
+Emile Durkheim, David Hume, Robert Trivers, Piaget, Lawrence Kohlberg, Elliot Turiel, Richard Shweder, Robert Trivers, E.O. Wilson, Robert Putnam,
 Tetlock, Ariely, Simon Baron-Cohen,
 elephant & rider, leaning towards & away,
 Glaucon, ring of Gyges
@@ -74,7 +74,8 @@ Holocene,
 crossing the Rubicon,
 synchronization,
 agency detection,
-moral capital
+moral capital,
+Manichaeism
 
 
 ## Central metaphors
@@ -401,7 +402,36 @@ Haidt, Jonathan. The Righteous Mind: Why Good People Are Divided by Politics and
                   that sustain a moral community
                 - Medium care, medium liberty, medium fairness, medium loyalty,
                   medium authority, medium sanctity
+            * Counterpoint #2: you can't help the bees by destroying the hive
+        - Toward more civil politics
+            - Persian prophet Mani: visible world is battleground between light
+              & darkness
+            - Mani's preaching developed into Manichaeism
+            - If you think about politics in a Manichaean way, compromise is a sin
+        - In sum
+            * People don't adopt ideologies at random
+            * People dont' soak up whatever ideas are around them
+            * People whose genes gave them brains that get a special pleasure from novelty, variety, and diversity, while simultaneously being less sensitive to signs of threat, are predisposed (but not predestined) to become liberals
+            * They tend to develop certain “characteristic adaptations” and “life narratives” that make them resonate—unconsciously and intuitively—with the grand narratives told by political movements on the left (such as the liberal progress narrative).
+            * Same thing happens ont he rgiht
+            * Once people join a political team, they get ensared in its moral
+              matrix
 * Conclusion
+    - Part I
+        * Intuitions come first, strategic reasoning secont
+        * Heroes
+            - David Hume: intuitionism not rationalism
+            - Glaucon: importance of reputation for creating moral order
+        * Small rider on a very large elephant
+    - Part II
+        * There's more to morality than harm and fairness
+        * Six taste receptors
+        * Moral foundations theory
+        * Heroes
+            - Richard Shweder: broadening our understanding of the moral domain
+            - Emile Durkheim: binding foundations of loyalty, authority, and
+              sanctity
+        * Be suspicious of moral monists
 
 ## Miscellaneous notes
 
