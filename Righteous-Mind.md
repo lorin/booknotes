@@ -45,15 +45,16 @@ effectively.
 
 ## Keywords
 
-Emile Durkheim, David Hume, Robert Trivers, Piaget, Lawrence Kohlberg, Elliot Turiel, Richard Shweder, Robert Trivers, E.O. Wilson,
+Emile Durkheim, David Hume, Robert Trivers, Piaget, Lawrence Kohlberg, Elliot Turiel, Richard Shweder, Robert Trivers, E.O. Wilson, Putnam,
+Tetlock, Ariely, Simon Baron-Cohen,
 elephant & rider, leaning towards & away,
 Glaucon, ring of Gyges
 WEIRD (Western educated industrial rich democratic),
 group selection, care/harm, fairness/cheating,
 loyalty/betrayal, authority/subversion, sanctity/degradation, liberty/opression
 moral foundations theory, 
-Homo duplex, 90% chimp, 10% bee, hive switch
-nativist, empricist, rationalism,
+Homo duplex, 90% chimp, 10% bee, hive, hive switch
+nativist, empricist, rationalism, functionalism,
 rationalist delusion,
 moral matrix,
 moral pluralism,
@@ -70,7 +71,10 @@ shared intentionality,
 coevolution,
 Homo heidelbergensis
 Holocene,
-crossing the Rubicon
+crossing the Rubicon,
+synchronization,
+agency detection,
+moral capital
 
 
 ## Central metaphors
@@ -94,6 +98,7 @@ crossing the Rubicon
             * Kohlberg's influence
         - An easier test
             * Elliot Turiel: research with kids about morality
+            * Turiel defines morality: justice, rights and welfare
         - Meanwhile, in the rest of the world...
             * Author read ethnographies
             * Notions of purity in morality
@@ -202,6 +207,10 @@ Haidt, Jonathan. The Righteous Mind: Why Good People Are Divided by Politics and
     6. Taste buds of the righteous mind
         * The birth of moral science
         * Attack of the systemizers
+            - Simon Baron-Cohen: there are two spectra related to autism (cognitive style)
+                * empathizing: the drive to identify another person’s emotions and thoughts, and to respond to these with an appropriate emotion.
+                * systemizing: the drive to analyse the variables in a system, to derive the underlying rules that govern the behaviour of the system.
+            - Kant & Bentham were low empathsizers & high systemizers
         * Benthan and the utilitarian grill
         * Kant and the deontological diner
         * Getting back on track
@@ -316,11 +325,85 @@ Haidt, Jonathan. The Righteous Mind: Why Good People Are Divided by Politics and
             * Genes & cultures coevolve
             * Evolution can be fast
     10. The hive switch
+        - No subtitle
+            * muscular bonding: moving together in time (e.g. synchronized
+              drilling) shuts down self & creates temporary super-organism
+            * enables people to function as a unit
+            * Men in battle risk their lives for comrades-in-arms, not country
+              or ideals
+        - The hive hypothesis
+            * Hypothesis: human beings are conditional hive creatures
+        - Collective emotions
+            * Barbara Ehrenreich: Dancing in the streets: a history of
+              collective joy
+            * ecastic dancing
+            * Homo duplex: 
+        - So many ways to flip the switch
+            1. Awe in nature
+            2. Durkheimogens
+                * Drugs
+            3. Raves
+        - The biology of the hive switch
+            * oxytocin
+            * mirror neurons
+        - Hives at work
+            * In order to foster hive switch
+                - Increase similarity, not diversity
+                - Exploit synchrony
+                - Create healthy competition among teams, not individuals
+        - Political hives
+        - In sum
     11. Religion is a team sport
+        - The lone believer
+        - The new athiest story: by-products, then parasites
+            * hypersensitive agency detection advice
+        - A better story: by-products, then cultural
+        - group selection
+        - The Durkheimian story: by-products, then maypoles
+        - Is God a force for good or evil?
+        - Chimps and bees and Gods
+        - The definition of morality (at last)
+            * Moral systems: interlocking sets of values, virtues, norms, practices, identities, institutions, technologies, and evolved psychological mechanisms that work together to suppress or regulate self-interest and make cooperative societies possible.
+            * above is a functionalist definition
+        - In sum
+            * Durkheimian approach to religion focuses on belonging
+            * Darwinian approach to morality involves multilevel selection
+            * Religious practices bound our ancestors into groups
+            * Blinding: once something is sacred, devotees can no longer
+              question it or think clearly about it
     12. Can't we all disagree more constructively
+        - A note about political diversity
+        - From genes to moral matrices
+        - Step 1: genes make brains
+        - Step 2: traits guide children along different paths
+        - Step 3: people construct life narratives
+        - The grand narratives of liberalism and conservatism
+            * Liberal progress narrative
+            * Conservative heroism narrative of defense
+        - The left's blind spot: moral capital
+        - A yin and two yangs
+        - Yin: liberal wisdom
+            * Liberal moral matrix
+                - Most sacred value: care for victims of oppression 
+                - high care, medium high liberty, medium
+              fairness, low loyalty, authority, sanctitiy
+            * Point #1: governments can and should restrain corporate
+              superorganisms
+            * Point #2: some problems really can be solved by regulation
+        - Yang #1: libertarian wisdom
+            * Libertarian moral matrix
+                - Most sacred value: individual liberty
+                - High liberty, medium fairness, low care, loyalty, authority, sanctity
+            * Counterpoint #1: markets are miraculous
+        - Yang #2: social conservative wisdom
+            * social conservative moral matrix
+                - Most sacred value: preserve the instuttions and traditions
+                  that sustain a moral community
+                - Medium care, medium liberty, medium fairness, medium loyalty,
+                  medium authority, medium sanctity
 * Conclusion
 
-## Raw notes
+## Miscellaneous notes
 
 Humans are intuitionists, our moral judgments are based on rational analysis.
 
@@ -336,4 +419,32 @@ The Rubicon crossing that let our ancestors function so well in their groups
 was the emergence of the uniquely human ability to share intentions and other
 mental representations.
 
-Haidt, Jonathan. The Righteous Mind: Why Good People Are Divided by Politics and Religion (p. 254). Knopf Doubleday Publishing Group. Kindle Edition. 
+Hive hypothesis: human beings are conditional hive creatures: under special
+conditions, can transcend self-interest and lose ourselves in something larger
+than ourselves.
+
+Homo duplex: a creature who exists at two levels: as an individual and as part
+of the larger society.
+
+Liberal narrative:
+
+> Once upon a time, the vast majority of human persons suffered in societies and social institutions that were unjust, unhealthy, repressive, and oppressive. These traditional societies were reprehensible because of their deep-rooted inequality, exploitation, and irrational traditionalism.… But the noble human aspiration for autonomy, equality, and prosperity struggled mightily against the forces of misery and oppression, and eventually succeeded in establishing modern, liberal, democratic, capitalist, welfare societies. While modern social conditions hold the potential to maximize the individual freedom and pleasure of all, there is much work to be done to dismantle the powerful vestiges of inequality, exploitation, and repression. This struggle for the good society in which individuals are equal and free to pursue their self-defined happiness is the one mission truly worth dedicating one’s life to achieving.
+
+Conservative narrative:
+
+> Once upon a time, America was a shining beacon. Then liberals came along and erected an enormous federal bureaucracy that handcuffed the invisible hand of the free market. They subverted our traditional American values and opposed God and faith at every step of the way.… Instead of requiring that people work for a living, they siphoned money from hardworking Americans and gave it to Cadillac-driving drug addicts and welfare queens. Instead of punishing criminals, they tried to “understand” them. Instead of worrying about the victims of crime, they worried about the rights of criminals.… Instead of adhering to traditional American values of family, fidelity, and personal responsibility, they preached promiscuity, premarital sex, and the gay lifestyle … and they encouraged a feminist agenda that undermined traditional family roles.… Instead of projecting strength to those who would do evil around the world, they cut military budgets, disrespected our soldiers in uniform, burned our flag, and chose negotiation and multilateralism.… Then Americans decided to take their country back from those who sought to undermine it.
+
+
+
+
+## Review
+
+Haidt is one of the rare social scientists who writes well, which makes reading
+this book a treat.
+
+Weaves a narrative from his own primary research, development psychology,
+evolutionary psychology, anthropology, sociology, and philosophy.
+
+
+
+
