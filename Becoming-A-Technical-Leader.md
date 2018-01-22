@@ -4,6 +4,7 @@ Book by Gerald Weinberg
 
 Strategies on how to become a better technical leader.
 
+
 - MOI: model
     * Motivation
     * Organization
@@ -12,6 +13,8 @@ Strategies on how to become a better technical leader.
 - Understand the problem
 - Manage the flow of ideas
 - Control quality
+
+- Ravine-plateau model of growth
 
 - Keep a journal
     *  Write about yourself
@@ -70,6 +73,20 @@ Strategies on how to become a better technical leader.
     23. Finding time to change
     24. Finding suport for change
 - Epilogue
+
+## Ch. 5: How leaders develop
+
+How author improved in pinball.
+
+Ravine-plateau model of growth.
+
+### Practice makes perfect
+
+### The great leap forward
+
+### Falling into the ravine
+
+### Growth in the real world
 
 ## Ch. 5: But I can't because
 
