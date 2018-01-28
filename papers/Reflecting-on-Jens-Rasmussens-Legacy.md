@@ -46,7 +46,20 @@ contours of what is called ‘a strong program for a hard problem’.
 6. Intermediate comments
 7. A new vision for accident and safety
 	* Degree of freedom, self-organnisation and defence-in-depth fallacy
-	* A 'normal accident' perspective, as the product of organi
+	* A 'normal accident' perspective, as the product of organisational
+      migration towards the boundary of acceptable performance
+    * Rasmussen's Ashbyan version of normal accidents
+8. Investigating accidents
+    - Causality, stop rules and goals
+    - Accimap
+9. The whole is more than the sum of its parts
+    - A socio-technical perspective based on feedback loops
+    - Concerning the managerial issue
+    - Safety science as cross-disciplinary problem driven research and a
+      convergence of human science paradigms
+    - 'A strong program for a hard problem'
+10. Conclusion
+
 ## Notes
 
 * Emphasized importance of studying real life situations instead of experimental data
@@ -60,6 +73,10 @@ contours of what is called ‘a strong program for a hard problem’.
   the defenses has no immediate, visible effect and then may not be observed in
   action. In this situation the boundary of safe behaviour of one particular
   actor depends on the possible violation of defenses by other actors.*
+* Boundaries:
+    - boundary of functionally acceptable performance
+    - boundary to economic failure
+    - boundary to unnaceptable work load
 
 ### Skill-rule-knowledge (SKR) model
 
@@ -90,6 +107,41 @@ contours of what is called ‘a strong program for a hard problem’.
 From <http://www.macroresilience.com/2011/12/29/people-make-poor-monitors-for-computers/> quoting James Reason:
 
 > the system very often does not respond actively to single faults. Consequently, many errors and faults made by the staff and maintenance personnel do not directly reveal themselves by functional response from the system. Humans can operate with an extremely high level of reliability in a dynamic environment when slips and mistakes have immediately visible effects and can be corrected……Violation of safety preconditions during work on the system will probably not result in an immediate functional response, and latent effects of erroneous acts can therefore be left in the system. When such errors are allowed to be present in a system over a longer period of time, the probability of coincidence of the multiple faults necessary for release of an accident is drastically increased. Analyses of major accidents typically show that the basic safety of the system has eroded due to latent errors.
+
+### Normal accident threads
+
+* Ellulian
+    - Technological determinism
+    - Technology out of control
+    - Technology is subverise
+    - J. Ellul: autonomy of technology
+    - Ch. Perrow: normal accidents
+* Kuhnian
+    - Fallible constructs
+    - epistemic
+    - constructivist
+    - failure of foresight
+    - institutional views are unable to consider possibility of events or to integrate anomalies early
+      enough to be modified accordingly beofre an accident
+    - T. Kuhn: Paradigm shift
+    - B. Turner: incubation periods (anomalies do not challenge worldview)
+    - K. Weick: collapse of sensemaking
+    - D. Vaughan: normalisation of deviance
+* Ashbyan
+    - Self organised, emergent systems
+    - cybernetics
+    - R Ashby: self-organising systems
+    - J Rasmussen: self-organised migration
+    - S. Snook: Practical drift
+    - E. Hollnagel: resonance
+
+
+### Role of managers
+1. Information - boundaries of acceptable performance should be visible
+2. Competency - decision makers should be competent
+3. Awareness - decision makers should be aware of safety implications of their
+   actions.
+4. Commitment - adequate resources should be present to maintain defences.
 
 [doi]: https://doi.org/10.1016/j.ssci.2014.03.015
 [cul]: http://www.citeulike.org/user/lorin/article/14525475
