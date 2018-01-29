@@ -3,7 +3,9 @@
 ## Terms
 
 human error, hindsight, bad apples, accountability, justice, hindsight,
-safety, sharp end, blunt end, micro-matching, cherry-picking, shopping-bagging
+safety, sharp end, blunt end, micro-matching, cherry-picking, shopping-bagging,
+loss of situational awareness, risk, thematic vagabonding, cognitive fixation,
+emergence, control
 
 ## Table of contents
 
@@ -45,19 +47,85 @@ safety, sharp end, blunt end, micro-matching, cherry-picking, shopping-bagging
         - Putting data in context
     * Putting data in context
         - Out of context I: micro-matching
-            * a procedure or collection of rules
-            * a set of cues
-            * standards of good practice taht people's behavior falls short of
+            * a procedure or collection of rules: people not following
+              procedure
+            * a set of cues: people missed cues or data
+            * standards of good practice that people's behavior falls short of
         - Imposing procedures onto history
         - Imposing available data onto history
         - Standrads of good practice
         - Out of context II: cherry-picking
+            * grouping and labeling behavior fragments
         - Out of context III: the shopping bag
-
-
-
+            * sweep together all evidence people should have seen
+    * Leaving a trace
+        - Underspecified labels
+        - Operationalizing the label
+    * Constructing causes
+        - 'Human error' or mechanical failure?
+        - The construction of cause
+        - There is no "root" cause
+    * Analyzing the blunt end
+    * Making recommendations
+        - Explanatory versus change factors
+            * explanatory factors explain the data from one particular sequence
+              of events
+            * change factors are levers for improvement or prevention
+        - Smart recommendations
+            * specific
+            * measurable
+            * agreed (or at least agreeable)
+            * realistic
+            * time-bound
+    * How to introduce your next 'human error' investigation
+        - The aim of this 'human error' investigation
+        - A word on hindsight
+        - The scope of this 'human error' analysis
+        - A word on time
+        - A word on investigating versus learning
 4. Explaining the patterns of breakdown
+    * Cognitive fixation
+        - Dynamic fault management
+    * Plan continuation
+        - Why not make a go-around?
+    * Fatigue
+        - workload intensitiy (or inactivity)
+        - sustained effort
+        - physical and psychological exertion
+        - sleep depreivation or other sleep disturbances
+        - time of day effects
+        - circadian desynchronization
+        - vigilance effects
+        - cognitive slowing
+        - memory effects
+        - lapsing (micro-sleeps)
+    * Buggy and inert knowledge
+    * New technology and computerization
+        - Examples
+            - mode error
+            - getting lost in display architectures
+            - Not coordinating computer entries
+            - Workload
+            - Data overload
+            - Not noticing changes
+        - How to notice that something is not happening
+        - Automation surprises
+        - Speed tapes: how a cockpit knows its speed
+        - More technology, higher performance expectations
+    * Procedural adaptations
+    * Don't use "loss of situation awareness"
+        - "Loss of situation awareness" puts you outside, in hindsight
+        - "Loss of situation awareness" is based on seventeenth-century
+          thinking
+        - "Loss of situation awareness" causes accidents and puts people in
+          jail
+    * Don't use "complacency"
 5. Understanding your accident model
+    * Chain of events
+        - Please stop using the triangle
+    * Barriers
+    * Systems theory
+        
 6. Creating an effective safety department
 7. Building a safety culture
 8. Abandoning the fallacy of a quick fix
@@ -142,6 +210,25 @@ What you believe should have happened does not explain other people’s behavior
 
 To understand error, take the view from the inside of the tunnel and stop saying what people failed to do or should have done.
 
+Cause is not something you find. Cause is something you construct.
+* Selective
+* Exclusive (leaves things out)
+* Oversimplified
+
+What is the cause of the accident? This question is just as bizarre as asking what *the* cause is of not having an accident.
+
+In plan continuation, early and strong cues suggest that sticking with the original plan is a good, and safe, idea. Only later, and weaker, cues suggest that abandoning the plan would be better. In hindsight, it is easy to forget to see the cues from the point of view of people at the time, and when and how strongly they appeared.
+
+“Loss of situation awareness” is the difference between what you know now, and what other people knew back then. And then you call it their loss.
+
+Using complacency is an investigative cop-out. Guess who is being ‘complacent’ when you use the term in your investigation!
+
+A continued belief in the triangle can probably make your industry less safe.
+It rocks you to sleep with the lullaby that the risk of major accidents or
+fatalities is under control as long as you don’t show minor injuries, events or
+incidents.
+
+The barrier, or defenses-in-depth, model, is still a chain-of-events model too. One breach needs to precede the next. Also, the final link in the chain is an “unsafe act” by a frontline operator. A ‘human error’ in other words.
 
 ## Notes
 
@@ -167,6 +254,112 @@ incorporating blunt end policies and priorities and design choices and how
 these help drive people’s goals and practices at the sharp end.
 
 In order to understand other people’s assessments and actions, you must try to attain the perspective of the people who were there at the time.
+
+Cause is not something you find. Cause is something you construct. How you
+construct it, and from what evidence, depends on where you look, what you look
+for, who you talk to, what you have seen before and likely on who you work for.
+
+In order to push a well-defended system over the edge (or make it work safely), a large number of contributory factors are necessary and only jointly sufficient.
+
+* **Start at the blunt end**, not the sharp end.
+* Make sure, through what you find, that you identify the **organization's model(s) of risk**
+* Trace the difference between **work as imagined and work as actually done**
+* Allow the reader to understand **what made the difference** on the day of the
+  accident.
+
+Do not rely on ‘human error’ or “unsafe acts” to explain the difference—that is
+the cheap way out. Remember that people come to work to do a good job. The way
+they have learned to adapt around technical difficulties, resource constraints
+and efficiency pressures, however, may not be well-suited for all conditions in
+a complex, changing world.
+
+The question is not what people should have done in order to avoid the outcome
+we now know (that is, given our understanding of the situation). The question
+is why people did what they did given their understanding of the situation
+(which did not include the outcome).
+
+The aim of a distal reach is to explore how aspects of training, documentation,
+operational or managerial decision making, regulatory influences or industry
+standards may all have influenced what people at the sharp end saw as making sense at the time.
+
+Perhaps this investigation should be called a learning review.
+
+The ultimate aim is to learn and imrpove.
+
+The questions that people involved in any incident should really be getting are, “What do you guys want to do, or need, to make this better?”
+
+Human performance issues
+
+* cognitive fixation
+* plan continuation
+* fatigue
+* buggy or inert knowledge
+* new technology and computerization
+* procedural adaptations
+
+The account offered in a New View ‘human error’ investigation should aim for a maximally plausible explanation of why people did what they did. It should use a number of analytical and theoretical perspectives to lay out the broadest possible basis for its conclusions about what went on in that workplace at the time.
+
+Dynamic fault management: people have to commit cognitive resources to solving
+problems while maintaining process integrity.
+
+Sticking with the original plan while a situation has actually changed and calls for a different plan is what Judith Orasanu calls “plan continuation.”
+
+Decision making in a dynamic situation is hardly about making decisions, but rather about continually sizing up the situation.
+
+Operational decisions are not based on a “rational” analysis of all parameters that are relevant to the decision. Instead, the decision, or rather a continual series of assessments of the situation, is focused on elements in the situation that allow the decision maker to distinguish between reasonable options.
+
+If material is learned in neat chunks and static ways (books, most computer-based training) but needs to be applied in dynamic situations that call for novel and intricate combinations of those knowledge chunks, then inert knowledge is a risk.
+
+
+New tech:
+
+* Although first introduced as greater protection against failure (more precise
+  approaches to the runway with a Head-Up-Display, for example), the new
+  technology allows a system to be driven closer to its margins, eroding the
+  safety advantage that was gained.
+* New technology is also often ill-adapted to the way in which people do or did
+  their work, or to the actual circumstances in which people have to carry out
+  their work, or to other technologies that were already there.
+* New technology often forces practitioners to tailor it in locally pragmatic
+  ways, to make it work. They have to “finish the design” in practice.
+* New technology shifts the ways in which systems break down, asking people to
+  acquire more knowledge and skills, to remember new facts, settings
+
+Such goals are typically easily measurable (for example, customer satisfaction,
+on-time performance), whereas it is much more difficult to measure how much is
+borrowed from safety.
+
+Departures from routine become routine.
+
+When you discover a gap between procedure and practice:
+* Note: it is often compliance that explains people's behavior: compliance with norms
+that evolved over time--not deviance.
+* Find out what organizational history or pressures exist behind these routine departures from the routine;
+* Understand that the rewards of departures from the routine are probably immediate and tangible
+* Realize that continued absence of adverse consequences may confirm people
+  in their beliefs (in their eyes justified!) that their behavior was safe,
+  while also achieving other important system goals.
+
+Any human factors investigation that does not take goal conflicts seriously,
+does not take human work seriously.
+
+The way each individual looks at the world is determined by where that
+individual stands: 
+
+* everybody’s perspective is unique, determined by the position from which you take it
+* no two people can be in the exact same position at the same time, so no two perspectives can ever be the same
+* nobody’s perspective on the world can be reduced to someone else’s
+* everybody’s perspective is subjective
+* nobody has an “objective” perspective, against which other people’s “subjective” perspectives can be
+  compared.
+
+The focus on defenses as the best investment in safety has led in many systems to greater complexity.
+* The more complex a system, the more difficult it becomes to control
+* The more complex a system, the more difficult it becomes for people to even
+  know whether they still have adequate control or not
+
+
+
 
 ## Important lessons (summarized in chapte r8)
 
