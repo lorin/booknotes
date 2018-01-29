@@ -128,7 +128,26 @@ emergence, control, high-reliability organizations (HRO), Safety-I, Safety-II
     * Drift
         - Resilience and Safety I versus Safety II
 6. Creating an effective safety department
+    * Staff or line?
+        - Escaping the passive safety-supplier trap
+        - A concerned outsider who knows the inside
+    * Tame your safety bureaucracy
+    * Safety as responsibility down, not accountability up
+    * Safety and the line organization
+        - What do you do out in the field?
+        - Autonomy, mastery, purpose
+        - High performance teams
+        - How do you motivate people to be safe when nothing has happened in a
+          long time?
 7. Building a safety culture
+    * Influencing your culture toward the new view
+    * People as a problem to control
+         - Resist behavioral safety interventions
+    * Safety defined as the absence of negatives
+        - Question your organization's "vision zero"
+        - Defining zero by its dependent variable
+
+    
 8. Abandoning the fallacy of a quick fix
 9. Epilogue: Speaking for the dead
 
@@ -233,7 +252,27 @@ The barrier, or defenses-in-depth, model, is still a chain-of-events model too. 
 
 Is safety making sure those few things don’t go wrong, or that as many things as possible go right?
 
-Dekker, Sidney. The Field Guide to Understanding 'Human Error' (p. 141). Ashgate Publishing Ltd. Kindle Edition. 
+Safety has increasingly morphed from operational value into bureaucratic accountability. Those concerned with safety are more and more removed—organizationally, culturally, psychologically—from those who do safety-critcal work at the sharp end.
+
+Having a large safety bureaucracy could actually increase the probability of an accident. A bureaucracy can produce “fantasy documents” and demand compliance with cumbersome processes while not dealing with real sources of risk.
+
+Safety management systems can become liability management systems when their
+main role is to prove that management did something about a problem (even if
+that meant telling everybody else to try harder).
+
+If all you do is look after people’s safety, they may feel treated as children. If you look after people’s work, they will likely feel treated as colleagues.
+
+To take responsibility for safety on the line, you should first and foremost look at people’s work, more than (just) at people’s safety.
+
+No wonder we blame “safety culture” for more and more accidents. By blaming “safety culture,” we pretty much cover everything. But it explains little.
+
+Behavior-based safety programs focus on workers’ “unsafe acts.” They see ‘human error’ as the cause of trouble and place responsibility for safety on workers themselves.
+
+Behavioral safety interventions typically focus on who is responsible, not on what is responsible for creating risk.
+
+Initiatives that try to suppress the number of reported incidents see safety as an absence of negatives. These might actually harm safety in the long run.
+
+
 ## Notes
 
 Storytelling is a powerful mechanism for others to learn vicariously from trouble.
@@ -395,7 +434,48 @@ What presents difficulty on a daily basis, the often-encountered workarounds
 and frustrations? Such things might indeed be better predictors of system
 safety and risk than your formally reported incidents.
 
+Safety is not something that the safety department produces, so targets make little sense.
 
+A continued grounding in operational reality.
+
+A sensitivity to legitimate organizational concerns about production pressures and economic constraints.
+
+Show, for example, how safety margins may have been eroding over time, and
+where the gap lies between what causes problems in the operation and what
+management seems to believe.
+
+Creating safety is about giving people who do safety-critical work the room and possibility to do the right thing.
+
+Providing them with error-tolerant and error-resistant designs, workable
+procedures and the possibility to focus on the job rather than on bureaucratic
+accountabilities.
+
+* What does it take to get the job done on a daily basis? What are the
+  “workarounds,” innovations or improvisations that people have to engage in in
+  order to meet the various demands imposed on them?
+* What are the daily “frustrations” that people encounter in getting a piece of
+  machinery, or technology, or even a team of people (for example,
+  contractors), to work the way they expect?
+* What do your people believe is “dodgy” about the operation? Ask them that
+  question directly, and you may get some surprising results.
+* What do your people have to do to “finish the design” of the tools and
+  technologies that the organization has given them to work with? Finishing the
+  design may be obvious from little post-it notes with reminders for particular
+  switches or settings, or more “advanced” jury-rigged solutions (like an
+  upside-down paper coffee cup on the flap handle of the 60-million dollar jet
+  I flew, so as to not forget to set the flaps under certain circumstances).
+  Such finishing the design can be a marker of resilience: people adapt their
+  tools and technologies to forestall or contain the risks they know about. But
+  it can also be a pointer to places where your system may be more brittle than
+  you think.
+* How often do your people have to say to each other: “here’s how to make it
+  work” when they discuss a particular technology or portion of your operation?
+  What is the informal teaching and “coaching” that is going on in order to
+  make that happen?
+
+Managers are expected to manipulate a dependent variable—this is an oxymoron. Manipulating a dependent variable is something that science considers to be either impossible or unethical.
+
+Dekker, Sidney. The Field Guide to Understanding 'Human Error' (p. 168). Ashgate Publishing Ltd. Kindle Edition. 
 
 ## Important lessons (summarized in chapte r8)
 
