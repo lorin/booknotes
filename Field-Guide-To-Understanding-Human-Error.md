@@ -125,6 +125,7 @@ emergence, control
         - Please stop using the triangle
     * Barriers
     * Systems theory
+    * Drift
         
 6. Creating an effective safety department
 7. Building a safety culture
@@ -358,6 +359,15 @@ The focus on defenses as the best investment in safety has led in many systems t
 * The more complex a system, the more difficult it becomes for people to even
   know whether they still have adequate control or not
 
+**Emergence**: safety is an emergent property that arises when system
+components and processes interact with each other and their environment.
+
+**Control** imposes constraints on degress of freedom of components, so as to
+control their interaction.
+
+One starting point, then, for understanding a driver behind routine deviations, is to look deeper into these goal interactions, these basic incompatibilities in what people need to strive for in their work.
+
+High reliability organizations 
 
 
 
