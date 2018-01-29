@@ -298,6 +298,11 @@ Hard fixes change something fundamental about, or in, the organization. This mak
 
 Reprimanding “Bad Apples” is like peeing in your pants. You did something about the problem and feel relieved. But then it gets cold and uncomfortable. And you look like a fool.
 
+The Old View really has efficiency and expediency going for it. You don’t have to do a lot of analytic work, or put in the hard investigative yards. Just say where other people went wrong.
+
+The alternative of speaking for the dead is speaking about the dead. Investigations often speak badly about the dead.
+
+
 ## Notes
 
 Storytelling is a powerful mechanism for others to learn vicariously from trouble.
