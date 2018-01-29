@@ -146,10 +146,26 @@ emergence, control, high-reliability organizations (HRO), Safety-I, Safety-II
     * Safety defined as the absence of negatives
         - Question your organization's "vision zero"
         - Defining zero by its dependent variable
-
-    
+        - Suggesting that everything is preventable
+        - Stigmatizing incidents and those involved in them
+        - No support for zero vision in the safety literature
+        - A blindness to real risk
+        - The safety risk of low incident numbers
+        - Life at the thin edge of the wedge
+        - Decoy phenomena
+        - Don't be overconfident in your safety management system
+        - Don't just look for the holes to plug
+        - What to put in those places where you see no "holes"
 8. Abandoning the fallacy of a quick fix
+    * Reminders for in the rubble
+        - Your organization and 'human error'
+        - Doing something about your 'human error' problem
+        - Recognizing old view thinking
+        - Creating progress on safety with the new view
+    * Where to go from here
+        - Examples of new view investigations
 9. Epilogue: Speaking for the dead
+    * Speaking for the dead, or speaking about the dead?
 
 ## Aim of a debriefing
 
@@ -272,6 +288,15 @@ Behavioral safety interventions typically focus on who is responsible, not on wh
 
 Initiatives that try to suppress the number of reported incidents see safety as an absence of negatives. These might actually harm safety in the long run.
 
+A commitment to zero suggests that we must manipulate a dependent variable. This has got things upside-down.
+
+At the thin edge of the wedge, holes in layers of defense and formally reported incidents are no longer the herald of accidents or fatalities. Normal work is.
+
+How do you make ‘human error’ go away? The answer isn’t as simple as the question. A ‘human error’ problem, after all, is an organizational problem. It is at least as complex as the organization that has helped create it.
+
+Hard fixes change something fundamental about, or in, the organization. This makes them hard. But it also makes them real fixes.
+
+Reprimanding “Bad Apples” is like peeing in your pants. You did something about the problem and feel relieved. But then it gets cold and uncomfortable. And you look like a fool.
 
 ## Notes
 
@@ -475,9 +500,56 @@ accountabilities.
 
 Managers are expected to manipulate a dependent variable—this is an oxymoron. Manipulating a dependent variable is something that science considers to be either impossible or unethical.
 
-Dekker, Sidney. The Field Guide to Understanding 'Human Error' (p. 168). Ashgate Publishing Ltd. Kindle Edition. 
+the potential for having an accdient grows as a normal by-product of doing
+business under normal pressures of resource scarcity and competition. Thi shas
+to do with:
 
-## Important lessons (summarized in chapte r8)
+* *cultures of production* where problem-solving under pressure and constraints is highly valued
+* *structural secrecy* associated with bureaucratic organization, where
+  information dodes not cross the boundaries of the various silos in which
+  work is done and administered
+* *gradual acceptance* of more risk as bad consequences are kept at bay.
+
+The risk of having an accident is a fixed, structural property of the complexity of the systems we choose to build and operate.
+
+The fewer incidents a construction site reported, the higher its fatality rate
+was.
+
+Carriers with higher rates of nonfatal accidents/incidents had lower mortality
+risks. This supports the importance of learning from near misses.
+
+You want to peg your investments in safety to the level of safety the particular activity has already attained.
+
+At the thin edge of the wedge:
+
+* That which is going to bite you—the unlikely but still possible accident—will likely be something you were not measuring
+* It will likely be something that has not been reported as an incident by one of your workers.
+
+The surprising accidents and fatalities that still occur at the thin edge of
+the wedge, however, seem to be preceded not by “holes” in the layers of defense
+nor by incidents that have been formally reported as risky events that
+foreshadow an accident. Instead, they seem preceded by normal work, done by
+normal people in what looks to everybody to be a normal organization. This will
+likely include the workarounds and daily frustrations, the improvisations and
+adaptations to get designs and procedures to work in practice, the slightly
+unreliable results or readings from various tests (for example, end-play
+measurements, negative pressure tests), the shortcuts that get taken to
+accommodate production pressures.
+
+What to put in those places where you see no "holes"
+
+* Monitoring of safety monitoring
+* Do not take past success as guarnatee of future safety
+* Resist distancing through differencing
+* Resist fragmented problem solving
+* Knowing the gap between work-as-imagined and work-as-done
+* Keeping the discussion about risk alive even when everything looks safe
+* Having a person or function within the system with the authority, credibility
+  and resources to go against common interpretations and decisions about safety
+  and risk.
+* The ability and etent of bringing in fresh perspectives
+
+## Important lessons (summarized in chapter 8)
 
 Five sets of reminders about:
 
