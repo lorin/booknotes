@@ -5,7 +5,7 @@
 human error, hindsight, bad apples, accountability, justice, hindsight,
 safety, sharp end, blunt end, micro-matching, cherry-picking, shopping-bagging,
 loss of situational awareness, risk, thematic vagabonding, cognitive fixation,
-emergence, control
+emergence, control, high-reliability organizations (HRO), Safety-I, Safety-II
 
 ## Table of contents
 
@@ -126,7 +126,7 @@ emergence, control
     * Barriers
     * Systems theory
     * Drift
-        
+        - Resilience and Safety I versus Safety II
 6. Creating an effective safety department
 7. Building a safety culture
 8. Abandoning the fallacy of a quick fix
@@ -231,6 +231,9 @@ incidents.
 
 The barrier, or defenses-in-depth, model, is still a chain-of-events model too. One breach needs to precede the next. Also, the final link in the chain is an “unsafe act” by a frontline operator. A ‘human error’ in other words.
 
+Is safety making sure those few things don’t go wrong, or that as many things as possible go right?
+
+Dekker, Sidney. The Field Guide to Understanding 'Human Error' (p. 141). Ashgate Publishing Ltd. Kindle Edition. 
 ## Notes
 
 Storytelling is a powerful mechanism for others to learn vicariously from trouble.
@@ -367,7 +370,30 @@ control their interaction.
 
 One starting point, then, for understanding a driver behind routine deviations, is to look deeper into these goal interactions, these basic incompatibilities in what people need to strive for in their work.
 
-High reliability organizations 
+High reliability organizations (HRO) deal with risk by remaining chronically uneasy.
+
+HRO suggests you stay curious, open-minded, complexly sensitized, inviting of
+doubt and ambivalent toward the past.
+
+Chronic unease, and its basis in your understanding of actual practice,
+requires leadership involvement.
+
+Managing safety on the basis of incidents is only one way--and in a sense a
+very limited way. It focuses, after all, on the few occasional times when
+things go (almost) wrong, rather than on the many times that things go right.
+
+Safety II: safety is teh presence of positive capacities, capabilities and
+competencies that make things go right.
+
+In Safety II, the focus of safety management is to ensure that as many things as possible go right. This requires safety people as well as operational managers to understand how the system succeeds under varying conditions.
+
+An organization will also want to understand the messy details of how people
+normally get their jobs done—despite the goal conflicts, design flaws,
+communication difficulties and more.
+
+What presents difficulty on a daily basis, the often-encountered workarounds
+and frustrations? Such things might indeed be better predictors of system
+safety and risk than your formally reported incidents.
 
 
 
@@ -382,6 +408,8 @@ Five sets of reminders about:
 
 Whenever you try to understand 'human error', do not forget to take the point
 of view of the person inside the situation
+
+
 
 ### Your org & 'human error'
 
