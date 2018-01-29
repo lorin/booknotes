@@ -1,5 +1,10 @@
 # Field Guide to Understanding 'Human Error' by Sidney Dekker
 
+## Terms
+
+human error, hindsight, bad apples, accountability, justice, hindsight,
+safety, sharp end, blunt end, micro-matching, cherry-picking, shopping-bagging
+
 ## Table of contents
 
 1. Two views of 'human error'
@@ -15,15 +20,93 @@
     * New models of accountability
     * To report or not to report
     * Accountability and the "just culture"
-
 2. Containing your reactions to failure
+    * Retrospective
+    * Counterfactual
+    * Judgmental
+    * Proximal
 3. Doing a 'human error' investigation
+    * Getting human factors data
+    * Debriefing of participants
+    * The aim of a debriefing
+    * Dealing with disagreements and inconsistencies in briefings
+    * Recordings, facts and analysis
+    * Building a timeline
+        - Two issues before you go on
+        - Low-resolution communication timeline
+        - Higher-resolution communication timeline
+        - Conversation analysis
+        - Connecting behavior and process
+            * What was going on in the process at that time?
+            * What other tasks would people have plausibly been involved in
+              simultaneously, if at all?
+        - How do you identify "events" in your data?
+        - The "events" that were no events
+        - Putting data in context
+    * Putting data in context
+        - Out of context I: micro-matching
+            * a procedure or collection of rules
+            * a set of cues
+            * standards of good practice taht people's behavior falls short of
+        - Imposing procedures onto history
+        - Imposing available data onto history
+        - Standrads of good practice
+        - Out of context II: cherry-picking
+        - Out of context III: the shopping bag
+
+
+
 4. Explaining the patterns of breakdown
 5. Understanding your accident model
 6. Creating an effective safety department
 7. Building a safety culture
 8. Abandoning the fallacy of a quick fix
 9. Epilogue: Speaking for the dead
+
+## Aim of a debriefing
+
+1. Have participants tell the story from their point of view, without
+   presenting them with any replays or reminders that supposedly “refresh their
+   memory” but would actually distort it.
+2. Tell the story back to them as investigator. This is to check whether you
+   understand the story as the participants understood it.
+3. If you had not done so already, identify (together with participants) the
+   critical junctures in a sequence of events.
+4. Progressively probe and rebuild how the world looked to people on the inside
+   of the situation at each juncture. Here it is appropriate to show a re-play
+   (if available) to fill the gaps that may still exist, or to show the
+   difference between data that were available to people and data that were
+   actually observed by them.
+
+At each juncture in sequence events, you want to get to know:
+
+* Which cues were observed (what did he or she notice/see or did not notice what he or she had expected to notice?)
+* What knowledge was used to deal with the situation? Did participants have any experience with similar situations that was useful in dealing with this one?
+* What expectations did participants have about how things were going to develop, and what options did they think they have to influence the course of events?
+* How did other influences (operational or organizational) help determine how they interpreted the situation and how they would act?
+
+Cues:
+* What were you seeing?
+* What were you focusing on?
+* What were you expecting to happen?
+
+Interpretation: If you had to describe the situation to your colleague at that
+point, what would you have told?
+
+Errors: What mistakes (for examples in interpretation) were likely at this
+point?
+
+Previous experience/knowledge: 
+* Were you reminded of any previous experience?
+* Did this situation fit a standard scenario?
+* Were you trained to deal with this situation?
+* Were there any rules that applied clearly here?
+* Did any other sources of knowledge suggest what to do?
+
+Goals:
+* What were you trying to achieve?
+* Were there multiple goals at the same time?
+* Was there time pressure or other limitations on what you could do?
 
 
 ## Callouts
@@ -51,6 +134,15 @@ different ways than dollars.
 
 The more you react to failure, the less you will understand it.
 
+Hindsight gets you to oversimplify history. You will see events as simpler, more linear, and more predictable than they once were.
+
+Bad process may still lead to good outcomes, and vice versa.
+
+What you believe should have happened does not explain other people’s behavior. It just makes you look ignorant and arrogant.
+
+To understand error, take the view from the inside of the tunnel and stop saying what people failed to do or should have done.
+
+
 ## Notes
 
 Storytelling is a powerful mechanism for others to learn vicariously from trouble.
@@ -68,6 +160,13 @@ Reactions to failure are typically:
 * judgmental
 * proximal
 
+The problem about taking this position of retrospective outsider is that it does not allow you to explain anything.
+
+This means zooming out, away from looking just at the sharp end, and
+incorporating blunt end policies and priorities and design choices and how
+these help drive people’s goals and practices at the sharp end.
+
+In order to understand other people’s assessments and actions, you must try to attain the perspective of the people who were there at the time.
 
 ## Important lessons (summarized in chapte r8)
 
