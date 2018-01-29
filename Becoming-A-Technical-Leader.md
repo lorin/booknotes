@@ -132,4 +132,15 @@ Why:
 - helps overcome self-blindness, which stands in the way of overcoming other
     obstacles
 
+He's not specific about what to write, but what some people do:
+
+- Write about yourself
+- What I'm like
+- Facts/feelings/findings
+- What I do each day
+- How I feel about it
+- How I see others reacting to me
+- Bugs I encountered
+- How I tried to fix them
+
 
