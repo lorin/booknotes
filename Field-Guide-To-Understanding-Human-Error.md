@@ -189,7 +189,10 @@ At each juncture in sequence events, you want to get to know:
 * What expectations did participants have about how things were going to develop, and what options did they think they have to influence the course of events?
 * How did other influences (operational or organizational) help determine how they interpreted the situation and how they would act?
 
+![](field-guide-table.png)
+
 Cues:
+
 * What were you seeing?
 * What were you focusing on?
 * What were you expecting to happen?
@@ -201,6 +204,7 @@ Errors: What mistakes (for examples in interpretation) were likely at this
 point?
 
 Previous experience/knowledge: 
+
 * Were you reminded of any previous experience?
 * Did this situation fit a standard scenario?
 * Were you trained to deal with this situation?
@@ -208,10 +212,10 @@ Previous experience/knowledge:
 * Did any other sources of knowledge suggest what to do?
 
 Goals:
+
 * What were you trying to achieve?
 * Were there multiple goals at the same time?
 * Was there time pressure or other limitations on what you could do?
-
 
 ## Callouts
 
