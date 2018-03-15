@@ -36,7 +36,7 @@ Systems thinking is about relationships, not parts
 1. Unruly technology
 1. Contribution of the protective structure
 
-### Systems thinking perspcetive on the five concepts
+### Systems thinking perspective on the five concepts
 
 * Resource scarcity and competition, which leads to a chronic need to balance cost pressures with safety. In a complex system, this means that the thousands of smaller and larger decisions and trade-offs that get made throughout the system each day can generate a joint preference without central coordination, and without apparent local consequences: production and efficiency get served in people’s local goal pursuits while safety gets sacrificed – but not visibly so;
 * Decrementalism, where constant organizational and operational adaptation around goal conflicts and uncertainty produces small, stepwise normalization where each next decrement is only a small deviation from the previously accepted norm, and continued operational success is relied upon as a guarantee of future safety;
