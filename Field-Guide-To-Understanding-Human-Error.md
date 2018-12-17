@@ -5,7 +5,8 @@
 human error, hindsight, bad apples, accountability, justice, hindsight,
 safety, sharp end, blunt end, micro-matching, cherry-picking, shopping-bagging,
 loss of situational awareness, risk, thematic vagabonding, cognitive fixation,
-emergence, control, high-reliability organizations (HRO), Safety-I, Safety-II
+critical junctures, emergence, control, high-reliability organizations (HRO),
+Safety-I, Safety-II
 
 ## Table of contents
 
@@ -53,7 +54,7 @@ emergence, control, high-reliability organizations (HRO), Safety-I, Safety-II
             * standards of good practice that people's behavior falls short of
         - Imposing procedures onto history
         - Imposing available data onto history
-        - Standrads of good practice
+        - Standards of good practice
         - Out of context II: cherry-picking
             * grouping and labeling behavior fragments
         - Out of context III: the shopping bag
@@ -167,6 +168,20 @@ emergence, control, high-reliability organizations (HRO), Safety-I, Safety-II
 9. Epilogue: Speaking for the dead
     * Speaking for the dead, or speaking about the dead?
 
+## Doing an investigation
+
+* Get human factors data
+* Build a timeline
+* Put data in context
+* Leave a trace
+* Constructure causes
+* Make recommendations
+
+## Sources of human factors data
+
+* Debriefings of participants
+* Recordings of performacne parameters
+
 ## Aim of a debriefing
 
 1. Have participants tell the story from their point of view, without
@@ -200,8 +215,7 @@ Cues:
 Interpretation: If you had to describe the situation to your colleague at that
 point, what would you have told?
 
-Errors: What mistakes (for examples in interpretation) were likely at this
-point?
+Errors: What mistakes (for examples in interpretation) were likely at this point?
 
 Previous experience/knowledge: 
 
@@ -216,6 +230,14 @@ Goals:
 * What were you trying to achieve?
 * Were there multiple goals at the same time?
 * Was there time pressure or other limitations on what you could do?
+
+
+Putting data in context:
+
+* How did the world look to them at the time?
+* How did the situation unfold around them; what cues did they get when?
+* What goals were they likely purusing at that time (not knowing the outcome
+  you now konw about)?
 
 ## Callouts
 
@@ -319,6 +341,7 @@ Storytelling is a powerful mechanism for others to learn vicariously from troubl
 
 
 Reactions to failure are typically:
+
 * retrospective
 * counterfactual
 * judgmental
