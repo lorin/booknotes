@@ -1,6 +1,8 @@
 # Engineering a Safer World: Systems Thinking Applied to Safety
 by Nancy Leveson
 
+## Terms
+
 - hazard
 - interactive coplexity
 - system accident: accident that araises in interactions among components rather
@@ -14,8 +16,19 @@ by Nancy Leveson
 - time constants: delays in responding to manipulated variables
 - feedback delays: sensors may obtain values only at certain sampling intervals
 
+## Table of of contents
 
-## Notes (from A New Accident Model for Enigneering Safer Systems)
+I. Foundations
+1. Why do we need something different?
+2. Questioning the foundations of traditional safety engineering
+3. Systems theory and its relationship to safety
+II STAMP: An accident model based on systems theory
+
+
+
+## Notes (from [A New Accident Model for Enigneering Safer Systems][1])
+
+[1]: http://sunnyday.mit.edu/accidents/safetyscience-single.pdf
 
 Redundancy may even increase risk by adding complexity. All software problems
 detected during the flight testing of a NASA experimental aircraft using two
