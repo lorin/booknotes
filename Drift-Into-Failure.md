@@ -249,7 +249,7 @@ Four ingredients of high reliability organizations:
     interconnections inside the system, but cannot be reduced to those
     relationships or interconnections. In a post-Newtonian ethic, we resist
     looking for the "causes" of failure or success. System-level outcomes have
-    no clearly traceable causes as theire relationships to effects are neither
+    no clearly traceable causes as their relationships to effects are neither
     simple nor linear.
 - There is no objective way of constructing a story of what happened
 - We can at best hope and aim to produce authentic stories, stories that are
