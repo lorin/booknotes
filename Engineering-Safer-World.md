@@ -23,6 +23,11 @@ I. Foundations
 2. Questioning the foundations of traditional safety engineering
 3. Systems theory and its relationship to safety
 II STAMP: An accident model based on systems theory
+4. A systems-theoretic view of causality
+5. A friendly fire accident
+III. Using STAMP
+6. Engineering and operating safer systems using STAMP
+
 
 
 
