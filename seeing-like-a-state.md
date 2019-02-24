@@ -1,6 +1,6 @@
 # Seeing like a state: how certain schems to improve the human condition have failed
 
-by Walter C. Scott
+by James C. Scott
 
 
 ## Outline
@@ -49,13 +49,64 @@ by Walter C. Scott
         - The Lenin of "the agrarian question*
         - Luxemburg: physician and midwife to the revolution
         - Revolution as a living process
+        - Aleksandra Kollontay and the workers' opposition to Lenin
 - The social engineering of rural settlement and production
     * Soviet collectivization, capitalist dreams
+        - A Soviet-American fetish: industrial farming
+        - Collectivization in Soviet Russia
+        - Round one: The Bolshevik state and the peasantry
+        - Authoritarian high-modernist theory and the practice of serfdom
+        - State landscapes of control and appropriation
+        - The limits of authoritarian high modernism
+    * Compulsory villagization in Tanzania: aesthetics and miniturization
+        - Colonial high-modernist agriculture in East Africa
+        - Villages and "improved" farming in Tanzania before 1973
+        - "To live in villages is an order"
+        - A streamlined people and their crops
+        - Communal farming and intesnive production
+        - Bureaucratic convenience, bureaucratic interests
+        - The idea of a "national plantation"
+        - The "ideal" state village: Ethiopian variation
+        - Conclusion
+        - The failure of grids
+        - The miniaturization of perfection and control
     * Taming nature: an agriculture of legibility and simplicity
+        - Varieties of agricultural simplification
+        - Early agriculture
+        - Twentieth-century agriculture
+        - The uninteded consequences of simplification
+        - The Cathechism of high-modernist agriculture
+        - Modernist faith versus local practices
+        - monoculture and polyculture
+        - permanent fields versus shifting cultivation
+        - fertilizer versus fertility
+        - A history of "unauthorized" innovation
+        - The institutional affinities of high-modernist agriculture
+        - The simplifying assumptions of agricultural science
+        - The isolation of experimental variables
+        - weak peripheral vision
+        - shortsightedness
+        - The simplifying practice of scientific agriculture
+        - some yields are more equal than others
+        - experimental plots versus actual fields
+        - fictional farmers versus real farmers
+        - Two agricultural logics compared
+        - Conclusion
 - The missing link
-    * Thin simplifications and practical knowledge: Metis
+    * Thin simplifications and practical knowledge: Mētis
+        - Mētis: the contours of practical knowledge
+        - The art of the locality
+        - The relation with Episteme and Techne
+        - Learning beyond the book
+        - The dynamism and plasticity of Mētis
+        - The social context of Mētis and its destruction
+        - The case against imperial knowlege
     * Conclusion
-
+        - "It's ignorance, stupid!"
+        - Planning for abstract citizens
+        - Stripping reality to its essentials
+        - The failure of schematics and the role of Mētis
+        - A case for Mētis-friendly institutions
 
 ## Terms
 
@@ -68,12 +119,25 @@ by Walter C. Scott
 - taxation
 - conscription
 - imperialism
+- imperial knowleddge
 - measurement
 - thin simplification
 - practical knowledge
 - Cadastral map
 - visual order
 - experienced order
+- scientific agriculture
+- industrial farming
+- simplicity
+- planners
+- collectivization
+- colonial
+- miniaturization
+- perfection
+- control
+- monoculture
+- polyculture
+- Muddling through
 
 
 ### Legibility
@@ -129,3 +193,10 @@ Four elements of tragic episodes of state-inititated social engineering
 ## Ch. 9: Then simplifications and practical knowledge: Mētis
 
 ## Ch. 10: Conclusion
+
+Rules of thumb for development planning:
+- Take small steps
+- Favor reversibility
+- Plan on surprises
+- Plan on human inventiveness
+
