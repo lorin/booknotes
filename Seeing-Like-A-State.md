@@ -7,8 +7,8 @@ by James C. Scott
 * scientific forestry (Germany)
 * Surnames (permanent, inherited patronyms)
 * private property (Cadastral map)
-* Brasília
-* Compulsory villagization in Tanzania
+* Brasília (urban planning)
+* Compulsory (planned) villagization in Tanzania (ujamaa villages)
 * Collectivization of Soviet agriculture
 * Agriculture: fertilizer
 
@@ -161,7 +161,8 @@ At another level, collectivization was, in a curious state-centric way, a
 qualified success. Collectivization proved a rough-and-ready instrument for the
 twin goals
 
-Scholars who agree on little else are in accord on this point: the overriding purpose of collectivization was to ensure the seizure of grain.
+Scholars who agree on little else are in accord on this point: the overriding
+purpose of collectivization was to ensure the seizure of grain.
 
 High-modernist ideologies embody a doctrinal preference for certain social
 arrangements. Authoritarian high-modernist states, on the other hand, take the
@@ -178,6 +179,133 @@ The thinly veiled subtext of villagization was also to reorganize human
 communities in order to make them better objects of political control and to
 facilitate the new forms of communal farming favored by state policy.
 
+As in the Soviet case, there was also, I believe, a powerful aesthetic dimension.
+
+High-modernist plans tend to “travel” as an abbreviated visual image of
+efficiency that is less a scientific proposition to be tested than a
+quasi-religious faith in a visual sign or representation of order.
+
+[T]he assumption is that if the arrangement looks right, it will also, ipso facto, function well.
+
+For ideological reasons, the designers of the new society had paid virtually no
+attention to the local knowledge and practices of cultivators and pastoralists.
+They had also forgotten the most important fact about social engineering: its
+efficiency depends on the response and cooperation of real human subjects. If
+people find the new arrangement, however efficient in principle, to be hostile
+to their dignity, their plans, and their tastes, they can make it an
+inefficient arrangement.
+
+The point of departure for colonial policy was a complete faith in what
+officials took for “scientific agriculture” on one hand and a nearly total
+skepticism about the actual agricultural practices of Africans on the other.
+
+Although the officer’s sentiment was no doubt perfectly sincere, one cannot
+fail to note how it justified, at the same time, the importance and authority
+of agricultural experts over mere practitioners.
+
+...by Nyerere’s underlying conviction that the peasants did not know what was good for them.
+
+That premise was that the practices of African cultivators and pastoralists
+were backward, unscientific, inefficient, and ecologically irresponsible. Only
+close supervision, training, and, if need be, coercion by specialists in
+scientific agriculture could bring them and their practices in line with a
+modern Tanzania. They were the problem to which the agricultural experts were
+the solution.
+
+I stress two key elements of the bureaucratic response typified by the ujamaa
+village campaign: first, the civil servants’ inclination to reinterpret the
+campaign so that it called for results that they could more easily deliver, and
+second, their disposition to reinterpret the campaign in line with what was in
+their corporate interests.
+
+High-modernist social engineering is ideal soil for authoritarian pretensions,
+and Tanzanian officialdom made the most of this chance to consolidate its
+position.
+
+The existing economic activity and physical movement of the Tanzanian rural
+population were the consequences of a mind-bogglingly complex, delicate, and
+pliable set of adaptations to their diverse social and material environment.
+
+The failure of ujamaa villages was almost guaranteed by the highmodernist
+hubris of planners and specialists who believed that they alone knew how to
+organize a more satisfactory, rational, and productive life for their citizens.
+It should be noted that they did have something to contribute to what could
+have been a more fruitful development of the Tanzanian countryside. But their
+insistence that they had a monopoly on useful knowledge and that they impose
+this knowledge set the stage for disaster.
+
+Resettlement was far more than a change in scenery. It took people from a
+setting in which they had the skills and resources to produce many of their own
+basic needs and hence the means of a reasonably self- sufficient independence.
+It then transferred them to a setting where these skills were of little or no avail.
+
+Because the bearers of this visual codification saw themselves as
+self-conscious modernizers of their societies, their vision required a sharp
+and morally loaded contrast between what looked modern (tidy rectilinear,
+uniform, concentrated, simplified, mechanized) and what looked primitive
+(irregular, dispersed, complicated, unmechanized).
+
+It is far easier for would-be reformers to change the formal structure of an
+institution than to change its practices.
+
+A village, city, or language is the jointly created, partly unintended product
+of many, many hands.  To the degree that authorities insist on replacing this
+ineffably complex web of activity with formal rules and regulations, they are
+certain to disrupt the web in ways that they cannot possibly foresee.
+
+Nearly every new, exemplary capital city has, as the inevitable accompaniment
+of its official structures, given rise to another, far more “disorderly” and
+complex city that makes the official city work—that is virtually a condition of
+its existence.
+
+On a more speculative note, I imagine that the greater the pretense of and
+insistence on an officially decreed micro-order, the greater the volume of
+nonconforming practices necessary to sustain that fiction.
+
+The necessarily simple abstractions of large bureaucratic institutions, as we
+have seen, can never adequately represent the actual complexity of natural or
+social processes.
+
+Like the formal order of the planned section of Brasília or collectivized
+agriculture, modern, simplified, and standardized agriculture depends for its
+existence on a “dark twin” of informal practices and experience on which it is,
+ultimately, parasitic.
+
+Above all, they believed in large, integrated, planned projects rather than
+piecemeal improvements, partly because the large, capital-intensive schemes
+could be planned as nearly pure technical exercises, rather like the design of
+the Soviet collective farm that was invented in a Chicago hotel room.
+
+Given their visual codification of modern agricultural practice, most
+specialists knew, without further empirical investigation, that the apparent
+disorder of the crops was a symptom of backward techniques; it failed the
+visual test of scientific agriculture.
+
+the resilience and durability of diversity.
+
+All environments, as we noted earlier, are intractably local. There is always
+what we might call the translation problem in converting the generic,
+standardized High Church Latin which emanates from labs and experimental
+stations into the vernacular of the local parish. Standardized solutions to
+field preparation, planting schedules, and fertilizer requirements always have
+to be adjusted when they are applied to, say, a stony, low-lying, north-facing
+field which has just grown two crops of oats. Agricultural scientists at
+research stations and extension agents are very much aware of this translation
+problem, as are specialists in any applied science. The question is always how
+to discover and convey findings so that they will be helpful to farmers. As
+long as the findings or solutions are not simply imposed, the farmer must
+decide if they meet his needs.
+
+The logical companion to a complete faith in a quasi-industrial model of
+highmodernist agriculture was an often explicit contempt for the practices of
+actual cultivators and what might be learned from them.
+
+We have repeatedly observed the natural and social failures of thin, formulaic
+simplifications imposed through the agency of state power.
+
+Formal order, to be more explicit, is always and to some considerable degree
+parasitic on informal processes, which the formal scheme does not recognize,
+without which it could not exist, and which it alone cannot create or maintain.
 
 
 ## Outline
