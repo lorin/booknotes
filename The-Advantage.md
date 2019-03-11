@@ -4,9 +4,10 @@ Book by Patrick Lencioni
 
 ## Terms
 
-organization, smart, healthy, team, leadership, clarity, team number one, conflict, collective,
+organization, smart, healthy, team, leadership, discipline, behavior, clarity, team number one, conflict, collective,
 ownership, goal, meetings, values, strategic anchors, sophistication bias, adrenaline bias, quantification bias,
-permission to play
+permission to play, multiplier effect, cohesive, leadership team, collectively responsible, vulnerability-based trust,
+mining for conflict, real-time permission, accountability, peer pressure, public, private, results
 
 Sophistication bias: Org health is so simple & accessible that many leaders have
 a hard time seeting it as a real oppportunity for meaningful advantage.
@@ -22,6 +23,16 @@ Healthy: minimal politics & confusion, high degrees of morale & productivity, ve
 
 Permission to play: minimum standard required for having even a possibility of success
 
+Leadership team: a small group of people who are collectively responsible for achieving a common objective for their org
+
+Vulnerability-based trust: when members get to a point where they are completely
+comfortable being transparent, honest, and naked with one another, where they
+say and genuinely mean things like "I screwed up", "I need help," "Your idea is
+better than mine," "I wish I could learn to do that as well as you do", and
+even, "I'm sorry."
+
+Real-time permission: leader interrupts when people engage in disagreement
+during a meeting, to remind them what they are doing is good
 
 
 ## Disciplines
@@ -31,6 +42,13 @@ Permission to play: minimum standard required for having even a possibility of s
 1. Overcommunicate clarity
 1. Reinforce clarity
 
+## Behaviors
+
+1. Building trust
+1. Mastering conflict
+1. Achieving commtiment
+1. Embracing accountability
+1. Focusing on results
 
 ## Checklist for organizational health
 
@@ -102,8 +120,42 @@ Permission to play: minimum standard required for having even a possibility of s
     - Smart versus healthy
     - Better light
     - Permission to play
+    - Health begets—and trumps—intelligence
+    - The multiplier effect
+    - Media and academia
+    - The price of poor health
 1. The four disciplines model
+  * Discipline 1: build a cohesive leadership team
+  * Discipline 2: create clarity
+  * Discipline 3: Overcommunicate clarity
+  * Discipline 4: Reinforce clarity
 1. Discipline 1: build a cohesive leadership team
+  * Defining a leadership "team"
+    - A small group of people
+    - Collectively responsible
+    - Common objectives
+  * Behavior 1: building trust
+    - Personal histories
+    - Profiling (MBTI)
+    - The fundamntal attribution error
+    - Too much vulnerability?
+    - The leader goes first
+  * Behavior 2: mastering conflict
+    - discomfort
+    - conflict avoidance
+    - conflict continuum
+    - conflict tools
+   * Behavior 3: achieving commitment
+    - specific agreements
+   * Embracing accountability
+    - peer pressure
+    - overcoming the "wuss" factor
+    - behaviors versus measurables
+    - team effectiveness exercise
+    - public versus private
+  * Behavior 4: Focusing on results
+    - collective goals
+    - team number one
 1. Discipline 2: create clarity
 1. Discipline 3: Overcommunicate clarity
 1. Discipline 4: Reinforce clarity
