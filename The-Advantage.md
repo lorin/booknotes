@@ -11,7 +11,8 @@ cohesive, leadership team, collectively responsible, vulnerability-based trust,
 mining for conflict, real-time permission, accountability, peer pressure,
 public, private, results, blather, perfection paralysis, values stampede, core values,
 aspirational values, strategic anchors, strategy amoeba, strategic durability, thematic goal,
-objectives, one-page model, playbook
+objectives, one-page model, playbook, cascading communication, true rumors, top-down communication,
+non-generics, gut feel, structure
 
 Sophistication bias: Org health is so simple & accessible that many leaders have
 a hard time seeting it as a real oppportunity for meaningful advantage.
@@ -71,6 +72,8 @@ One-page model: single sheet of paper should contain
 Playbook: simple document summarizing answers to the six critical questions
 * short (a few pages)
 * leadership team members should keep playbook with them at all times
+
+Non-generics: prefer shorter customized performance review form over a longer generic one
 
 ## Disciplines
 
@@ -248,7 +251,21 @@ Playbook: simple document summarizing answers to the six critical questions
 
 ### Discipline 3: Overcommunicate clarity
 
+* Cascading communication
+* Top-down communication
+* Upward and lateral communication
 
 ### Discipline 4: Reinforce clarity
+
+* Non-generics
+* Recruiting and hiring
+  - Gut feel versus structure
+  - Interviewing
+* Orientation
+* Performance management
+* Compensation and rewards
+* Recognition
+* Firing
+
 ### The centrality of great meetings
 ### Seizing the advantage
