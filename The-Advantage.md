@@ -5,7 +5,7 @@ Book by Patrick Lencioni
 ## Terms
 
 organization, team, leadership, clarity, team number one, conflict, collective,
-ownership, goal, meetings
+ownership, goal, meetings, values, strategic anchors
 
 ## Disciplines
 
@@ -31,14 +31,14 @@ ownership, goal, meetings
 
 ### Discipline 2: create clarity
 
-* Members of the leadership team know, agree on, and are passionate about the reason that the organization exists.
+* Members of the leadership team know, agree on, and are passionate about the reason that the org exists.
 * The leadership team has clarified and embraced a small, specific set of behavioral values.
 * Leaders are clear and algined around a strategy that helps them define success and differentiate from competitors.
 * The leadership team has a clear, current goal around which they rally. They feel a collective sense of ownershpi for that goal.
 * Members of the leadership team understand one another's roles and
   responsibilities. They are comfortable asking questions about one another's
   work.
-* The lements of the organization's clarity are concisely summarized and regularly referenced and reviewed by the leadership team.
+* The elements of the orgs' clarity are concisely summarized and regularly referenced and reviewed by the leadership team.
 
 
 ### Discipline 3: Overcommunicate clarity
@@ -48,11 +48,30 @@ ownership, goal, meetings
 * The team leaves meetings with clear and specific agreements about what to
   communicate to their employees, and they cascade those messages quickly after
   meetings.
-
+* Employees are able to accurately articulate the orgs' reason for existence, values, strategic anchors, and goals.
 
 
 ### Discipline 4: Reinforce clarity
 
+* The organization has a simple way to ensure that new hires are carefully selected based on the company's values.
+* New people are brought into the org by thoroughly teaching them about the six elements of clarity.
+* Mangers throughout the org have a simple, consistent and nonbueaucratic system
+  for setting goals and reviewing progress with employees. That system is
+  customized around the elements of clarity.
+* Employees who don't fit the values are managed out of the org. Poor performers
+  who do fit the values are given the coaching and assistance they need to
+  succeed.
+* Compensation and reward systemes are built around the values and goals of the org.
+
+### Meetings
+
+* Tactical and strategic discussions are addressed in separate meetings.
+* During tactical staff meetings, agends are set only after the tem has reviewed
+  its progress against goals. Noncritical administrative topics are easily
+  discarded.
+* During topical meetings, enough time is allocated to major issues to allow for
+  clarification, debate, and resolution.
+* The team meets quarterly away from the office to review what is happening in the industry, in the org, and on the team.
 
 ## Outline
 
