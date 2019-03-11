@@ -2,6 +2,11 @@
 
 by James C. Scott
 
+## Terms
+
+authoritarian high-modernism, legibility, mētis
+
+
 ## Case studies
 
 * scientific forestry (Germany)
