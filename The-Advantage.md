@@ -10,7 +10,8 @@ adrenaline bias, quantification bias, permission to play, multiplier effect,
 cohesive, leadership team, collectively responsible, vulnerability-based trust,
 mining for conflict, real-time permission, accountability, peer pressure,
 public, private, results, blather, perfection paralysis, values stampede, core values,
-aspirational values, strategic anchors, strategy amoeba, strategic durability
+aspirational values, strategic anchors, strategy amoeba, strategic durability, thematic goal,
+objectives
 
 Sophistication bias: Org health is so simple & accessible that many leaders have
 a hard time seeting it as a real oppportunity for meaningful advantage.
@@ -46,6 +47,16 @@ often end up diminishing company's plan for success
 Strategy amoeba: big amoeba-like shape drawn on a flip chart that is filled in with terms and phrases
 
 Strategic durability: how often org needs to change its strategic anchors. Function of rate of innovation and barriers to entry
+
+Thematic goal: The rallying cry. Answers the question *What is most important, right now?*. It is:
+  * singular
+  * qualitative
+  * temporary
+  * shared across the leadership team
+  
+Standard operating objectives: ongoing and relatively straightforward metrics
+and areas of responsibility that any leadership team must maintain in order to
+keep the org afloat.
 
 ## Disciplines
 
@@ -212,6 +223,12 @@ Strategic durability: how often org needs to change its strategic anchors. Funct
     - Identifying anchors
     - Strategy durability
   * Question 5: What is most important, right now?
+    - One thing
+    - The thematic goal (a.k.a. the rallying cry)
+    - Leaders without hats
+    - Defining objectives
+    - Standard operating objectives
+    - The one-page model
   * Question 6: Who must do what?
 
 ### Discipline 3: Overcommunicate clarity
