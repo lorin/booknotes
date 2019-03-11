@@ -4,8 +4,25 @@ Book by Patrick Lencioni
 
 ## Terms
 
-organization, team, leadership, clarity, team number one, conflict, collective,
-ownership, goal, meetings, values, strategic anchors
+organization, smart, healthy, team, leadership, clarity, team number one, conflict, collective,
+ownership, goal, meetings, values, strategic anchors, sophistication bias, adrenaline bias, quantification bias,
+permission to play
+
+Sophistication bias: Org health is so simple & accessible that many leaders have
+a hard time seeting it as a real oppportunity for meaningful advantage.
+
+Adrenaline bias: Becoming a healthy org takes a little time, and many leaders are addicted
+to adrenaline rush.
+
+Quantification bias: Benefits of becoming a healthy org are difficult to accurately quantify
+
+Smart: good at classic fundamentals of business
+
+Healthy: minimal politics & confusion, high degrees of morale & productivity, very low turnover among good employees
+
+Permission to play: minimum standard required for having even a possibility of success
+
+
 
 ## Disciplines
 
@@ -75,8 +92,16 @@ ownership, goal, meetings, values, strategic anchors
 
 ## Outline
 
-1. Introduction
 1. The case for organizational health
+  * Stooping to greatness
+  * The three biases
+    - The sophistication bias
+    - The adrenaline bias
+    - The quantification bias
+  * Understanding org health
+    - Smart versus healthy
+    - Better light
+    - Permission to play
 1. The four disciplines model
 1. Discipline 1: build a cohesive leadership team
 1. Discipline 2: create clarity
