@@ -10,7 +10,7 @@ adrenaline bias, quantification bias, permission to play, multiplier effect,
 cohesive, leadership team, collectively responsible, vulnerability-based trust,
 mining for conflict, real-time permission, accountability, peer pressure,
 public, private, results, blather, perfection paralysis, values stampede, core values,
-aspirational values, strategic anchors, 
+aspirational values, strategic anchors, strategy amoeba, strategic durability
 
 Sophistication bias: Org health is so simple & accessible that many leaders have
 a hard time seeting it as a real oppportunity for meaningful advantage.
@@ -42,6 +42,10 @@ Values stampede: overly broad values statement, due to trying to be all things t
 Strategic anchors: provide context for all decision making and help companies
 avoid temptation to make purely pragmatic and opportunistic decisions that so
 often end up diminishing company's plan for success
+
+Strategy amoeba: big amoeba-like shape drawn on a flip chart that is filled in with terms and phrases
+
+Strategic durability: how often org needs to change its strategic anchors. Function of rate of innovation and barriers to entry
 
 ## Disciplines
 
@@ -128,53 +132,57 @@ often end up diminishing company's plan for success
 
 ## Outline
 
-1. The case for organizational health
-  * Stooping to greatness
-  * The three biases
-    - The sophistication bias
-    - The adrenaline bias
-    - The quantification bias
-  * Understanding org health
-    - Smart versus healthy
-    - Better light
-    - Permission to play
-    - Health begets—and trumps—intelligence
-    - The multiplier effect
-    - Media and academia
-    - The price of poor health
-2. The four disciplines model
-  * Discipline 1: build a cohesive leadership team
-  * Discipline 2: create clarity
-  * Discipline 3: Overcommunicate clarity
-  * Discipline 4: Reinforce clarity
-3. Discipline 1: build a cohesive leadership team
-  * Defining a leadership "team"
-    - A small group of people
-    - Collectively responsible
-    - Common objectives
-  * Behavior 1: building trust
-    - Personal histories
-    - Profiling (MBTI)
-    - The fundamntal attribution error
-    - Too much vulnerability?
-    - The leader goes first
-  * Behavior 2: mastering conflict
-    - discomfort
-    - conflict avoidance
-    - conflict continuum
-    - conflict tools
-   * Behavior 3: achieving commitment
-    - specific agreements
-   * Embracing accountability
-    - peer pressure
-    - overcoming the "wuss" factor
-    - behaviors versus measurables
-    - team effectiveness exercise
-    - public versus private
-  * Behavior 4: Focusing on results
-    - collective goals
-    - team number one
-4. Discipline 2: create clarity
+###  The case for organizational health
+* Stooping to greatness
+* The three biases
+  - The sophistication bias
+  - The adrenaline bias
+  - The quantification bias
+* Understanding org health
+  - Smart versus healthy
+  - Better light
+  - Permission to play
+  - Health begets—and trumps—intelligence
+  - The multiplier effect
+  - Media and academia
+  - The price of poor health
+### The four disciplines model
+* Discipline 1: build a cohesive leadership team
+* Discipline 2: create clarity
+* Discipline 3: Overcommunicate clarity
+* Discipline 4: Reinforce clarity
+
+
+### Discipline 1: build a cohesive leadership team
+* Defining a leadership "team"
+  - A small group of people
+  - Collectively responsible
+  - Common objectives
+* Behavior 1: building trust
+  - Personal histories
+  - Profiling (MBTI)
+  - The fundamntal attribution error
+  - Too much vulnerability?
+  - The leader goes first
+* Behavior 2: mastering conflict
+  - discomfort
+  - conflict avoidance
+  - conflict continuum
+  - conflict tools
+  * Behavior 3: achieving commitment
+  - specific agreements
+  * Embracing accountability
+  - peer pressure
+  - overcoming the "wuss" factor
+  - behaviors versus measurables
+  - team effectiveness exercise
+  - public versus private
+* Behavior 4: Focusing on results
+  - collective goals
+  - team number one
+  
+  
+### Discipline 2: create clarity
   * Blather
   * Six critical questions
   * Perfection paralysis
@@ -201,13 +209,12 @@ often end up diminishing company's plan for success
   * Question 3: What do we do?
   * Question 4: How will we succeed?
     - Strategic anchors
+    - Identifying anchors
+    - Strategy durability
   * Question 5: What is most important, right now?
   * Question 6: Who must do what?
 
-
-    
-  
-1. Discipline 3: Overcommunicate clarity
-1. Discipline 4: Reinforce clarity
-1. The centrality of great meetings
-1. Seizing the advantage
+### Discipline 3: Overcommunicate clarity
+### Discipline 4: Reinforce clarity
+### The centrality of great meetings
+### Seizing the advantage
