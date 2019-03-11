@@ -268,4 +268,15 @@ Non-generics: prefer shorter customized performance review form over a longer ge
 * Firing
 
 ### The centrality of great meetings
+
+* Meeting stew
+* The four meetings
+  1. Daily check-ins
+  1. Tactical staff meetings
+    - Real-time agenda
+  1. Adhoc topical meetings
+  1. Quarterly off-site reviews
+* Too much time in meetings?
+
+
 ### Seizing the advantage
