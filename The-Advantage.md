@@ -54,7 +54,7 @@ during a meeting, to remind them what they are doing is good
 
 ### Discipline 1: build a cohesive leadership team
 
-* The leaderhip team is small enough (3-10 people) to be effective.
+* [ ] The leaderhip team is small enough (3-10 people) to be effective.
 * Members of the team trust one another and can be genuinely vulnerable with each other.
 * Team members regularly engage in productive, unfiltered conflict around important issues.
 * The team leaves meetings with clear-cut, active, and specific agreements around decisions.
@@ -157,6 +157,7 @@ during a meeting, to remind them what they are doing is good
     - collective goals
     - team number one
 1. Discipline 2: create clarity
+* 
 1. Discipline 3: Overcommunicate clarity
 1. Discipline 4: Reinforce clarity
 1. The centrality of great meetings
