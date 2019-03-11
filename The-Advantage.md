@@ -5,9 +5,12 @@ Book by Patrick Lencioni
 ## Terms
 
 organization, smart, healthy, team, leadership, discipline, behavior, clarity, team number one, conflict, collective,
-ownership, goal, meetings, values, strategic anchors, sophistication bias, adrenaline bias, quantification bias,
-permission to play, multiplier effect, cohesive, leadership team, collectively responsible, vulnerability-based trust,
-mining for conflict, real-time permission, accountability, peer pressure, public, private, results
+ownership, goal, meetings, values, sophistication bias,
+adrenaline bias, quantification bias, permission to play, multiplier effect,
+cohesive, leadership team, collectively responsible, vulnerability-based trust,
+mining for conflict, real-time permission, accountability, peer pressure,
+public, private, results, blather, perfection paralysis, values stampede, core values,
+aspirational values, strategic anchors, 
 
 Sophistication bias: Org health is so simple & accessible that many leaders have
 a hard time seeting it as a real oppportunity for meaningful advantage.
@@ -34,6 +37,11 @@ even, "I'm sorry."
 Real-time permission: leader interrupts when people engage in disagreement
 during a meeting, to remind them what they are doing is good
 
+Values stampede: overly broad values statement, due to trying to be all things to all people
+
+Strategic anchors: provide context for all decision making and help companies
+avoid temptation to make purely pragmatic and opportunistic decisions that so
+often end up diminishing company's plan for success
 
 ## Disciplines
 
@@ -49,6 +57,16 @@ during a meeting, to remind them what they are doing is good
 1. Achieving commtiment
 1. Embracing accountability
 1. Focusing on results
+
+
+## Critical questions
+
+1. Why do we exist?
+1. How do we behave?
+1. What do we do?
+1. How will we succeed?
+1. What is most important, right now?
+1. Who must do what?
 
 ## Checklist for organizational health
 
@@ -157,7 +175,38 @@ during a meeting, to remind them what they are doing is good
     - collective goals
     - team number one
 1. Discipline 2: create clarity
-* 
+  * Blather
+  * Six critical questions
+  * Perfection paralysis
+  * Question 1: why do we exist?
+    - Finding your reason for existing
+    - "Why do we exist?" categories
+      * customer
+      * industry
+      * greater cause
+      * community
+      * employees
+      * wealth
+    - Not a differentiator
+  * Question 2: How do we behave?
+    - Values stampede
+    - Different kinds of values
+      * core values
+      * aspirational values
+      * permission-to-play values
+      * accidental values
+    - Isolating the core
+    - Choosing a name
+    - Identifying core values
+  * Question 3: What do we do?
+  * Question 4: How will we succeed?
+    - Strategic anchors
+  * Question 5: What is most important, right now?
+  * Question 6: Who must do what?
+
+
+    
+  
 1. Discipline 3: Overcommunicate clarity
 1. Discipline 4: Reinforce clarity
 1. The centrality of great meetings
