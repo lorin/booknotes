@@ -11,7 +11,7 @@ cohesive, leadership team, collectively responsible, vulnerability-based trust,
 mining for conflict, real-time permission, accountability, peer pressure,
 public, private, results, blather, perfection paralysis, values stampede, core values,
 aspirational values, strategic anchors, strategy amoeba, strategic durability, thematic goal,
-objectives
+objectives, one-page model, playbook
 
 Sophistication bias: Org health is so simple & accessible that many leaders have
 a hard time seeting it as a real oppportunity for meaningful advantage.
@@ -54,9 +54,23 @@ Thematic goal: The rallying cry. Answers the question *What is most important, r
   * temporary
   * shared across the leadership team
   
+Examples of a thematic goal:
+* make the new airline partnership work
+* rebuild credibility with the business
+* expand our consulting practice
+  
 Standard operating objectives: ongoing and relatively straightforward metrics
 and areas of responsibility that any leadership team must maintain in order to
 keep the org afloat.
+
+One-page model: single sheet of paper should contain
+* thematic goals
+* defining objectives
+* standard objectives
+
+Playbook: simple document summarizing answers to the six critical questions
+* short (a few pages)
+* leadership team members should keep playbook with them at all times
 
 ## Disciplines
 
@@ -194,44 +208,47 @@ keep the org afloat.
   
   
 ### Discipline 2: create clarity
-  * Blather
-  * Six critical questions
-  * Perfection paralysis
-  * Question 1: why do we exist?
-    - Finding your reason for existing
-    - "Why do we exist?" categories
-      * customer
-      * industry
-      * greater cause
-      * community
-      * employees
-      * wealth
-    - Not a differentiator
-  * Question 2: How do we behave?
-    - Values stampede
-    - Different kinds of values
-      * core values
-      * aspirational values
-      * permission-to-play values
-      * accidental values
-    - Isolating the core
-    - Choosing a name
-    - Identifying core values
-  * Question 3: What do we do?
-  * Question 4: How will we succeed?
-    - Strategic anchors
-    - Identifying anchors
-    - Strategy durability
-  * Question 5: What is most important, right now?
-    - One thing
-    - The thematic goal (a.k.a. the rallying cry)
-    - Leaders without hats
-    - Defining objectives
-    - Standard operating objectives
-    - The one-page model
-  * Question 6: Who must do what?
+* Blather
+* Six critical questions
+* Perfection paralysis
+* Question 1: why do we exist?
+  - Finding your reason for existing
+  - "Why do we exist?" categories
+    * customer
+    * industry
+    * greater cause
+    * community
+    * employees
+    * wealth
+  - Not a differentiator
+* Question 2: How do we behave?
+  - Values stampede
+  - Different kinds of values
+    * core values
+    * aspirational values
+    * permission-to-play values
+    * accidental values
+  - Isolating the core
+  - Choosing a name
+  - Identifying core values
+* Question 3: What do we do?
+* Question 4: How will we succeed?
+  - Strategic anchors
+  - Identifying anchors
+  - Strategy durability
+* Question 5: What is most important, right now?
+  - One thing
+  - The thematic goal (a.k.a. the rallying cry)
+  - Leaders without hats
+  - Defining objectives
+  - Standard operating objectives
+  - The one-page model
+* Question 6: Who must do what?
+* The playbook
 
 ### Discipline 3: Overcommunicate clarity
+
+
 ### Discipline 4: Reinforce clarity
 ### The centrality of great meetings
 ### Seizing the advantage
