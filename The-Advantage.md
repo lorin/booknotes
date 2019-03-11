@@ -142,12 +142,12 @@ often end up diminishing company's plan for success
     - The multiplier effect
     - Media and academia
     - The price of poor health
-1. The four disciplines model
+2. The four disciplines model
   * Discipline 1: build a cohesive leadership team
   * Discipline 2: create clarity
   * Discipline 3: Overcommunicate clarity
   * Discipline 4: Reinforce clarity
-1. Discipline 1: build a cohesive leadership team
+3. Discipline 1: build a cohesive leadership team
   * Defining a leadership "team"
     - A small group of people
     - Collectively responsible
@@ -174,7 +174,7 @@ often end up diminishing company's plan for success
   * Behavior 4: Focusing on results
     - collective goals
     - team number one
-1. Discipline 2: create clarity
+4. Discipline 2: create clarity
   * Blather
   * Six critical questions
   * Perfection paralysis
