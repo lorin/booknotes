@@ -12,7 +12,7 @@ mining for conflict, real-time permission, accountability, peer pressure,
 public, private, results, blather, perfection paralysis, values stampede, core values,
 aspirational values, strategic anchors, strategy amoeba, strategic durability, thematic goal,
 objectives, one-page model, playbook, cascading communication, true rumors, top-down communication,
-non-generics, gut feel, structure
+non-generics, gut feel, structure, real-time agenda
 
 Sophistication bias: Org health is so simple & accessible that many leaders have
 a hard time seeting it as a real oppportunity for meaningful advantage.
@@ -273,10 +273,13 @@ Non-generics: prefer shorter customized performance review form over a longer ge
 * The four meetings
   1. Daily check-ins
   1. Tactical staff meetings
-    - Real-time agenda
   1. Adhoc topical meetings
   1. Quarterly off-site reviews
 * Too much time in meetings?
 
 
 ### Seizing the advantage
+
+* The leader's sacrifice
+* First critical steps
+* Ultimate impact
