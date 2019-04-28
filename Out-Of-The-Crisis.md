@@ -56,3 +56,53 @@
 13. Institute a vigorous program of education and self-improvement.
 14. Put everybody in the company to work to accomplish the transformation. The
     transformation is everybody's job.
+
+
+## Notable quotes
+
+Focus on outcome (management by numbers, MBO, work standards, meet
+specifications, zero defects, appraisal of performance) must be abolished,
+leadership put in place. (p54)
+
+We mistrust the management. We can’t believe their answers when we ask why we do it this way. The management have a reason, but tell us something else. (p61)
+
+Goals are necessary for you and for me, but numerical goals set for other people, without a road map to reach the goal, have effects opposite to the effects sought. (p69)
+
+Eliminate numerical quotas for the work force. (p70)
+
+She must bury her pride of workmanship to make her quota, or lose pay and maybe also her job. (p72)
+
+Work standards, rates, incentive pay, and piece work are manifestations of inability to understand and provide appropriate supervision. (p72)
+
+If you have a stable system, then there is no use to specify a goal. You will get whatever the system will deliver. A goal beyond the capability of the system will not be reached. (p76)
+
+To manage, one must lead. To lead, one must understand the work that he and his people are responsible for. (p76)
+
+He must learn from his people what they are doing and must learn a lot of new subject matter. (p76)
+
+Focus on outcome is not an effective way to improve a process or an activity. (p76)
+
+[M]anagement by numerical goal is an attempt to manage without knowledge of what to do, and in fact is usually management by fear. (p76)
+
+The only number that is permissible for a manager to dangle in front of his people is a plain statement of fact with respect to survival. (p76)
+
+Barriers against realization of pride of workmanship may in fact be one of the most important obstacles to reduction of cost and improvement of quality in the United States. (p83)
+
+Foremen do not have sufficient knowledge to give leadership. (p84)
+
+"I do not know how my performance is measured. The merit rating is a farce." (p84)
+
+In my experience, people can face almost any problem except the problems of people. (p85)
+
+The possibility of pride of workmanship means more to the production worker than gymnasiums, tennis courts, and recreation areas. (p85)
+
+People require in their careers, more than money, ever-broadening opportunities to add something to society, materially and otherwise. (p86)
+
+At successive sessions, people may tear up what they did in the previous session and make a fresh start with clearer ideas. This is a sign of advancement. (p90)
+
+A group, a team, should have an aim, a job, a goal. A statement thereof must not be specific in detail, else it stifle initiative. (p90)
+
+How do you know if you produce good results or poor results; i.e., are there standards or criteria of good performance? (p91)
+
+My people are destroyed for lack of knowledge.—Hosea 4:6. (p97)
+
