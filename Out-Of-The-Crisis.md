@@ -106,3 +106,27 @@ How do you know if you produce good results or poor results; i.e., are there sta
 
 My people are destroyed for lack of knowledge.—Hosea 4:6. (p97)
 
+Merit rating rewards people that do well in the system. It does not reward attempts to improve the system. Don’t rock the boat. (p102)
+
+Counts relieve management of the necessity to contrive a measure with meaning. (p105)
+
+Unfortunately, people that are measured by counting are deprived of pride of workmanship. (p105)
+
+A good rating for work on new product and new service that may generate new
+business five or eight years hence, and provide better material living,
+requires enlightened management. He that engages in such work would study
+changes in education, changes in style of living, migration in and out of urban
+areas. He would attend meetings of the American Sociological Society, the
+Business Section of the American Statistical Association, the American
+Marketing Association. He would write professional papers to deliver at such
+meetings, all of which are necessary for the planning of product and service of
+the future. He would not for years have anything to show for his labors.
+Meanwhile, in the absence of enlightened management, other people getting good
+ratings on short-run projects would leave him behind. (p106)
+
+[A]pparent differences between people arise almost entirely from action of the system that they work in, not from the people themselves. (p110)
+
+A leader, instead of being a judge, will be a colleague, counseling and leading his people on a day-to-day basis, learning from them and with them. (p117)
+
+Actually, the most important figures that one needs for management are unknown or unknowable (Lloyd S. Nelson, p. 20), but successful management must nevertheless take account of them. (p121)
+
