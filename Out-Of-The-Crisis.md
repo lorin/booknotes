@@ -130,3 +130,61 @@ A leader, instead of being a judge, will be a colleague, counseling and leading 
 
 Actually, the most important figures that one needs for management are unknown or unknowable (Lloyd S. Nelson, p. 20), but successful management must nevertheless take account of them. (p121)
 
+He that expects to quantify in dollars the gains that will accrue to a company
+year by year for a program for improvement of quality by principles expounded
+in this book will suffer delusion. He should know before he starts that he will
+be able to quantify only a trivial part of the gain. (p123)
+
+Their engineers, I found, were treating every problem as a special cause—find it and remove it—not working on the system itself. (p135)
+
+We have for twenty-five years been working on problems, and not on the processes that caused the problems. (p146)
+
+Do you manage by objective? If yes, how much is this mode of management costing
+you? Do you understand what is wrong with this practice? What are you doing to
+replace it with better management? (p159)
+
+To find the mistake is not enough. It is necessary to find the cause behind the mistake, and to build a system that minimizes future mistakes. (p225)
+
+This venture into improvement of quality and productivity is not a program with
+a beginning and an end, but a philosophy that directs efforts at all levels of
+responsibility towards the more effective use of the resources available to
+meet the needs of customers. (p245)
+
+[W]here there is fear, there will be wrong figures. (p266)
+
+The foreman, for fear of his job, could not protect the best interests of the company. He is judged by numbers only, not for avoiding shutdowns. (p268)
+
+Experience without theory teaches nothing. (p317)
+
+[A] control chart in the hands of an hourly worker can be effective only if he is not afflicted with barriers that rob him of pride in his work. (p338)
+
+The engineers were confusing common causes with special causes. Every fault was
+to them a special cause, to track down, discover, and eliminate. They were
+trying to find the causes of ups and downs in a stable system, making things
+worse, defeating their purpose. (p358)
+
+For in much wisdom is great grief; and he that increaseth knowledge increaseth sorrow.—Ecclesiastes 1:18. (p371)o
+
+[F]our basic axioms:
+
+1. Some points of a group must lie above the average of the group.
+2. Not all points will lie on the average
+3. There is in the ideal state of statistical control variation of quality and quantity, but the ups and downs satisfy criteria of randomness.
+4. There are not only special causes of variation and loss, but also common causes of loss arising from the system itself, if there be a system
+
+(pp. 388-389)
+
+Any claim to make use of relevant experience without a plan based on theory is a disguise for rationalization of a decision that has already been made.
+(p404)
+
+Help toward improvement can come only from outside knowledge. (p405)
+
+Everyone, regardless of his job, needs a chance to learn and develop. (p466)
+
+Figures on accidents do nothing to reduce the frequency of accidents. The first
+step in reduction of the frequency of accidents is to determine whether the
+cause of an accident belongs to the system or to some specific person or set of
+conditions. Statistical methods provide the only method of analysis to serve as
+a guide to the understanding of accidents and to their reduction. (p478)
+
+Deming, W. Edwards. Out of the Crisis (The MIT Press) (p. 478). The MIT Press. Kindle Edition. 
