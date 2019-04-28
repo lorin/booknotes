@@ -6,7 +6,6 @@ by James C. Scott
 
 authoritarian high-modernism, legibility, mētis
 
-
 ## Case studies
 
 * scientific forestry (Germany)
@@ -356,7 +355,7 @@ without which it could not exist, and which it alone cannot create or maintain.
         - The Lenin of *what is to be done?*
         - Theory and practice: the revolutions of 1917
         - The Lenin of *state and revolution*
-        - The Lenin of "the agrarian question*
+        - The Lenin of *the agrarian question*
         - Luxemburg: physician and midwife to the revolution
         - Revolution as a living process
         - Aleksandra Kollontay and the workers' opposition to Lenin
@@ -518,4 +517,5 @@ Rules of thumb for development planning:
 - Favor reversibility
 - Plan on surprises
 - Plan on human inventiveness
+
 
