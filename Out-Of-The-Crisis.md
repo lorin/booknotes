@@ -20,7 +20,7 @@
 1. Create constancy of purpose toward improvement of product and service, with
    the aim to become competitive and to stay in business, and to provide jobs.
 2. Adopt the new philosophy. We are in a new economic age. Western management
-   must awaken to teh challenge, learn their responsibilites, and take on
+   must awaken to the challenge, learn their responsibilites, and take on
    leadership for change.
 3. Cease dependence on inspection to achieve quality. Elminate the need for
    inspection on a mass basis by building quality into the product in the first
