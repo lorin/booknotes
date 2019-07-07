@@ -81,13 +81,6 @@ as something less than perfect.
 
 
 
-## Companies that manage safety performance well constantly work on these four things
-
-1. We are fixated on where the next failure will happen
-2. We constantly strive to reduce complicated operations
-3. We respond to low level signals seriously
-4. We respond to events deliberately
-
 
 ## Reasons you must have a cause for every ecent
 
@@ -113,6 +106,35 @@ as something less than perfect.
 * Have I assumed a level of knowledge and skill in safety leadership that is not there yet?
 * Am I accessing reality? Am I working with the management team? Is it the case that I don't have the management team I wish I had?
 
+## To prepare to move org to more progressive view of failure
+
+* Read everything you can
+* Find a person who has made this change (or is making this change) in their industry, and make a friend
+* Start looking at what type of training you should be doing
+* Fully gain management commitment
+* Regain management commitment
+* Identify your core group and opinion leaders
+* Check for backslide activities
+* Capitalize on worker involvement
+* Start change management strategy
+* Begin building a unified vocabulary
+* Start Human Performance fundamentals training for your managers, supervsiors, and workers
+* Work on changing the way your organization does failure analysis and investigations
+* Look at work planning. Planning is always approximate and incomplete so in
+  many ways planning is never done.
+* Look for "low hanging fruit"
+* Make your program visible and deliberate
+* Get to the field
+* Try a "learning team" approach
+* Know that this takes time
+* Help someone else
+
+## Companies that manage safety performance well constantly work on these four things
+
+1. We are fixated on where the next failure will happen
+2. We constantly strive to reduce complicated operations
+3. We respond to low level signals seriously
+4. We respond to events deliberately
 
 
 ## Selected quotes
@@ -255,4 +277,31 @@ We are emotionally wired to blame ourselves for mistakes that, in retrospect, se
 I can almost guarntee you will overshoot your audience at one point or another
 in your training program.
 
+Cause becomes more powerful if you don't understand the idea of error. Error
+lets you move a class from "you can't fix stupid" to the idea that "everyone
+makes mistakes". Building that Human Performance bridge through conversation is
+not just something nice to do—the conversation is vital in creating new ways to
+see old ideas.
 
+Our principles start with human fallibility, move through system influence, and
+end with parallel management of systems and behaviors.
+
+The workers realize that you know wher a system is going to go wrong you can
+protect agains tthat predictable failure. The workers are now interested.
+
+Outcomes define the difference between a good idea and a bad idea.
+
+the solution *emerged ass an outcome of the group and the problem*.
+
+If you want to understand failure, you must first understand how your
+organization reacts to failure (quote from Dekker's field guide to
+understanding human error).
+
+You will be surprised at the change in your organization the first time one of your managers asks in an incident review, "how did we set up a worker for this failure?" as opposed to the normal question, "what were you thinking when you stpped off that scaffolding?"
+
+The only problem is that it really is hard to measuer all the failures that
+didn't happen because of your Human Performance improvement effort.
+
+What is essential is that you move to this change with a sense of fearlessness.
+
+Think in small steps. Think one person at a time. It does not sound efficient, but it is the only way to make change stick.
