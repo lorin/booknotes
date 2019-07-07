@@ -305,3 +305,13 @@ didn't happen because of your Human Performance improvement effort.
 What is essential is that you move to this change with a sense of fearlessness.
 
 Think in small steps. Think one person at a time. It does not sound efficient, but it is the only way to make change stick.
+
+Simply by seeking to understand the story and context that surrounds a failure, you will see safety get better.
+
+Directing a new safety course correction is complicated, time-consuming, and,
+flatly, a lot work.
+
+Remmeber: your job is to help change the way your organization learns about
+failure.
+
+The ability to detect and correct all the conditions that normally exist as precursors to failure is not easy, and, most importantly, not accidental.
