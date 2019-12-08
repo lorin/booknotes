@@ -10,7 +10,7 @@ By Todd Conklin
 4. Workers don't cause failure, workers trigger failure
 5. Change is better when you manage change—and change needs to be managed
 6. Thinking about where failure will happen
-7. Fundamentls training: introducing the "new view" to your old crew
+7. Fundamentals training: introducing the "new view" to your old crew
 8. Starting the journey—the first steps
 9. The four things that matter
 
