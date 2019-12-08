@@ -57,7 +57,7 @@ as something less than perfect.
 * Are they the same definition?
 
 
-## Nine things managers should ask first and in order when theya re notified that something unexpected happened
+## Nine things managers should ask first and in order when they are notified that something unexpected happened
 
 1. Your response to an event matters!
 2. Are the people OK?
