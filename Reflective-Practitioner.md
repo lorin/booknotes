@@ -7,7 +7,7 @@ by Donald A. Schön
 Professional knowledge, reflection-in-action, technical rationality, reflective
 conversation, rigor or relevance, tacit knowing, knowing-in-action, reflecting-in-practice,
 epistemology of practice, reflective inquiry, back-talk, language of designing, design domains,
-spatial action languageG
+spatial action languageG, exploratory experiment, move-testing experiment
 
 ## Fields examined
 
@@ -299,3 +299,37 @@ How can an inquirer use what he already knows in a situation which he takes to b
 It is clear that Quist and the Supervisor use a great deal of their experience and knowledge, and it is far from clear what might be meant by the spontaneous generation of a description.
 
 What I want to propose is this: The practitioner has built up a repertoire of examples, images, understandings, and actions.
+
+When a practitioner makes sense of a situation he perceives to be unique, he
+*sees* it *as* something already present in his repertoire. To see *this* site as
+*that* one is not to subsume the first under a familiar category or rule. It is,
+rather, to see the unfamiliar, unique situation as both similar to and different
+from the familiar one, without at first being able to say similar or different
+with respect to what.
+
+Indeed, as we have seen, Quist and the Supervisor conduct reflective conversations with their situations which are experiments in refraining.
+
+In the most generic sense, to experiment is to act in order to see what the
+action leads to. The most fundamental experimental question is, "What if?"
+
+Exploratory experiment is essential to the sort of science that does not appear
+in the scientific journals, because it has been screened out of the scientists'
+accounts of experimental results (perhaps because it does not conform to the
+norms of controlled experiment).
+
+There is another way in which we sometimes do things in order to see what
+happens: we take action in order to produce an intended change.
+
+In the on-the-spot experimenting characteristic of reflection-in-action, the
+*logic* of hypothesis testing is essentially the same as it is in the research
+context.
+
+The practitioner makes his hypothesis come true. He acts as though his hypothesis were in the imperative mood.
+
+The practitioner violates the canon of controlled experiment, which calls for objectivity and distance.
+
+And they seek to exert influence in such a way as to confirm, not refute, their hypotheses.
+
+The inquirer's relation to this situation is *transactional*. He shapes the situation, but in conversation with it, so that his own models and appreciations are also shaped by the situation.
+
+Schön, Donald A.. The Reflective Practitioner (pp. 150-151). Taylor and Francis. Kindle Edition. 
