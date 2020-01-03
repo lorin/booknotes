@@ -6,7 +6,8 @@ by Donald A. Schön
 
 Professional knowledge, reflection-in-action, technical rationality, reflective
 conversation, rigor or relevance, tacit knowing, knowing-in-action, reflecting-in-practice,
-epistemology of practice, reflective inquiry, back-talk
+epistemology of practice, reflective inquiry, back-talk, language of designing, design domains,
+spatial action languageG
 
 ## Fields examined
 
@@ -235,3 +236,66 @@ The dilemma of rigor or relevance may be dissolved if we can develop an epistemo
 
 In answer to the situation's back-talk, the designer reflects-in-action on the construction of the problem, the strategies of action, or the model of the phenomena, which have been implicit in his moves.
 
+Drawing and talking are parallel ways of designing, and together make up what I will call the language of designing.
+
+As they become more confident that they have achieved congruence of meaning, their dialogue tends to become elliptical and inscrutable to outsiders
+
+In the medium of sketch and spatial-action language, he represents buildings on the site through moves which are also experiments.
+
+Three dimensions of this process are particularly noteworthy: the domains of
+language in which the designer describes and appreciates the consequences of his
+moves, the implications he discovers and follows, and his changing stance toward
+the situation with which he converses.
+
+"A kind of garden" is not literally a garden, and the "soft back area" is not literally soft, but the metaphors of "garden" and "soft" are used to convey particular values of experience.
+
+Aspiring members of the linguistic community of design learn to detect multiple reference, distinguish particular meanings in context, and use multiple reference as an aid to vision across design domains.
+
+they are noting the implications of earlier moves for later ones, on the basis of a system of norms that governs the relative placement of major building elements.
+
+As he reflects-in-action on the situation created by his earlier moves, the designer must consider not only the present choice but the tree of further choices to which it leads, each of which has different meanings in relation to the systems of implications set up by earlier moves.
+
+In the designer's conversation with the materials of his design, he can never make a move which has only the effects intended for it. His
+
+Thus the designer evaluates his moves in a threefold way: in terms of the desirability of their consequences judged in categories drawn from the normative design domains, in terms of their conformity to or violation of implications set up by earlier moves, and in terms of his appreciation of the new problems or potentials they have created.
+
+The ensuing inquiry is a global experiment, a reflection-in-action on the restructured problem.
+
+But whatever their differences of language, priorities, images, styles, and
+precedents, they are likely to find themselves, like Quist, in a situation of
+complexity and uncertainty which demands the imposition of an order.
+
+What eludes him is the system of understandings which lies behind the
+Supervisor's inquiry. When the Supervisor demonstrates what he takes as a story
+sufficient for interpretation, when he focuses on certain details while leaving
+others in the background, he appears to be guided by a repertoire of story
+types, interpretive explanations, and psychodynamic patterns. He uses these but
+does not describe them.
+
+He reflects-in-action but he does not reflect on his reflection-in-action.
+
+In both examples, the practitioner approaches the practice problem as a unique case. He does not act as though he had no relevant prior experiences; on the contrary. But he attends to the peculiarities of the situation at hand.
+
+In neither example is the problem given. Or rather, the student presents a problem that the teacher criticizes and rejects.
+
+The cases are similar in the further sense that in both architecture and psychiatry there are many competing views of the nature of the practice. There is controversy not only about the best way of solving specific problems, but about what problems are worth solving and what role the practitioner should play in their solution.
+
+But the practitioner's moves also produce unintended changes which give the situations new meanings.
+
+In this reflective conversation, the practitioner's effort to solve the reframed problem yields new discoveries which call for new reflection-in-action.
+
+The unique and uncertain situation comes to be understood through the attempt to change it, and changed through the attempt to understand it.
+
+In these instances, the practitioner affirms his refraining of the problem, because he values the unintended changes he has made and discovered.
+
+Thus he judges a problem-setting by the quality and direction of the reflective conversation to which it leads. This judgment rests, at least in part, on his perception of potentials for coherence and congruence which he can realize through his further inquiry.
+
+Thus the practitioner evaluates his experiment in refraining the problematic situation not only by his ability to solve the new problem he has set but by his appreciations of the unintended effects of action, and especially by his ability, in conversation with the situation, to make an artifact that is coherent and an idea that is understandable.
+
+the practitioner also evaluates his reframing by its ability, in Erikson's phrase, to keep inquiry moving.
+
+How can an inquirer use what he already knows in a situation which he takes to be unique?
+
+It is clear that Quist and the Supervisor use a great deal of their experience and knowledge, and it is far from clear what might be meant by the spontaneous generation of a description.
+
+What I want to propose is this: The practitioner has built up a repertoire of examples, images, understandings, and actions.
