@@ -4,7 +4,9 @@ by Donald A. Schön
 
 ## Terms
 
-Professional knowledge, reflection-in-action, technical rationality, reflective conversation
+Professional knowledge, reflection-in-action, technical rationality, reflective
+conversation, rigor or relevance, tacit knowing, knowing-in-action, reflecting-in-practice,
+epistemology of practice, reflective inquiry, back-talk
 
 ## Fields examined
 
@@ -138,3 +140,98 @@ condition for technical problem solving, it is not itself a technical problem.
 
 Problem setting is a process in which, interactively, we *name* the things to
 which we will attend and *frame* the context in which we will attend to them.
+
+Technical Rationality depends on agreement about ends.
+
+It is rather through the nontechnical process of framing the problematic
+situation that we may organize and clarify both the ends to be achieved and the
+possible means of achieving them.
+
+In the varied topography of professional practice, there is a high, hard ground
+where practitioners can make effective use of research-based theory and
+technique, and there is a swampy lowland where situations are confusing "messes"
+incapable of technical solution. The difficulty is that the problems of the high
+ground, however great their technical interest, are often relatively unimportant
+to clients or to the larger society, while in the swamp are the problems of
+greatest human concern.
+
+Engineering that seems powerful and elegant when judged from a narrowly
+technical perspective may also carry unacceptable risks to environmental quality
+or human safety.
+
+There are those who choose the swampy lowlands. They deliberately involve
+themselves in messy but crucially important problems and, when asked to describe
+their methods of inquiry, they speak of experience, trial and error, intuition,
+and muddling through.
+
+But for the most part, the use of formal models has proceeded as though it had a
+life of its own. Driven by the evolving questions of theory and technique,
+formal modelling has become increasingly divergent from the real-world problems
+of practice. And practitioners who choose to remain on the high ground have
+continued to use formal models for complex problems, quite oblivious to the
+troubles incurred whenever a serious attempt is made to implement them.
+
+They may use "junk categories" to explain away discrepant data, as technical
+analysts sometimes attribute the failure of their recommendations to
+"personality" or to "politics."
+
+Nevertheless, Schein also believes that the problems of professional practice
+continue to have unique and unpredictable elements. One of the hallmarks of the
+professional, therefore, is his ability to "take a convergent knowledge base and
+convert it into professional services that are tailored to the unique
+requirements of the client system," a process which demands "divergent thinking
+skills."
+
+Schein, Glazer, and Simon propose three different approaches to the limitations
+of Technical Rationality and the related dilemma of rigor or relevance. All
+three employ a common strategy, however. They try to fill the gap between the
+scientific basis of professional knowledge and the demands of real-world
+practice in such a way as to preserve the model of Technical Rationality.
+
+Our knowing is ordinarily tacit, implicit in our patterns of action and in our
+feel for the stuff with which we are dealing. It seems right to say that our
+knowing is in our action.
+
+In his day-to-day practice [the practitioner] makes innumerable judgments of quality for which
+he cannot state adequate criteria, and he displays skills for which he cannot
+state the rules and procedures.
+
+It is this entire process of reflection-in-action which is central to the "art"
+by which practitioners sometimes deal well with situations of uncertainty,
+instability, uniqueness, and value conflict.
+
+Over the years, several writers on the epistemology of practice have been struck
+by the fact that skillful action often reveals a "knowing more than we can say."
+
+Barnard believes that our bias toward thinking blinds us to the non-logical
+processes which are omnipresent in effective practice.
+
+Chris Alexander, in his Notes Toward a Synthesis of Form considers the
+knowing involved in design. He believes that we can often recognize and correct
+the "bad fit" of a form to its context, but that we usually cannot describe the
+rules by which we find a fit bad or recognize the corrected form to be good.
+
+In examples like these, knowing has the following properties:
+* There are actions, recognitions, and judgments which we know how to carry out spontaneously; we do not have to think about them prior to or during their performance.
+* We are often unaware of having learned to do these things; we simply find ourselves doing them.
+* In some cases, we were once aware of the understandings which were subsequently internalized in our feeling for the stuff of action. In other cases, we may never have been aware of them. In both cases, however, we are usually unable to describe the knowing which our action reveals.
+
+But they may also reflect on practice while they are in the midst of it. Here
+they reflect-in -action, but the meaning of this term needs now to be considered
+in terms of the complexity of knowing-in-practice.
+
+In each instance, the practitioner allows himself to experience surprise,
+puzzlement, or confusion in a situation which he finds uncertain or unique. He
+reflects on the phenomena before him, and on the prior understandings which have
+been implicit in his behavior. He carries out an experiment which serves to
+generate both a new understanding of the phenomena and a change in the
+situation.
+
+When someone reflects-in-action, he becomes a researcher in the practice context. He is not dependent on the categories of established theory and technique, but constructs a new theory of the unique case.
+
+Although reflection-in-action is an extraordinary process, it is not a rare event. Indeed, for some reflective practitioners it is the core of practice. Nevertheless, because professionalism is still mainly identified with technical expertise, reflection-inaction is not generally accepted—even by those who do it—as a legitimate form of professional knowing.
+
+The dilemma of rigor or relevance may be dissolved if we can develop an epistemology of practice which places technical problem solving within a broader context of reflective inquiry, shows how reflection-in-action may be rigorous in its own right, and links the art of practice in uncertainty and uniqueness to the scientist's art of research.
+
+In answer to the situation's back-talk, the designer reflects-in-action on the construction of the problem, the strategies of action, or the model of the phenomena, which have been implicit in his moves.
+
