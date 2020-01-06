@@ -7,7 +7,26 @@ by Donald A. Schön
 Professional knowledge, reflection-in-action, technical rationality, reflective
 conversation, rigor or relevance, tacit knowing, knowing-in-action, reflecting-in-practice,
 epistemology of practice, reflective inquiry, back-talk, language of designing, design domains,
-spatial action languageG, exploratory experiment, move-testing experiment
+spatial action language, exploratory experiment, move-testing experiment, generative metaphor,
+interpersonal theory of action, Model I, Model II
+
+### Model I
+
+* Achieve the task, as I define it. 
+* In win/lose interactions with others, try to win and avoid losing. 
+* Avoid negative feelings, such as anger or resentment. 
+* Be rational, in the sense of "Keep cool, be persuasive, use rational argument."
+
+### Model II
+
+* Give and get valid information. 
+* Seek out and provide others with directly observable data and correct reports, so that valid attributions can be made.
+* Create the conditions for free and informed choice.
+* Try to create, for oneself and for others, awareness of the values at stake in decision, awareness of the limits of one's capacities, and awareness of the zones of experience free of defense mechanisms beyond one's control. 
+* Increase the likelihood of internal commitment to decisions made.
+* Try to create conditions, for oneself and for others, in which the individual is committed to an action because it is intrinsically satisfying—not, as in the case of Model I, because it is accompanied by external rewards or punishments.
+
+
 
 ## Fields examined
 
@@ -413,4 +432,52 @@ descriptions which guided their further investigations. Where do such
 descriptions come from? They are, at least on some occasions, outcomes of
 reflections on a perceived similarity, a process which in the previous chapter I
 called *seeing as*.
+
+Kuhn calls such processes "thinking from exemplars".
+
+Paintbrush as pump is an example of waht I mean by a generative metaphor.
+
+What makes the process one of metaphor making, rather than simply of describing, is that the new putative description already belongs to what is initially perceived as a different, albeit familiar, thing; hence, everything one knows about pumping has the potential of being brought into play in this redescription of painting.
+
+Paintbrush as pump was a generative metaphor for the researchers in the sense that it generated new perceptions, explanations, and inventions. It is important to note that the researchers were able to see painting as similar to pumping before they were able to say similar with respect to what.
+
+Thus in technological development as in scientific research, inquirers can sometimes figure out how to solve unique problems or make sense of puzzling phenomena by modelling the unfamiliar on the familiar.
+
+But the idea of reflection on *seeing-as* suggests a direction of inquiry into
+processes which tend otherwise to be mystified and dismissed with the terms
+"intuition" or "creativity," and it suggests how these processes might be placed
+within the framework of reflective conversation with the situation which I have
+proposed as a partial account of the arts of engineering design and scientific
+investigation.
+
+What the students seem to be learning was, as Aida said, to take initiative in solving problems for themselves, to be skeptical of outside authority, to settle disagreements by experiment. But they may have been learning more than this.
+
+These students, at any rate, seemed to be learning to model the unfamiliar on the familiar and to reframe their questions around the changes which resulted unexpectedly from their actions.
+
+Nevertheless, as he became more fully aware of the methodological difficulties
+in constructing the model and of the dilemmas of implementing it, he was led to
+restructure his image of intervention. It would not be outside experts but
+community members themselves who would use the nutrient flow model idea to
+diagnose their own malnourishment problems and design their own interventions.
+With this change, community learning became an objective equal in importance to
+the reduction of malnourishment. And as a consequence, community members—who
+might have figured as parts of the social context of technical practice—became
+problem-solving agents. As Wilson sought to create at the *Hogar* the conditions
+for a Cogwheel Experiment on malnourishment, he had to frame and reflect on a
+new problem, that of involving and guiding the community members he wished to
+adopt as co-inquirers.
+
+The planner's interpersonal theory of action conforms to a model that Chris Argyris and I have called Model I.
+
+Yet in spite of the increasingly powerful status of management science and
+technique, managers have remained persistently aware of important areas of
+practice which fall outside the bounds of technical rationality. This awareness
+has taken two forms. Managers have become increasingly sensitive to the
+phenomena of uncertainty, change, and uniqueness.
+
+Quite apart from these exceptions to the day-to-day routine of management practice, managers have remained aware of a dimension of ordinary professional work, crucially important to effective performance, which cannot be reduced to technique.
+
+(p239)
+
+
 
