@@ -332,4 +332,85 @@ And they seek to exert influence in such a way as to confirm, not refute, their 
 
 The inquirer's relation to this situation is *transactional*. He shapes the situation, but in conversation with it, so that his own models and appreciations are also shaped by the situation.
 
-Schön, Donald A.. The Reflective Practitioner (pp. 150-151). Taylor and Francis. Kindle Edition. 
+This is another way of saying that the action by which he tests his hypothesis is also a move by which he tries to effect a desired change in the situation, and a probe by which explores it. He understands the situation by traying to change it, and considers the resulting changes not as a defect of experimental method but as the essence of its success.
+
+But in practice situations like Quist's and the Supervisor's—where experimental
+action is also a move and a probe, where the inquirer's interest in changing the
+situation takes precedence over his interest in understanding it— hypothesis
+testing is bounded by appreciations. It is initiated by the perception of
+something troubling or promising, and it is terminated by the production of
+changes one finds on the whole satisfactory, or by the discovery of new features
+which give the situation new meaning and change the nature of the questions to
+be explored.
+
+Why does he stop here? Because he has produced changes he has found satisfactory, has made of unintended outcomes something that he likes, and has produced an unintended artifact which creates a new whole idea.
+
+Why does the Supervisor not seek and test alternatives to these hypotheses?
+Because he has constructed an interpretive synthesis which accounts for and ties
+together the several stories he has elicited. He has made something coherent,
+congruent with his overarching theory, and susceptible to test by intervention.
+
+But the experimenter need discriminate among contending hypotheses only to the
+point where his moves are affirmed or yield new appreciations of the situation.
+Thus hypothesis-testing experiment has a more limited function in practice than
+in research. And because of this, constraints on controlled experiment in the
+practice situation are less disruptive of inquiry than they would otherwise be.
+
+. The inquirer who reflects-in-action plays a game with the situation in which
+he is bound by considerations relevant to the three levels of
+experiment—exploration, move testing, and hypothesis testing. His primary
+interest is in changing the situation.
+
+He experiments rigorously when he strives to make the situation conform to his view of it, while at the same time he remains open to the evidence of his failure to do so.
+
+When a move fails to do what is intended and produces consequences considered on the whole to be undesirable, the inquirer surfaces the theory implicit in the move, criticizes it, restructures it, and tests the new theory by inventing a move consistent with it.
+
+But in the practice context, priority is placed on the interest in change and therefore on the logic of affirmation. It is the logic of affirmation which sets the boundaries of experimental rigor.
+
+In his virtual world, the practitioner can manage some of the constraints to hypothesis-testing experiment which are inherent in the world of his practice. Hence his ability to construct and manipulate virtual worlds is a crucial component of his ability not only to perform artistically but to experiment rigorously.
+
+Because the drawing reveals qualities and relations unimagined beforehand, moves can function as experiments.
+
+Constraints which would prevent or inhibit experiment in the built world are greatly reduced in the virtual world of the drawing.
+
+In order to capture the benefits of the drawn world as a context for experiment, the designer must acquire certain competences and understandings. He needs to learn the traditions of graphic media, languages and notations.
+
+Quist has also learned to use graphic languages transparently. When he represents a contour of the site by a set of concentric lines, he sees through it to the actual shapes of the slope, just as practiced readers can see through the letters on a page to words and meanings. Hence he is able to move in the drawing as though he were moving through buildings on the site, exploring the felt-paths as a user of the building would experience them.
+
+Drawing functions as a context for experiment precisely because it enables the designer to eliminate features of the real-world situation which might confound or disrupt his experiments, but when he comes to interpret the results of his experiments, he must remember the factors that have been eliminated.
+
+Storytelling represents and substitutes for firsthand experience.
+
+Actions which might be otherwise irreversible can be examined for their meanings, revised, and tried again.
+
+Hence, he must adopt a kind of double vision. He must act in accordance with the
+view he has adopted, but he must recognize that he can always break it open
+later, indeed, *must* break it open later in order to make new sense of his
+transaction with the situation.
+
+Nevertheless, if the inquirer maintains his double vision, even while deepening his commitment to a chosen frame, he increases his chances of arriving at a deeper and broader coherence of artifact and idea.
+
+On this view of professional knowing, technical problem solving occupies a limited place within the inquirer's reflective conversation with his situation; the model of Technical Rationality appears as radically incomplete.
+
+For Quist and the Supervisor, practice is a kind of research. In their problem setting, means and ends are framed interdependently. And their inquiry is a transaction with the situation in which knowing and doing are inseparable.
+
+Quist and the Supervisor reflect on their students' intuitive understandings of
+the phenomena before them and construct new problems and models derived, not
+from application of research-based theories, but from their repertoires of
+familiar examples and themes. Through *seeing as* and *doing as*, they make and test
+new models of the situation. But their on-the-spot experiments, conducted in the
+virtual worlds of sketchpad and storytelling, also function as transforming
+moves and exploratory probes. Hypothesis testing has the limited function of
+enabling them to achieve satisfactory moves or to surface phenomena which cause
+them to reframe the situation.
+
+But for all of their complexity, these studies still treat the process of clinical diagnosis as a mapping of cues in the present situation to the clinician's theories of disease and methods of treatment.
+
+if we turn from the model of Technical Rationality to the actual practice of science-based professionals, however, it is clear that technical problem solving is a radically incomplete description of what engineers, agronomists, and physicians actually do.
+
+Faced with unexpected and puzzling phenomena, the inquirers made initial
+descriptions which guided their further investigations. Where do such
+descriptions come from? They are, at least on some occasions, outcomes of
+reflections on a perceived similarity, a process which in the previous chapter I
+called *seeing as*.
+
