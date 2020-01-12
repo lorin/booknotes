@@ -479,5 +479,51 @@ Quite apart from these exceptions to the day-to-day routine of management practi
 
 (p239)
 
+Yet in spite of the increasingly powerful status of management science and
+technique, managers have remained persistently aware of important areas of
+practice which fall outside the bounds of technical rationality. This awareness
+has taken two forms. Managers have become increasingly sensitive to the
+phenomena of uncertainty, change, and uniqueness.
 
+Quite apart from these exceptions to the day-to-day routine of management
+practice, managers have remained aware of a dimension of ordinary professional
+work, crucially important to effective performance, which cannot be reduced to
+technique.
 
+And in some of the most prestigious schools of management, where the curriculum
+depends on cases drawn from the actual experience of business firms, there is a
+widely held belief that managers learn to be effective not primarily through the
+study of theory and technique but through long and varied practice in the
+analysis of business problems, which builds up a generic, essentially
+unanalyzable capacity for problem solving.
+
+In management as in other fields, "art" has a two-fold meaning. It may mean
+intuitive judgment and skill, the feeling for phenomena and for action that I
+have called knowing-in-practice. But it may also designate a manager's
+reflection, in a context of action, on phenomena which he perceives as
+incongruent with his intuitive understandings.
+
+A manager's professional life is wholly concerned with an organization which is
+both the stage for his activity and the object of his inquiry. Hence, the
+phenomena on which he reflects-in-action are the phenomena of organizational
+life.
+
+In the examples that follow, I shall sample a range of organizational phenomena
+with which reflective managers concern themselves: the problem of interpreting
+the external environment's response to organizational action, the diagnosis of
+signs of trouble within an organization, the process by which an organization
+learns from its experience, and the effects of an organizational learning system
+on the way in which organizational problems are set and solved.
+
+Managers do reflect-in-action, but they seldom reflect on their reflection-in-action.
+
+3M's marketing managers treated their product as a projective test for
+consumers. They reflected on unanticipated signals from the marketplace,
+interpreted them, and then tested their interpretations by adapting the product
+to the uses that consumers had already discovered.
+
+Thus organizational learning systems, of the sort revealed by the case of Product X, become diseases that prevent their own cure.
+
+We might begin to heal the split in the held of management if we were to recognize that the art of management includes something like science in action.
+
+p268
