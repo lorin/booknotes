@@ -527,3 +527,45 @@ Thus organizational learning systems, of the sort revealed by the case of Produc
 We might begin to heal the split in the held of management if we were to recognize that the art of management includes something like science in action.
 
 p268
+
+The inquirer remains open to the discovery of phenomena, incongruent with the initial problem setting, on the basis of which he reframes the problem.
+
+What allows this to happen is that the inquirer is willing to step into the problematic situation, to impose a frame on it, to follow the implications of the discipline thus established, and yet to remain open to the situation's back-talk.
+
+Faced with some phenomenon that he finds unique, the inquirer nevertheless draws on some element of his familiar repertoire which he treats as exemplar or as generative metaphor for the new phenomenon.
+
+differences in *constants* that practitionres bring to reflection-in-action:
+* media, languages, and repertoires
+* appreciativie systems
+* overarching theories
+* role frames
+
+They give the practitioner the relatively solid references from which, in reflection-in-action, he can allow his theories and frames to come apart.
+
+Media cannot really be separated in their influence from language and repertoire. Together they make up the "stuff" of inquiry, in terms of which practitioners move, experiment, and explore.
+
+Because they have developed a feel for the media and languages of their practices, the individuals we have studied can construct virtual worlds in which to carry out imaginative rehearsals of action.
+
+Because of the importance of this feel for media and language, an experienced
+practitioner cannot convey the art of his practice to a novice merely by
+describing his procedures, rules, and theories, nor can he enable a novice to
+think like a seasoned practitioner merely by describing or even demonstrating
+his ways of thinking.
+
+Because of the differences in feel for media, language, and repertoire, the art
+of one practice tends to be opaque to the practitioners of another, obscuring
+such underlying similarities as I have outlined above.
+
+Constancy of appreciative system is an essential condition for reflection-in-action.
+
+If, in the midst of such inquiries as these, there were a sudden shift of
+appreciative system, inquiry would no longer have the character of a reflective
+conversation. It would become a series of disconnected episodes.
+
+He bounds his experimenting by his appreciation of the changes he has wrought.
+
+Overlap in appreciative system has much to do with the shape of professional
+communities of inquiry, and differences of appreciative system have much to do
+with differences in reflection-in-action both across professions and within
+them.
+
