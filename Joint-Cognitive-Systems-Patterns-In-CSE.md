@@ -8,8 +8,9 @@ This book is about how to inform the design of artifacts by taking into account 
 are likely to adapt to the changes they introduce.
 
 Terms: 
-* adaptability
+* adapt (adaptation, adaptability)
 * affordances
+* agents
 * alarms
 * anomaly response
 * artifacts
@@ -18,29 +19,67 @@ Terms:
 * bumpless transfer of control
 * cascading
 * clumsy automation
+* cognitive systems engineer
 * common ground
-* coordination
+* coordination (breakdown)
 * coupling
 * demands
 * dilemmas
 * directed attention
+* disrupting event
+* double-bind
 * escalation
 * functional synthesis
+* goal conflicts
 * hypotheses
 * interpredictability
 * joint cognitive systems
+* limits
+* literal-mind agents
 * narrowing, premature
 * over-simplifications
-* pattern
+* Norbert's contrast
+* patterns
+* problem-holders
 * reframing
 * resilience
+* responsibility
+* reverberations
 * shared frame of reference
 * substitution myth
 * tailoring
+* team player
 * tempo
 * threads
 * work
 * workload
+
+## 1. Core activities and values
+
+### Adaptability vs limits
+
+The core ideas of CSE shift the question from overcoming limits to supporting adaptability and control.
+
+The base unit of analysis is the JCS.
+
+The key process to study, model and support is how people cope with complexity.
+
+### Complementarity
+
+Artifacts are not just objects; they are hypotheses about the interplay of people, technology and work.
+
+### Core values of CSE in practice
+
+* Observing work in context
+* Abstracting patterns across specific settings and situations
+* Innovating new concepts as hypotheses about what would be useful
+* Participate in the struggle of envisioning with other stakeholders to create the future of work
+
+
+Practitioners adapt to work around difficulties and complexities, re-shaping
+artifacts to function as tools to meet the demands of the field of activity.
+
+
 
 ## Table of contents
 
@@ -107,3 +146,23 @@ Terms:
  * Brittleness
  * Managing workload in time
  * Tailoring
+ * Failure of machine explanation
+ * Why is technology so often clumsy?
+ * Making automation a team player
+  - A coordination breakdown in response to a disrupting event
+11. On people and computers in JCSs at work
+* Envisioning the impact of new technology
+* Responsibility in joint cognitive systems at work
+ - Problem-holders
+ - Goal conflicts
+ - Adapting to double-binds
+* Literal-minded agents
+ - Norbert's contrast
+* Direction for designing joint cognitive systems taht include robotic platforms
+ - Reverberations of new robotic technologies
+12. Laws that govern JCSs at work
+ * A tactice to reduce the misengineering of joint cognitive systems
+ * Five familities of first princiles or laws
+ * Laws that govern joint cognitive systems at work
+ * Design responsibility
+ * Patterns and stories
