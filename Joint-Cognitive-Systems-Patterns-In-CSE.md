@@ -7,11 +7,40 @@ A practical book.
 This book is about how to inform the design of artifacts by taking into account how people
 are likely to adapt to the changes they introduce.
 
-Terms: joint cognitive systems, affordances, bumpable, artifact, work, pattern, interpredictability, adapt, complexity,
-functional synthesis, bumpless transfer of control, automation surprise, clumsy automation, anomaly response,
-demands, dilemmas, coordination, resilience
-
-
+Terms: 
+* adaptability
+* affordances
+* alarms
+* anomaly response
+* artifacts
+* automation surprise
+* bumpable
+* bumpless transfer of control
+* cascading
+* clumsy automation
+* common ground
+* coordination
+* coupling
+* demands
+* dilemmas
+* directed attention
+* escalation
+* functional synthesis
+* hypotheses
+* interpredictability
+* joint cognitive systems
+* narrowing, premature
+* over-simplifications
+* pattern
+* reframing
+* resilience
+* shared frame of reference
+* substitution myth
+* tailoring
+* tempo
+* threads
+* work
+* workload
 
 ## Table of contents
 
@@ -50,3 +79,31 @@ demands, dilemmas, coordination, resilience
  * Affordances
  * Coordination
  * Resilience
+ * Story archetypes in "Being Bumpable"
+8. Anomaly response
+ * Control centers in action
+  - Cascading effects
+  - Interventions
+  - Revision
+  - Fixation
+  - Generating hypotheses
+  - Recognizing anomalies
+  - The puzzle of expectancies
+  - Control of attention
+  - Alarms and directed attention
+  - Updating common ground when a team member returns
+9. Pattners in multi-threaded work
+ * Managing multiple threads in time
+ * Tempo
+ * Escalation
+ * Coupling
+ * Premature narrowing
+ * Reframing
+ * Dilemmas
+ * over-simplifications
+10. Automation surprises
+ * The substitution myth
+  - Surprises about autmoation
+ * Brittleness
+ * Managing workload in time
+ * Tailoring
