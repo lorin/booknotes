@@ -142,16 +142,16 @@ p20
  * Story archetypes in "Being Bumpable"
 8. Anomaly response
  * Control centers in action
-  - Cascading effects
-  - Interventions
-  - Revision
-  - Fixation
-  - Generating hypotheses
-  - Recognizing anomalies
-  - The puzzle of expectancies
-  - Control of attention
-  - Alarms and directed attention
-  - Updating common ground when a team member returns
+   - Cascading effects
+   - Interventions
+   - Revision
+   - Fixation
+   - Generating hypotheses
+   - Recognizing anomalies
+   - The puzzle of expectancies
+   - Control of attention
+   - Alarms and directed attention
+   - Updating common ground when a team member returns
 9. Pattners in multi-threaded work
  * Managing multiple threads in time
  * Tempo
