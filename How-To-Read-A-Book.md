@@ -62,8 +62,7 @@ pp 46-47, 164-165
    (p76)
    Enumerate its major parts in their order and relation, and outline these
    parts as you have outlined the whole (p95, p163).
-4. Define the problem or problems the author is trying to solve. (p92, p163)
-   Define the problem or problems the author is trying to solve. (p95).
+4. Define the problem or problems the author is trying to solve. (p92, p95, p163)
 
 ### II. Interpreting a book's contents
 

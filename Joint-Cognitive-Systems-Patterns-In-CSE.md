@@ -7,10 +7,10 @@ A practical book.
 This book is about how to inform the design of artifacts by taking into account how people
 are likely to adapt to the changes they introduce.
 
-Terms: 
+## Terms:
 
 * abstract
-* adapt (adaptation, adaptability)
+* adapt (adaptation, adaptability, adaptive)
 * affordances
 * agents
 * alarms
@@ -18,17 +18,22 @@ Terms:
 * artifacts
 * authenticity
 * automation surprise
+* blunt end
 * bumpable
 * bumpless transfer of control
 * cascading
 * clumsy automation
 * cognition
 * cognitive systems engineer
+* cognitive vacuum
 * collaboration
 * common ground
 * coordination (coordinated activity, coordination breakdown)
 * coupling
+* cross-scale interactions
+* cycles of transformation and adaptation
 * demands
+* design seeds
 * dilemmas
 * directed attention
 * disrupting event
@@ -48,15 +53,18 @@ Terms:
 * Norbert's contrast
 * participative
 * patterns
+* practitioners
 * problem-holders
 * reframing
 * resilience
 * responsibility
 * reverberations
 * shared frame of reference
+* sharp end
 * strategies
 * substitution myth
 * support
+* stakeholders
 * systems perspective
 * tailoring
 * team player
@@ -64,6 +72,35 @@ Terms:
 * threads
 * work
 * workload
+
+
+## Laws
+
+### Law of stretched systems 
+
+Every system is stretched to operate at its capacity; as soon as there is some immprovement, for example, int eh form of new technology, it will be exploited to achieve a new intensity and tempo of activity.
+
+p18
+
+
+### Law of demands
+
+
+What makes work difficult, to a first approximation, is likely to make work hard for any JCS regardless of the composition of human and/or machine agents.
+
+p19
+
+### Law of fluency
+
+"Well"-adapted work occurs with a facility that belies the difficulty of the demands resolved and the dilemmas balanced.
+
+p20
+
+## Case studies
+
+* Nuclear power control room training simulator (p15)
+* ICU: bed book, bedmeister (Ch 3, p23-)
+* Anaesthesiologists during neurosurgery case
 
 ## Table of contents
 
@@ -153,6 +190,12 @@ Terms:
 
 ## 1. Core activities and values
 
+### Introduction
+
+Four guiding values-authenticity, abstraction, discovery, participation-infuse the activities of Cognitive
+Systems Engineering. WHen thes values are put into practice CSE discovers patterns in joint cognitive systems
+(JCSs) at work, abstracts patterns in how joint cognitive systems work, and, ultimately, designs joint cognitive systems that work.
+
 ### Adaptability vs limits
 
 The core ideas of CSE shift the question from overcoming limits to supporting adaptability and control.
@@ -213,5 +256,85 @@ Patterns in the intersections of people, technology & work:
 * coordinated activity
 * resilience
 * affordance
+
+users will develop many diverse models of the process or device and these models will be quite wrong.
+
+### Patterns
+
+References Christopher Alexander
+
+### Summary
+
+CSE is a systems approach to phenomena that emerge at the intersection of
+people, technology and work. CSE draws on observations of JCSs at work; previous
+general patterns are brought to these obesrvations; contact with work leads to
+tentative abstractions about what patterns are present; this understanding
+stimulates and guides the search for what would be useful to support the kinds
+of work seen; these insights stimulate innovation fo design seeds in
+participation with otehrs to support the work and processes of change.
+
+CSE as a practice-centered research and design process, is generic but relevant.
+It finds in the particular the existence and expression of universal patterns.
+It tests and revises these patterns by seeing design concepts as tentative
+hypotheses subjet to empirical jeopardy. These basic activities and values are
+not contradictions or conflicts, but creative tensions at the root of
+complementarity, harnessed for innovation.s
+
+
+## Discovering patterns in joint cognitive systems at work
+
+### Introduction
+
+The study of joint cognitive systems in context is a process of discovering how
+the behavior and strategies of practitioners are adapted ot the various purposes
+and constraints of the field of activity. To study joint cognitive systems
+requires going behind the more or less visible activities of practitioners to
+uncover how these activities are parts of larger processes of collaboration and
+coordination. The key is to uncover how people adapt to exploit capabilities and
+workaround complexities as they pursue their goals.
+
+### A JCS at work
+
+Nuclear power control room training simulator. Observers discovered the operators acted
+on unexpected changes in sound (system clicked when control rod system was active).
+
+## 2. Joint cognitive systems adapt to cope with complexity
+
+
+### Introduction
+
+General patterns in cognitive work do not exist separate from particular
+intersections of specific people, technologies and work activities. Hence, field
+settings are more than unique domains or exotic fields of practice, but function
+in parallel as natural laboratories where these generic patterns emerge. What
+approaches would help us discover the essential patterns underlying the surface
+diversity of people, technology and work? What techniques would help us begin to
+unpack or partially ddcopose the complexities of systems of people, technologies
+and work activities into meaningful parts and their interactions? How do we use
+general patterns to guide cahnge and innovate new possibilities in concert with
+other stakeholders? This chapter introduces the basics of how to shape the
+conditions of observation, the consequences of the Law of Fluency, and the
+central role of the Law of Deamdns in studying JCSs.
+
+### Adaptation in joint cognitive systems at work
+
+When new tech is introduced to field of practice, patterns of reverberations include:
+
+* new capabiliteis, which incrase deamnds and crate enw complexities such as increased coupling across parts of the system and higher tempo of operations
+* new complexities when technological possibilities are used clumsily
+* adaptations by practitioners to exploit capabilities or workaround complexities because they are rspponsible to meet operational goals
+* complexities and adaptations that are surprising, unintended side effects of the design intent
+* failures that occasionally break through these adaptations because of the inherent demands or because the adaptations are incomplete, poor, or brittle
+* adaptations by practitioners that hide the complexities from designers and from after-the-fact reviewers who judge failures to be due to human error
+
+Law of stretched systems
+
+Law of demands
+
+Law of fluency
+
+### Summary: adaptations directed to cope with complexity
+
+Studying and modeling a JCS at work requires understanding how the system adapts and to what it is adapted. The three guiding genralizations are the Law of Stretched Systems, the Law of Fluency, and the Law of Demands.
 
 
