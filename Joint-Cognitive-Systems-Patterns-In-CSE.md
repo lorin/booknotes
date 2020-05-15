@@ -65,70 +65,6 @@ Terms:
 * work
 * workload
 
-## 1. Core activities and values
-
-### Adaptability vs limits
-
-The core ideas of CSE shift the question from overcoming limits to supporting adaptability and control.
-
-The base unit of analysis is the JCS.
-
-The key process to study, model and support is how people cope with complexity.
-
-### Complementarity
-
-Artifacts are not just objects; they are hypotheses about the interplay of people, technology and work.
-
-### Core values of CSE in practice
-
-* Observing work in context
-* Abstracting patterns across specific settings and situations
-* Innovating new concepts as hypotheses about what would be useful
-* Participate in the struggle of envisioning with other stakeholders to create the future of work
-
-CSE is concerned with how to transcend limits to authenticity in order to
-capture how the strategies and behavior of people are adapted to the constraints
-and demands of field of practice.
-
-CSE confronts the *challenge of abstraction* to find and explain patterns behind the surface variability.
-
-CSE is successful to the degree that it *sparks inventiveness* to discover new
-ways of using technological possibilities to enhance work, to identify leverage
-points, to seed development with promising directions, and to minimize negative
-side effects of change.
-
-CSE helps *create future possibilites* as participants with other stakeholders in that field of practice.
-* 
-We are trying to understand how artifacts shape cognition and collaboration
-given the organizational context and problem demands in fields of practice, and
-how practtionres, individually and as groups, informally and formally, shape
-artifacts to meet the demands fo fields of activity within the pressures and
-resources provided by laarger organizations.
-
-Practitioners adapt to work around difficulties and complexities, re-shaping
-artifacts to function as tools to meet the demands of the field of activity.
-
-### On systems in CSE
-
-Systems perspective
-
-* Interactions and emergence: relationships and interactions  across the parts
-* Cross-scale interactions: multiple levels of analysis
-* Perspective: parts of system and level of analysis are matter of perspective & purpose
-
-Characteristics of artifacts and tasks interact to place demands on activities of and coordination across agents.
-
-Characteristics of taks and needs for coordination across agents interact to specify how artifacts support work.
-
-Properties of artifacts and agents interact to generate how strategies are adapted for work in the task domain.
-
-Patterns in the intersections of people, technology & work:
-
-* coordinated activity
-* resilience
-* affordance
-
-
 ## Table of contents
 
 1. Core activities and values
@@ -214,3 +150,68 @@ Patterns in the intersections of people, technology & work:
  * Laws that govern joint cognitive systems at work
  * Design responsibility
  * Patterns and stories
+
+## 1. Core activities and values
+
+### Adaptability vs limits
+
+The core ideas of CSE shift the question from overcoming limits to supporting adaptability and control.
+
+The base unit of analysis is the JCS.
+
+The key process to study, model and support is how people cope with complexity.
+
+### Complementarity
+
+Artifacts are not just objects; they are hypotheses about the interplay of people, technology and work.
+
+### Core values of CSE in practice
+
+* Observing work in context
+* Abstracting patterns across specific settings and situations
+* Innovating new concepts as hypotheses about what would be useful
+* Participate in the struggle of envisioning with other stakeholders to create the future of work
+
+CSE is concerned with how to transcend limits to authenticity in order to
+capture how the strategies and behavior of people are adapted to the constraints
+and demands of field of practice.
+
+CSE confronts the *challenge of abstraction* to find and explain patterns behind the surface variability.
+
+CSE is successful to the degree that it *sparks inventiveness* to discover new
+ways of using technological possibilities to enhance work, to identify leverage
+points, to seed development with promising directions, and to minimize negative
+side effects of change.
+
+CSE helps *create future possibilites* as participants with other stakeholders in that field of practice.
+
+We are trying to understand how artifacts shape cognition and collaboration
+given the organizational context and problem demands in fields of practice, and
+how practtionres, individually and as groups, informally and formally, shape
+artifacts to meet the demands fo fields of activity within the pressures and
+resources provided by laarger organizations.
+
+Practitioners adapt to work around difficulties and complexities, re-shaping
+artifacts to function as tools to meet the demands of the field of activity.
+
+### On systems in CSE
+
+Systems perspective
+
+* Interactions and emergence: relationships and interactions  across the parts
+* Cross-scale interactions: multiple levels of analysis
+* Perspective: parts of system and level of analysis are matter of perspective & purpose
+
+Characteristics of artifacts and tasks interact to place demands on activities of and coordination across agents.
+
+Characteristics of taks and needs for coordination across agents interact to specify how artifacts support work.
+
+Properties of artifacts and agents interact to generate how strategies are adapted for work in the task domain.
+
+Patterns in the intersections of people, technology & work:
+
+* coordinated activity
+* resilience
+* affordance
+
+
