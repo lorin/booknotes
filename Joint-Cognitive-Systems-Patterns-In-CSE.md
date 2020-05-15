@@ -1,4 +1,4 @@
-# Joint Cognitive Systems: Patterns in Cognitive Systems Engineering
+Joint Cognitive Systems: Patterns in Cognitive Systems Engineering
 
 Book by David D. Woods & Erik Hollnagel
 
@@ -117,10 +117,10 @@ p20
  * The story: a delay
  * The intensive care unit: the scene, the cast, and backdrop
  * Coping with complexity: parceling out beds by the bedmeister
-  - Artifacts as tools: the bed book
-  - Preparing for demand > supply situations
-  - Son of coping: building an ICU from scratch
-  - Piling pelion on Ossa: escalating demands
+   - Artifacts as tools: the bed book
+   - Preparing for demand > supply situations
+   - Son of coping: building an ICU from scratch
+   - Piling pelion on Ossa: escalating demands
  * Observations on the incident
 4. Discovery as functional synthesis
  * "Being bumpable" as an example of studying a JCS at work
