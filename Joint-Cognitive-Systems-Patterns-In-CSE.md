@@ -8,20 +8,25 @@ This book is about how to inform the design of artifacts by taking into account 
 are likely to adapt to the changes they introduce.
 
 Terms: 
+
+* abstract
 * adapt (adaptation, adaptability)
 * affordances
 * agents
 * alarms
 * anomaly response
 * artifacts
+* authenticity
 * automation surprise
 * bumpable
 * bumpless transfer of control
 * cascading
 * clumsy automation
+* cognition
 * cognitive systems engineer
+* collaboration
 * common ground
-* coordination (breakdown)
+* coordination (coordinated activity, coordination breakdown)
 * coupling
 * demands
 * dilemmas
@@ -30,15 +35,18 @@ Terms:
 * double-bind
 * escalation
 * functional synthesis
+* generative
 * goal conflicts
 * hypotheses
 * interpredictability
 * joint cognitive systems
+* leverage points
 * limits
 * literal-mind agents
 * narrowing, premature
 * over-simplifications
 * Norbert's contrast
+* participative
 * patterns
 * problem-holders
 * reframing
@@ -46,7 +54,10 @@ Terms:
 * responsibility
 * reverberations
 * shared frame of reference
+* strategies
 * substitution myth
+* support
+* systems perspective
 * tailoring
 * team player
 * tempo
@@ -75,10 +86,47 @@ Artifacts are not just objects; they are hypotheses about the interplay of peopl
 * Innovating new concepts as hypotheses about what would be useful
 * Participate in the struggle of envisioning with other stakeholders to create the future of work
 
+CSE is concerned with how to transcend limits to authenticity in order to
+capture how the strategies and behavior of people are adapted to the constraints
+and demands of field of practice.
+
+CSE confronts the *challenge of abstraction* to find and explain patterns behind the surface variability.
+
+CSE is successful to the degree that it *sparks inventiveness* to discover new
+ways of using technological possibilities to enhance work, to identify leverage
+points, to seed development with promising directions, and to minimize negative
+side effects of change.
+
+CSE helps *create future possibilites* as participants with other stakeholders in that field of practice.
+* 
+We are trying to understand how artifacts shape cognition and collaboration
+given the organizational context and problem demands in fields of practice, and
+how practtionres, individually and as groups, informally and formally, shape
+artifacts to meet the demands fo fields of activity within the pressures and
+resources provided by laarger organizations.
 
 Practitioners adapt to work around difficulties and complexities, re-shaping
 artifacts to function as tools to meet the demands of the field of activity.
 
+### On systems in CSE
+
+Systems perspective
+
+* Interactions and emergence: relationships and interactions  across the parts
+* Cross-scale interactions: multiple levels of analysis
+* Perspective: parts of system and level of analysis are matter of perspective & purpose
+
+Characteristics of artifacts and tasks interact to place demands on activities of and coordination across agents.
+
+Characteristics of taks and needs for coordination across agents interact to specify how artifacts support work.
+
+Properties of artifacts and agents interact to generate how strategies are adapted for work in the task domain.
+
+Patterns in the intersections of people, technology & work:
+
+* coordinated activity
+* resilience
+* affordance
 
 
 ## Table of contents
