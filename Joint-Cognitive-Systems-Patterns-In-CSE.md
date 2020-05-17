@@ -338,3 +338,89 @@ Law of fluency
 Studying and modeling a JCS at work requires understanding how the system adapts and to what it is adapted. The three guiding genralizations are the Law of Stretched Systems, the Law of Fluency, and the Law of Demands.
 
 
+## 3. Being Bumpable: consequences of resource saturation and near-saturation for cognitive demands on ICU practitioenrs
+
+A case study of cognitive system functions
+
+starting point: model signfiicance of insiders' use of highly coded term of practice ("bumpable")
+
+Cook uses bumpable term and a critical incident as wedges to:
+* break through fluency of actual opperations
+* uncover demands on work
+* reveal hwo system has adapted to cope with these complexities
+
+reveals adaptive power of ICU as a JCS
+
+### The story: a delay
+
+The case, which appears simple on the surface
+
+A patient undergoing surgery needed to go to an intensive care unit when the
+surgical procedure was complete. The surgical procedure was finished before the
+intensive care unit bed was available, so the patient was taken first to the
+recovery room and transferred to the intensive care unit after a few hours.
+
+
+### The intensive care unit: the scene, the cast, and backdrop
+
+### Coping with complexity: parcelling out beds by the bedmeister
+
+#### Artifacts as tools: the bed book
+
+#### Preparing for demand > supply situations: identifying *bumpable* patients
+
+sometimes there is demand for an ICU "bed" that cannot be immediately accomodated
+
+Responsibility of *bedmeister*  to assess patenits in ICU and select least sik patient for transfer to stepdown unit or the floor
+
+A *bumpable* patient is one who is a candidate for transfer if an additional bed is required for a new patient.
+
+#### Son of coping: building an ICU from scratch when no ICU bed is available
+
+Potential crisis, may require relatively extreme measures
+
+Use post anesthesia recovery room (PACU) or the operating room (OR) itself as an ICU
+
+These approaches are expensive, disruptive,a nd severely limited
+
+
+#### Piling Pelion on Ossa: escalating demands
+
+When the ICUs are not full and there is a new demand for a "bed", the *bedmeister's* job is easy.
+
+If the ICUs are full, the *bedmeister* function becomes more difficult and time consuming.
+
+### Observations on the incident
+
+The suggestion here is that practitioner argot points directly to the critical
+concerns of NDM researchers. Because they sapn the distance from technical to
+organizational, these terms capture the essence of what is going on and
+therefore at the locus of the decisions/actions of practitioenrs. To explore
+what it means to be *bumpable*, what a *bedmeister* actually does, what a
+*bedcrunch* entails, what The Book actually does, is to explore the core of
+success, failure, coordination and expertise.
+
+## 4. Discovery as functional synthesis
+
+### "Being *Bumpable*" as an example of studying a JCS at work
+
+
+Being bumpable shows how modeling an ICU as a JCS leads to focusing on 
+* what details to notice
+* how to group them into a coherent description
+* recognize what ICUs adapt around
+
+
+Adaptations often become routines. Because of this, it is difficult for an observer to see how these routines are adpative and to what they have adapted.
+
+Adaptations are not necessarily noteworthy to the practitioners themselves.
+
+Discovery is aided by looking at situations that are:
+* near the margins of practice
+* when resource saturation is threatened (attention, workload, etc.)
+
+See how the system stretches to accommodate new demands, and the soruces of resilience that usually bridge gaps.
+
+
+
+
