@@ -29,6 +29,7 @@ are likely to adapt to the changes they introduce.
 * cognition
 * cognitive systems engineer
 * cognitive vacuum
+* coherent
 * collaboration
 * common ground
 * constraints
@@ -49,6 +50,7 @@ are likely to adapt to the changes they introduce.
 * generative
 * goal conflicts
 * hypotheses
+* insight
 * interpredictability
 * joint cognitive systems
 * leverage points
@@ -471,13 +473,15 @@ To recognize states (bumpable), roles (bedmeister), potential bottlenecks (bedcr
 Classic cases:
 * Being bumpable
 * How a cockpit remembers it speeds (Hutchins)
-* Voice loops as key coordination tool in space shuttle mission control (Patterson, Watts-Perotti, Woods)
+* Voice loops as key coordination tool in space shuttle mission control (Patterson, Watts-Perotti, Woods**
 
-Notable things about these studies:
+**Three characteristics of syntheses of how joint cognitive systems function:***
 
 1. Power of observation
 2. General patterns expressed in particular situations
 3. Proposed functional account
+
+#### Observation
 
 Appreciate the significance of small details
 
@@ -489,6 +493,8 @@ Each study began with noticing the significance of what might be seen as just an
 * demand on pilots to remember different speeds during a descent into an airport
 * how space mission controllers listen in on voice communication channels
 
+
+
 Investigators used starting point as a wedge to:
 * open up the adaptive process
 * reveal the nature of expertise
@@ -497,6 +503,8 @@ Investigators used starting point as a wedge to:
 Each study began with observers who were prepared to be surprised.
 
 What forms of preparation are needed so that one can notice what they never expected to see?
+
+#### Patterns
 
 Preparation comes from using a pattern base built up through previous observation and abstraction across apparently diverse settings.
 
@@ -509,4 +517,26 @@ Role of preparation for surprise in the process observation is another case of N
 
 The skill is a general one not only in studying JCSs, but in science and in diagnosis-using concepts to see beyond the surface variability without being trapped into seeing only those concepts.
 
-Each of the studies derives patterns to be accounted for.
+
+Warrent for patterns comes from several sources:
+
+1. claims to authenticity in the set of observations
+2. matches (or mistmatches) to the patterns noted in the previous studies in this setting and to the JCS themes invoked
+
+Is it:
+* confirming
+* expandinging
+* modifying
+* overturning
+generic patterns?
+
+#### Functional account
+
+Each study provides a coherent account: goes below the surface to propose deepr dynamics.
+
+Account / candidate functional explanation about how behvior is adapted to constraints and goals
+
+Sharing observations, patterns, and functional accounts refers to making the accounts and their basis in observations explicit and accessible.
+
+What is striking in the trio fo studies as functional accounts is insight.
+
