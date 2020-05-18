@@ -15,30 +15,36 @@ are likely to adapt to the changes they introduce.
 * agents
 * alarms
 * anomaly response
+* anticipation
 * artifacts
 * authenticity
 * automation surprise
 * blunt end
+* bottlenecks
 * bumpable
 * bumpless transfer of control
 * cascading
+* catch
 * clumsy automation
 * cognition
 * cognitive systems engineer
 * cognitive vacuum
 * collaboration
 * common ground
+* constraints
 * coordination (coordinated activity, coordination breakdown)
 * coupling
+* critical incidents
 * cross-scale interactions
 * cycles of transformation and adaptation
 * demands
 * design seeds
 * dilemmas
 * directed attention
+* discovery
 * disrupting event
 * double-bind
-* escalation
+* escalation (escalating demands)
 * functional synthesis
 * generative
 * goal conflicts
@@ -52,15 +58,20 @@ are likely to adapt to the changes they introduce.
 * over-simplifications
 * Norbert's contrast
 * participative
+* patttern base
 * patterns
+* perceptual cycle (Neisser)
 * practitioners
 * problem-holders
+* readiness to respond
 * reframing
 * resilience
 * responsibility
 * reverberations
+* roles
 * shared frame of reference
 * sharp end
+* states
 * strategies
 * substitution myth
 * support
@@ -70,8 +81,11 @@ are likely to adapt to the changes they introduce.
 * team player
 * tempo
 * threads
+* tools
+* wedge
 * work
 * workload
+* workload management
 
 
 ## Laws
@@ -421,6 +435,74 @@ Discovery is aided by looking at situations that are:
 
 See how the system stretches to accommodate new demands, and the soruces of resilience that usually bridge gaps.
 
+Practitioner argot or terms of practice provide clues about how to meet the challenge of the Law of Fluency in order to discover what the system is adapted to, and how.
 
+Terms often point to:
+* informative relationships
+* integrative judgments
+* coordinative links
+* responsibilities attached to roles
+
+These:
+* reveal the nature of practice
+* missing from or under-emphasized in formal accounts of operations
+
+Critical incidents: 
+* useful to analyze as breakdowns or near-breakdowns in adaptation
+* help in the discovery process
+* useful heuristics for orgniazing and communicating the results across series of investigations that look into hwo the JCS functions
+
+Recognizing an episode as a story of adaptation, resilience, and brittleness,
+when it is otherwise not noteworthy or reflected on by participants, is a key
+skill to develop as an observer of JCS at work.
+
+The processes of workload management are central to the description (of ICU) as we hear of adaptations intended to cope with or avoid workload bottlenecks. 
+
+Nevertheless, occasionally, as in the incident Cook captured, crunches occur.
+
+Cook's synthesis shows how a resident develops a readiness to respond.
+
+Functional analysis also captures how events cascade and demands escalate.
+
+To recognize states (bumpable), roles (bedmeister), potential bottlenecks (bedcrunch), practitioner-created tools (The Book) is to engage in the process of **discovery** central to the study of JCSs at work.
+
+### Insight and functional synthesis
+
+Classic cases:
+* Being bumpable
+* How a cockpit remembers it speeds (Hutchins)
+* Voice loops as key coordination tool in space shuttle mission control (Patterson, Watts-Perotti, Woods)
+
+Notable things about these studies:
+
+1. Power of observation
+2. General patterns expressed in particular situations
+3. Proposed functional account
+
+Appreciate the significance of small details
+
+Not all small details are significant.
+
+Each study began with noticing the significance of what might be seen as just another detail:
+
+* practitioner term "bumpable"
+* demand on pilots to remember different speeds during a descent into an airport
+* how space mission controllers listen in on voice communication channels
+
+Investigators used starting point as a wedge to:
+* open up the adaptive process
+* reveal the nature of expertise
+* identify basic demands/constraints that must be supported
+
+Each study began with observers who were prepared to be surprised.
+
+What forms of preparation are needed so that one can notice what they never expected to see?
+
+Preparation comes from using a pattern base built up through previous observation and abstraction across apparently diverse settings.
+
+Observer constantly asks:
+* What is this activity an example of?
+* Have we seen this before?
+* How does this both fit and differ from patterns in the research base?
 
 
