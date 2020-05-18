@@ -505,4 +505,8 @@ Observer constantly asks:
 * Have we seen this before?
 * How does this both fit and differ from patterns in the research base?
 
+Role of preparation for surprise in the process observation is another case of Neisser's perceptual cycle where ther is an interplay between calling to mind general knowledge about JCSs at work and observing specific JCSs working.
 
+The skill is a general one not only in studying JCSs, but in science and in diagnosis-using concepts to see beyond the surface variability without being trapped into seeing only those concepts.
+
+Each of the studies derives patterns to be accounted for.
