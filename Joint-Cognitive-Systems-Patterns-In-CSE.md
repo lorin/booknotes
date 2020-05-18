@@ -538,5 +538,5 @@ Account / candidate functional explanation about how behvior is adapted to const
 
 Sharing observations, patterns, and functional accounts refers to making the accounts and their basis in observations explicit and accessible.
 
-What is striking in the trio fo studies as functional accounts is insight.
+What is striking in the trio of studies as functional accounts is insight.
 
