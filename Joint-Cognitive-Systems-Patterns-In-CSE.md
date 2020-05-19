@@ -72,6 +72,7 @@ are likely to adapt to the changes they introduce.
 * responsibility
 * reverberations
 * roles
+* shaping the conditions of observation
 * shared frame of reference
 * sharp end
 * states
@@ -586,6 +587,17 @@ By shaping the conditions of observation, we can seek to increase the chances or
 Very often, eliciting & finding stories of challenge/response in practice is a retrospective process in that the stories collected have already occurred.
 
 Limits of retrospective accounts are balanced when:
-* one builds a corpus of related cases
+* one builds a corpus of related cases, and
 * one is able to collect multiple participants' accounts of teh challenge/response process for that case.
+
+Different participants' accounts provide only partial and inconsistent perspective on the events in question.
+
+Questions to consider when shaping the conditions of observation in Natural History studies:
+
+* How can we be prepared to observe? (doing homework about how the domain works)
+* WHat is the role of concepts and patterns in being prepared to be surprised?
+* Who observes?
+* What is the role of guides, informants, and others who mediate access to the field of activity?
+* From where do we observe (what is the vantage point)? (e.g., points of naturally occurring disruption and change)
+
 
