@@ -43,6 +43,7 @@ are likely to adapt to the changes they introduce.
 * dilemmas
 * directed attention
 * discovery
+* disturb
 * disrupting event
 * double-bind
 * escalation (escalating demands)
@@ -539,4 +540,47 @@ Account / candidate functional explanation about how behvior is adapted to const
 Sharing observations, patterns, and functional accounts refers to making the accounts and their basis in observations explicit and accessible.
 
 What is striking in the trio of studies as functional accounts is insight.
+
+## 5. Shaping the conditions of observations
+
+The laws of demands and fluency capture the significant difficulties that once facies in studying JCSs at work> How does one break through the current web of adaptationto understand the undrelying demands and to anticipate/guide future processes of cahnge and adptation? Wihtout this understanding processes of changes are exercises in slow trial and error despite the extravagant claims of technology advocates.
+
+Effective methods for studying JCSs at work disrupt and disturb the current system to observe how that system adapts and settles back into equilibrium.
+
+Different ways of carrying this out:
+
+1. Observing at naturally occurring points of change (e.g., observe side effects of introducing new IT)
+1. Reconstructing the run up to accidents and incidents since these breakdowns reveal the adaptive limits of the JCS
+1. Introducing probe events at the suspected boundaries of the current system to force adaptive behavior into the open.
+1. Changing the artifacts available for use in handling situations.
+
+
+First two approaches are natural history (in situ) techniques.
+
+Second two approaches are staged or scaled world techniques.
+
+Natural history techniques help design problems by identifying situations that present demands and dilemmas.
+
+### Three families of methods that vary in shaping conditions of observation
+
+Three classes of research methods:
+
+* Natural history methods (in situ)
+* Experiments-in-the-field: staged or scaled worlds
+* Spartan lab experiments: experimenter-created artificial tasks
+
+The natural history observer is listening to, eliciting, and collecting stories of practice
+
+Building up a corpus of cases is fundamental.
+
+Natural History begins with the analysis of the structure or process of each case observed. Results are then compared/contrasted across otehr analyzed cases.
+
+* What patterns and themes in JCSs at work appear to play out in this setting?
+* What kind of natural laboratory is this or could this be?
+
+
+Natural History methods critical constraint: observers have to wait for what happens
+
+By shaping the conditions of observation, we can seek to increase the chances or frequency of encounter of the themes of interest.
+
 
