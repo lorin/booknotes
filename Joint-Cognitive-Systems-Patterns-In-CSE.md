@@ -583,4 +583,9 @@ Natural History methods critical constraint: observers have to wait for what hap
 
 By shaping the conditions of observation, we can seek to increase the chances or frequency of encounter of the themes of interest.
 
+Very often, eliciting & finding stories of challenge/response in practice is a retrospective process in that the stories collected have already occurred.
+
+Limits of retrospective accounts are balanced when:
+* one builds a corpus of related cases
+* one is able to collect multiple participants' accounts of teh challenge/response process for that case.
 
