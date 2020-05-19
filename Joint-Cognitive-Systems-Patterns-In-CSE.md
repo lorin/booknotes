@@ -17,7 +17,7 @@ are likely to adapt to the changes they introduce.
 * anomaly response
 * anticipation
 * artifacts
-* authenticity
+* authentic(ity)
 * automation surprise
 * blunt end
 * bottlenecks
@@ -43,6 +43,7 @@ are likely to adapt to the changes they introduce.
 * dilemmas
 * directed attention
 * discovery
+* distinctions
 * disturb
 * disrupting event
 * double-bind
@@ -601,3 +602,12 @@ Questions to consider when shaping the conditions of observation in Natural Hist
 * From where do we observe (what is the vantage point)? (e.g., points of naturally occurring disruption and change)
 
 
+Coming to think, in part, like a *native*, is required, including understanding distinctions they make.
+
+Must:
+* describe a culture from the insider's perspective without getting lost in the natives' view.
+* be authentically connected to practice 
+* be able to setp out of flow of activity to reflect on the heart of practice
+
+
+REqures means for coping with gap between what people do and what people say they do.
