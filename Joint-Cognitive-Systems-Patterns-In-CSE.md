@@ -61,11 +61,13 @@ are likely to adapt to the changes they introduce.
 * narrowing, premature
 * over-simplifications
 * Norbert's contrast
+* participants
 * participative
 * patttern base
 * patterns
 * perceptual cycle (Neisser)
 * practitioners
+* problem sampling
 * problem-holders
 * readiness to respond
 * reframing
@@ -94,6 +96,19 @@ are likely to adapt to the changes they introduce.
 
 
 ## Laws
+
+### No cognitive vacuum
+
+There is no such thing as a *cognitive vacuum*. When we [as designers] create,
+represent, or shape some experience for others, those people learn someting
+[even if it is not what we intended]; form some model of explanatation [even if
+it is not veridical]; extract and index some gist [even if itis quite different
+from what was relevant to us]; see some pattern [even if we encoded other
+relationships or no relationships at all]; pursue some goal [even if it is not
+the goal we most value]; balance tradeoffs [even if our idealizations about work
+push them out of our view].
+
+p11
 
 ### Law of stretched systems 
 
@@ -571,6 +586,8 @@ Three classes of research methods:
 * Experiments-in-the-field: staged or scaled worlds
 * Spartan lab experiments: experimenter-created artificial tasks
 
+#### Natural history
+
 The natural history observer is listening to, eliciting, and collecting stories of practice
 
 Building up a corpus of cases is fundamental.
@@ -610,4 +627,38 @@ Must:
 * be able to setp out of flow of activity to reflect on the heart of practice
 
 
-REqures means for coping with gap between what people do and what people say they do.
+Requires means for coping with gap between what people do and what people say they do.
+
+People:
+* may not have access to the critical factors that influence their behavior
+* never fail to have some model of:
+    - how they work
+    - the people, devices, and processes tehy interact with
+
+No such thing as a cognitive vacuum for people as meaning-seeking agents.
+
+
+#### Staged world
+
+Investigators stage situations of interest through simulations of some type.
+
+Concrete situation staged is an instantiation of the generic situation of interest.
+
+Problem of the effective stimulus: mapping between target situation to be understood and test situation where observations are made must be explicit.
+
+Fundamental attribute of staged world studies: invsetigators' ability to design the scenarios that participants face.
+
+Allows for repeated observations.
+
+Investigators introduce disturbances or probes that instantiate general demands in domain-specific and scenario-specific forms.
+
+Researchers observe how JCS responds to the challenges embodied by the probe in context.
+
+The capability critical for moving to Staged World studies is this ability to *design problems* and then express these probolems in specific scenarios.
+
+A central skil in CSE is this ability to design problems and instantiate them in scenarios meaningful to actual practitioners.
+
+Scenarios are a tentative model of practice: what is the nvelope of textbook situations, what complicating factors challenge this envelope, what demands and constraints drive practice.
+
+In designing the situation, probes, and context, the goal is to uncover or make tangible, and, therefore, observable, what has been encoded in practice.
+
