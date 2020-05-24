@@ -97,6 +97,20 @@ are likely to adapt to the changes they introduce.
 
 ## Laws
 
+### JCSs at work
+
+Success in complex systems is created through work accomplished by joint cognitive systems (JCSs), not
+a given which can be degraded through human limits and error.
+
+p1
+
+### Bounded rationality syllogism
+
+All cognitive systems are finite(people, machines, or combinations). All finite cognitive systems in uncertain changing situations
+are fallible. Therefore, machine cognitive systems (and joint systems across people and machines) are fallible.
+
+p2
+
 ### No cognitive vacuum
 
 There is no such thing as a *cognitive vacuum*. When we [as designers] create,
