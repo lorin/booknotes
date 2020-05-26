@@ -68,7 +68,9 @@ are likely to adapt to the changes they introduce.
 * perceptual cycle (Neisser)
 * practitioners
 * problem sampling
+* problem structure
 * problem-holders
+* process tracing
 * readiness to respond
 * reframing
 * resilience
@@ -627,7 +629,7 @@ Different participants' accounts provide only partial and inconsistent perspecti
 Questions to consider when shaping the conditions of observation in Natural History studies:
 
 * How can we be prepared to observe? (doing homework about how the domain works)
-* WHat is the role of concepts and patterns in being prepared to be surprised?
+* What is the role of concepts and patterns in being prepared to be surprised?
 * Who observes?
 * What is the role of guides, informants, and others who mediate access to the field of activity?
 * From where do we observe (what is the vantage point)? (e.g., points of naturally occurring disruption and change)
@@ -676,3 +678,29 @@ Scenarios are a tentative model of practice: what is the nvelope of textbook sit
 
 In designing the situation, probes, and context, the goal is to uncover or make tangible, and, therefore, observable, what has been encoded in practice.
 
+Once the problem structure is defined relative to domain-specific characteristics, can then *trace the process** of how the JCS responds to the challenges embedded through the probe events in context.
+
+Example: How does the presence of an initail distrubance that masks key cues to the main fault affect the diagnostic search process.
+
+#### Process tracing
+
+1. Start with concrete case
+2. Shift analysis from concrete case to abstract story
+3. Describe how practitioners handled the demands of the problem designed into the staged situation.
+4. Contrast different performance descriptions
+
+**Concrete case***
+
+Analyze the process for handling situation in specific context.
+
+**From concrete case to abstract story***
+
+Identify general patterns or demands about JCSs. 
+
+General patterns or demands about JCSs that were instantiated in the concrete
+case are used to shift the analysis away from language of domain and specific
+scenario, and into abstract story in terms of concepts being studied.
+
+Analysis then shifts to 
+
+p48
