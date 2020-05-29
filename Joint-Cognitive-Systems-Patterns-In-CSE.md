@@ -38,6 +38,7 @@ are likely to adapt to the changes they introduce.
 * critical incidents
 * cross-scale interactions
 * cycles of transformation and adaptation
+
 * demands
 * design seeds
 * dilemmas
@@ -81,6 +82,7 @@ are likely to adapt to the changes they introduce.
 * shared frame of reference
 * sharp end
 * states
+* story archetype (p48)
 * strategies
 * substitution myth
 * support
@@ -685,9 +687,8 @@ Example: How does the presence of an initail distrubance that masks key cues to 
 #### Process tracing
 
 1. Start with concrete case
-2. Shift analysis from concrete case to abstract story
-3. Describe how practitioners handled the demands of the problem designed into the staged situation.
-4. Contrast different performance descriptions
+2. Shift analysis from concrete case to abstract story, Describe how practitioners handled the demands of the problem designed into the staged situation.
+3. Contrast different performance descriptions
 
 **Concrete case***
 
@@ -701,6 +702,17 @@ General patterns or demands about JCSs that were instantiated in the concrete
 case are used to shift the analysis away from language of domain and specific
 scenario, and into abstract story in terms of concepts being studied.
 
-Analysis then shifts to 
+Analysis then shifts to develop a description of how practitionres handled the deamnds of the problem designed into the situation staged.
 
-p48
+
+Re-tell each episode in terms of general conceptual patterns. Examples:
+ * how over-simplifications led to erroneous actions
+ * how participants avoided erroneous actions
+ * how detecting deception is dificult
+ * how people cope with the brittleness of the expert machine advisory system when complicated factors arise
+ 
+ 
+ Concepts provide set of story archetypes used to provide more genderal description of behavior of practitioners relative to problems. Examples from the over-simplification pattern:
+
+* observing how situations created opportunities for people to be trapped in over-simplifying ocmplex processes
+* understanding what helps or hindres peopel when they need to shift from sipler to more complete models of complex processes in order to handle anomalies.
