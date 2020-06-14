@@ -8,7 +8,7 @@ authoritarian high-modernism, legibility, mētis
 
 ## Case studies
 
-* scientific forestry (Germany)
+* scientific forestry (Germany, late eighteenth-century)
 * Surnames (permanent, inherited patronyms)
 * private property (Cadastral map)
 * Brasília (urban planning)
@@ -21,6 +21,9 @@ authoritarian high-modernism, legibility, mētis
 * Le Corbusier
 
 ## Quotes
+
+The metaphorical value of this brief account of scientific production forestry is that it illustrates the dangers of dismembering an exceptionally complex and poorly understood set of relations and processes in order to isolate a single element of instrumental value.
+
 
 I am, however, making a case against an imperial or hegemonic planning mentality that excludes the necessary role of local knowledge and know-how.
 
