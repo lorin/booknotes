@@ -1,4 +1,4 @@
-# Seeing like a state: how certain schems to improve the human condition have failed
+# Seeing like a state: how certain schemes to improve the human condition have failed
 
 by James C. Scott
 

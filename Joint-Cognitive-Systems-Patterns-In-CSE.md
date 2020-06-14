@@ -38,7 +38,6 @@ are likely to adapt to the changes they introduce.
 * critical incidents
 * cross-scale interactions
 * cycles of transformation and adaptation
-
 * demands
 * design seeds
 * dilemmas
@@ -48,6 +47,7 @@ are likely to adapt to the changes they introduce.
 * disturb
 * disrupting event
 * double-bind
+* empirical jeopardy (p49)
 * escalation (escalating demands)
 * functional synthesis
 * generative
@@ -72,6 +72,7 @@ are likely to adapt to the changes they introduce.
 * problem structure
 * problem-holders
 * process tracing
+* psychologists fallacy
 * readiness to respond
 * reframing
 * resilience
@@ -687,7 +688,7 @@ Example: How does the presence of an initail distrubance that masks key cues to 
 #### Process tracing
 
 1. Start with concrete case
-2. Shift analysis from concrete case to abstract story, Describe how practitioners handled the demands of the problem designed into the staged situation.
+2. Shift analysis from concrete case to abstract story: describe how practitioners handled the demands of the problem designed into the staged situation.
 3. Contrast different performance descriptions
 
 **Concrete case***
@@ -715,4 +716,53 @@ Re-tell each episode in terms of general conceptual patterns. Examples:
  Concepts provide set of story archetypes used to provide more genderal description of behavior of practitioners relative to problems. Examples from the over-simplification pattern:
 
 * observing how situations created opportunities for people to be trapped in over-simplifying ocmplex processes
-* understanding what helps or hindres peopel when they need to shift from sipler to more complete models of complex processes in order to handle anomalies.
+* understanding what helps or hinders people when they need to shift from simpler to more complete models of complex processes in order to handle anomalies.
+
+** Contrast different performance descriptions with contrast cases **
+
+* different but related probes
+* different scenarios
+* different domains
+* different artifacts
+
+Helps researcher:
+* abstract patterns
+* build possible functional accounts of what is competent performance in the face of demands
+* how performance is vulnerable to breakdown
+
+
+
+Checklist for designing staged world field studies
+
+1. What are the joint cognitive system issues in question?
+2. Explicitly map target and test situation relationship.
+3. Shape the test situation to address the general JCS issues.
+4. Map canonical behavior; how does one prepare to be surprised?
+5. Collect the data (update 4 as needed)
+6. Collate multiple raw data sources to construct base protocol
+7. Use concepts from 1 to build formal protocol
+8. Cross-protocol contrasts
+9. Integrate with other converging studies to build a functional model
+
+
+Problematic items:
+
+1. Pitfalls: superficial labels
+2. Problem design, stimulus sampling. Pitfalls: psychologists fallacy, cover stories
+3. Scenario design. Artifacts as tool for discovery. Procedure to externalize what underlies adapted activities.
+4. (blank)
+5. (blank)
+6. Analyze each participant/team's process. Pitfalls: get lost in the raw data.
+7. Pitfalls: get lost in the langauge of the domain; excessive micro-encodings; hindsight bias
+8. Aggregate across teams and problems. Role of cognitive simulation, neutral observers
+9. (blank)
+
+
+
+(Figure 6 not captured here: Levels of analysis in process tracing studies)
+
+
+
+Basic heuristic for functional synthesis: interplay of moving up and down levels of abstraction
+* moving up abstracts particulars into patterns
+* moving down puts abstract concepts into empirical jeopardy
