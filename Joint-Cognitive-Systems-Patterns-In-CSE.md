@@ -205,7 +205,7 @@ p20
    - Control of attention
    - Alarms and directed attention
    - Updating common ground when a team member returns
-9. Pattners in multi-threaded work
+9. Patterns in multi-threaded work
  * Managing multiple threads in time
  * Tempo
  * Escalation
