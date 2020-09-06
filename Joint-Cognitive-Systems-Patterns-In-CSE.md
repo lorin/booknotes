@@ -772,3 +772,43 @@ Problematic items:
 Basic heuristic for functional synthesis: interplay of moving up and down levels of abstraction
 * moving up abstracts particulars into patterns
 * moving down puts abstract concepts into empirical jeopardy
+
+
+Useful processes to observe:
+* absorbing new artifacts into practice.
+* how changes in the distributed system (e.g., new communication channel) affect coordination demands & capabilities
+
+Goal of probing with new artifacts is as a tool for discovery, not artifact evaluation
+* observe basic demands of practice by breaking through the fluency of current adaptations
+
+The artifact functions as a hypothesis of what would prove useful.
+
+Staged World studies are observational and discovery oriented: letting hte world tell su how it works.
+
+The most basic role of the scientist is that of trained observer—one who sees with a fresh view,
+wh wonders, child-like—*why is it this way, how does ito work?*—making fresh connections and generating new insights.
+
+
+Studies must meet basic criteria:
+
+* Means to establish warrant - how do you know?
+* Standards of quality - how do you discern a competent investigation?
+* Means to facilitate gneralizability - what is this a case of?
+
+
+All require mapping between target situation to be understood and the test situation where observations are made.
+
+#### Converging operations
+
+DIfferent studies become part of a larger series of converging operations that overcome limits
+of individual studies.
+
+examine the same theme across different natural labs.
+
+Studying work in contxt is a bootstrapping process that uses a set of converging operations.
+
+Each technique provides tentative knowledge that expands ability to use another technique to wedge open how JCS functions.
+
+Examples: 
+* Richard Cook's studies of infusion devices in health care.
+* Nadine Sarter's work on human-centered automation studying pilots on flight deck
