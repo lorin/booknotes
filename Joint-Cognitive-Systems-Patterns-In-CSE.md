@@ -579,7 +579,12 @@ What is striking in the trio of studies as functional accounts is insight.
 
 ## 5. Shaping the conditions of observations
 
-The laws of demands and fluency capture the significant difficulties that once facies in studying JCSs at work> How does one break through the current web of adaptationto understand the undrelying demands and to anticipate/guide future processes of cahnge and adptation? Wihtout this understanding processes of changes are exercises in slow trial and error despite the extravagant claims of technology advocates.
+The laws of demands and fluency capture the significant difficulties that once
+faces in studying JCSs at work. How does one break through the current web of
+adaptationto understand the underlying demands and to anticipate/guide future
+processes of cahnge and adptation? Without this understanding processes of
+changes are exercises in slow trial and error despite the extravagant claims of
+technology advocates.
 
 Effective methods for studying JCSs at work disrupt and disturb the current system to observe how that system adapts and settles back into equilibrium.
 
@@ -596,6 +601,8 @@ First two approaches are natural history (in situ) techniques.
 Second two approaches are staged or scaled world techniques.
 
 Natural history techniques help design problems by identifying situations that present demands and dilemmas.
+
+
 
 ### Three families of methods that vary in shaping conditions of observation
 
@@ -718,7 +725,7 @@ Re-tell each episode in terms of general conceptual patterns. Examples:
 * observing how situations created opportunities for people to be trapped in over-simplifying ocmplex processes
 * understanding what helps or hinders people when they need to shift from simpler to more complete models of complex processes in order to handle anomalies.
 
-** Contrast different performance descriptions with contrast cases **
+**Contrast different performance descriptions with contrast cases**
 
 * different but related probes
 * different scenarios
@@ -760,7 +767,6 @@ Problematic items:
 
 
 (Figure 6 not captured here: Levels of analysis in process tracing studies)
-
 
 
 Basic heuristic for functional synthesis: interplay of moving up and down levels of abstraction
