@@ -812,3 +812,25 @@ Each technique provides tentative knowledge that expands ability to use another 
 Examples: 
 * Richard Cook's studies of infusion devices in health care.
 * Nadine Sarter's work on human-centered automation studying pilots on flight deck
+
+* increase observability of what the automation will do next
+* expand the directability of the automated systems as resources ro achieve operational goals
+* tacticle cues to solve the problem of mode awareness
+
+#### The psychologist's fallacy
+
+This fallacy occurs when well-intentioned ovservers think that their distant
+view of the workplace captures the acutal experience of those who perform work
+in context.
+
+The search for authenticity reveals a trade-off: the stronger the shaping of
+the conditions of observation, the greater the disruption of the thing observed
+and the greater the risk of Psychologist's Fallacy and its analogs.
+
+
+## 6. Functional syntheses, laws and design
+
+Functional syntheses → laws → meeting design challenges
+
+### Properties of functional syntheses
+
