@@ -834,3 +834,18 @@ Functional syntheses → laws → meeting design challenges
 
 ### Properties of functional syntheses
 
+* empirical: based on observations collected in different ways
+* theoretical: proposes a model of how something functions in order to achieve goals
+
+Characteristics of functional syntheses at work:
+
+1. context bound, but generic
+2. tentative: can be overturned/reinterpreted. Generates candidate explanations that attempt to meet sufficiency criteria: ability to carry out functions in question
+3. goal oriented: functions of pieces change with purpose
+4. provide accounts of how multiple goals & potential conflicts across goals present tradeoffs & dilemmas
+5. concern dynamic processes so that change is fundamental
+6. inherently multi-level
+7. involve mutual interaction & adaptation of agent & environment (ecological)
+8. support projections of how systems will respond when changes are introduced so that side effects of change can be identified without waiting for consequences to occur
+9. reveal vulnerabilities for under- versus over-adpatation
+10. capture what behavior is adapted to (variations & constraints) & how it is adapted to handle tehse constraints. This supports considering how to expand the adaptive power of the system. They have an ability to generate guides for constructive change
