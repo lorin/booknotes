@@ -362,7 +362,7 @@ settings are more than unique domains or exotic fields of practice, but function
 in parallel as natural laboratories where these generic patterns emerge. What
 approaches would help us discover the essential patterns underlying the surface
 diversity of people, technology and work? What techniques would help us begin to
-unpack or partially ddcopose the complexities of systems of people, technologies
+unpack or partially decompose the complexities of systems of people, technologies
 and work activities into meaningful parts and their interactions? How do we use
 general patterns to guide cahnge and innovate new possibilities in concert with
 other stakeholders? This chapter introduces the basics of how to shape the
