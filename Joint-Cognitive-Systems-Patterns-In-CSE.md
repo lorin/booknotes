@@ -373,9 +373,9 @@ central role of the Law of Deamdns in studying JCSs.
 
 When new tech is introduced to field of practice, patterns of reverberations include:
 
-* new capabiliteis, which incrase deamnds and crate enw complexities such as increased coupling across parts of the system and higher tempo of operations
+* new capabilities, which increase demands and create new complexities such as increased coupling across parts of the system and higher tempo of operations
 * new complexities when technological possibilities are used clumsily
-* adaptations by practitioners to exploit capabilities or workaround complexities because they are rspponsible to meet operational goals
+* adaptations by practitioners to exploit capabilities or workaround complexities because they are responsible to meet operational goals
 * complexities and adaptations that are surprising, unintended side effects of the design intent
 * failures that occasionally break through these adaptations because of the inherent demands or because the adaptations are incomplete, poor, or brittle
 * adaptations by practitioners that hide the complexities from designers and from after-the-fact reviewers who judge failures to be due to human error
