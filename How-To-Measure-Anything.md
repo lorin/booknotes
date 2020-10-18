@@ -6,7 +6,7 @@ expressed as a quantity.
 
 Clarification chain:
 
-1. If it matters at all, it is detecetable/observable.
+1. If it matters at all, it is detectable/observable.
 2. If it is detectable, it can be detecte as an amount (or range of possible amounts).
 3. If it can be detected as a range of possible amounts, it can be measured.
 
