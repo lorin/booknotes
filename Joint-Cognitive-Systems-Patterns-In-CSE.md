@@ -47,7 +47,7 @@ are likely to adapt to the changes they introduce.
 * disturb
 * disrupting event
 * double-bind
-* empirical jeopardy (p49)
+* empirical jeopardy (p49, p59)
 * escalation (escalating demands)
 * functional synthesis
 * generative
@@ -510,9 +510,9 @@ To recognize states (bumpable), roles (bedmeister), potential bottlenecks (bedcr
 Classic cases:
 * Being bumpable
 * How a cockpit remembers it speeds (Hutchins)
-* Voice loops as key coordination tool in space shuttle mission control (Patterson, Watts-Perotti, Woods**
+* Voice loops as key coordination tool in space shuttle mission control (Patterson, Watts-Perotti, Woods)
 
-**Three characteristics of syntheses of how joint cognitive systems function:***
+**Three characteristics of syntheses of how joint cognitive systems function:**
 
 1. Power of observation
 2. General patterns expressed in particular situations
@@ -882,3 +882,15 @@ Five challenges that design imposs
 3. Envisioned world problem: because introduction of new tech transforms nature of practice, how do studies of current practices inform the design process?
 4. Adptation through use problem: how do you predict and share the process of transformation & adaptation that follows tech change?
 5. "Error" in design problem: fallacy of substituting designer's vision of what the impact of new tech on cognition & collaboration will be for empirical findings about the actual effects
+
+Empirical confrontation:
+* observe to notice patterns
+* generate ideas to account for variability on the surface
+* subjects ideas to empirical jeopardy
+
+Do the methods help generaet patterns & ideas about essential variables and processes?
+
+How to be prepared to be surprised.
+
+* What is this setting or activity ane xample of?
+* How does it fit or differ from patterns in the research base?
