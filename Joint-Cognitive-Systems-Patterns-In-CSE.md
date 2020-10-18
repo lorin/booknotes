@@ -849,3 +849,36 @@ Characteristics of functional syntheses at work:
 8. support projections of how systems will respond when changes are introduced so that side effects of change can be identified without waiting for consequences to occur
 9. reveal vulnerabilities for under- versus over-adpatation
 10. capture what behavior is adapted to (variations & constraints) & how it is adapted to handle tehse constraints. This supports considering how to expand the adaptive power of the system. They have an ability to generate guides for constructive change
+
+### On laws that govern joint cognitive systems at work
+
+FUnctional syntheses capture generic patterns.
+
+The laws we introduce are *control* laws: steering in the face of changing disturbances
+
+We notice these laws through consequences that have followed repeatedly when design breaks them in in episodes of technology change
+
+Law-like statements capture regularities of control and adaptation.
+
+They usually determine teh dynamic response, resilience, stability or instability of the distributed cognitive system in question.
+
+Laws guide how to look and what to look for when we encounter JCSs at work.
+
+### Challenges to inform design
+
+The purpose of studying JCSs is to inform design: help search what what is promising or what would be useful
+
+Methods for studying JCSs at work are means to stimulate innovation
+
+Studies usually occur as part of process of org & tech change spurred by:
+* promise of new capabilities, 
+* dread of some paths to failure
+* continuing pressure for higher levels of performance & greater productivity
+
+Five challenges that design imposs
+
+1. Leverage problem: where to spend limited resources in order to have significant impact?
+2. Innovation problem: how to support the innovation process?
+3. Envisioned world problem: because introduction of new tech transforms nature of practice, how do studies of current practices inform the design process?
+4. Adptation through use problem: how do you predict and share the process of transformation & adaptation that follows tech change?
+5. "Error" in design problem: fallacy of substituting designer's vision of what the impact of new tech on cognition & collaboration will be for empirical findings about the actual effects
