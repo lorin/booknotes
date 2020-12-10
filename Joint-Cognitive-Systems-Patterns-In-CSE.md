@@ -38,7 +38,7 @@ are likely to adapt to the changes they introduce.
 * critical incidents
 * cross-scale interactions
 * cycles of transformation and adaptation
-* demands
+* demands (p62)
 * design seeds
 * dilemmas
 * directed attention
@@ -894,3 +894,25 @@ How to be prepared to be surprised.
 
 * What is this setting or activity ane xample of?
 * How does it fit or differ from patterns in the research base?
+
+
+# Patterns in how joint cogntive systems work
+
+CSE committed to abstracting general patterns across specific settings & episodes of change
+
+
+## 7. Archetypical Stories of Joint Cognitive Systems at Work
+
+stimulated by surprising reverberations of vectors of change to provide new sets of conceptual looking glasses
+
+JCS as core unit for analyses for coping with complexity
+
+learn how (more or less visible) practitioner activities 
+
+* are parts of larger processes of collaboration & coordination
+* how shaped by artifacts
+* shape how those artifacts function in the workspace
+* how activities are adapted to multiple goals & constraints of org context & work domain
+
+### Demands and adaptation
+
