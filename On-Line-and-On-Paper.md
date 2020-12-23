@@ -115,3 +115,5 @@ collaborate, or the symbiotic relationship that exists between the machine
 and the organization.
 
 The empricially informed focus on process challenges the notion of information flow, showing instead the hard work of making tacit knowledge visible so that those involved can engineer a competent design. p60
+
+But I argue that visual representaitons such as sketches and drawings are the real building blocks of the yellow brick road in this design-to-production endeavor. Furthermore, understanding visual representations as conscription devices and boundary objects allows ut ot see the glue that holds the entire design process together. p61
