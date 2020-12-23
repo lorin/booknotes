@@ -6,11 +6,11 @@ Book by Kathryn Henderson
 
 ## Terms
 
-messy
-sketches
-visual culture
-yellow brick road
-hip shooting
+messy,
+sketches,
+visual culture,
+yellow brick road,
+hip shooting,
 mixed use
 
 
