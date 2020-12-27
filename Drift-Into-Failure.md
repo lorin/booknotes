@@ -242,7 +242,7 @@ Four ingredients of high reliability organizations:
   environments.
 - Diversity of narrative can be seen as an enormous source of resilience in complex systems.
 - In a complex system, we should gather as much information on the issue as possible
-- In a post-Newtonian ehtic, there is no longer an obvious relationship between
+- In a post-Newtonian ethic, there is no longer an obvious relationship between
     the behavior of parts in the system (or their malfunctioning ,for example,
     "human errors") and system-level outcomes. Instead, system-level behaviors
     emerge from the multitude of relationships, interdependencies and
