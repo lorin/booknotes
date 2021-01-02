@@ -139,9 +139,9 @@ Harland also described as a 'total' system, system only balances if:
 
 words need to be packed up tightly together within a closed space
 
-Saussure understands language as a system in which every words has its place, and, consequently, its meaning. System does not evolve, but remains in a state near equilibirum.
+Saussure understands language as a system in which every words has its place, and, consequently, its meaning. System does not evolve, but remains in a state near equilibrium.
 
-However, complex systems, like language, do not operate near equilibrium: relatinoships between components of system are non-lienar & dynamic
+However, complex systems, like language, do not operate near equilibrium: relationships between components of system are non-lienar & dynamic
 
 Signs in complex system always have an excess of meaning, with only some of the potential meaning realised in specific situations
 
@@ -153,5 +153,5 @@ Derrida critiques 'metaphysics of presence', tendency in whole tradition of west
 * this implies that meaning of a sign is *present* to speaker when he uses it
 * but this contradicts fact that meaning is constituted by a system of differences
 
-
 ### Networks and systems
+
