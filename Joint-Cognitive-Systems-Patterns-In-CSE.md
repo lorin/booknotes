@@ -98,6 +98,7 @@ are likely to adapt to the changes they introduce.
 * situations
 * states
 * story archetype (p48)
+* story lines (p62)
 * strategies
 * substitution myth
 * support
@@ -108,6 +109,7 @@ are likely to adapt to the changes they introduce.
 * tempo
 * threads
 * tools
+* tracing processes of change
 * tradeoffs
 * wedge
 * work
@@ -946,4 +948,34 @@ demands: concepts about the nature of work
 
 One can only see general patterns defined by demands through how they play out in concrete situations.
 
-*problem space*: model of the way demands are inter-connected and how they play out in particular situations in a specific field of practice.
+
+#### Problem space
+* model of the way demands are inter-connected and how they play out in particular situations in a specific field of practice.
+* captures tradeoffs and dilemmas inherent in practice
+* captures how these may be (mis-)balanced in specific situations
+
+
+demands are uncovered by tracing processes at different scales of:
+* change
+* adaptation
+* settling into equilibria
+
+change triggers adaptive respoonses by stakeholders as they:
+* work around complexities
+* attempt to exploit new capabilities
+
+
+#### Story lines
+to abstract demands, look for story lines within cycles of adaptation, such as:
+* over-simplifications
+* reframing
+* automation surprises
+
+#### Three relational properties of JCS at work:
+1. affordance
+2. coordination
+3. resilience
+
+
+
+
