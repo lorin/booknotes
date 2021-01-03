@@ -4,11 +4,27 @@ by Donald A. Schön
 
 ## Terms
 
-Professional knowledge, reflection-in-action, technical rationality, reflective
-conversation, rigor or relevance, tacit knowing, knowing-in-action, reflecting-in-practice,
-epistemology of practice, reflective inquiry, back-talk, language of designing, design domains,
-spatial action language, exploratory experiment, move-testing experiment, generative metaphor,
-interpersonal theory of action, Model I, Model II
+back-talk,
+conversation,
+design domains,
+epistemology of practice,
+exploratory experiment,
+generative metaphor,
+interpersonal theory of action,
+knowing-in-action,
+language of designing,
+Model I,
+Model II,
+move-testing experiment,
+professional knowledge,
+reflection-in-action,
+reflective
+reflecting-in-practice,
+reflective inquiry,
+rigor or relevance,
+spatial action language,
+tacit knowing,
+technical rationality,
 
 ### Model I
 
@@ -30,11 +46,11 @@ interpersonal theory of action, Model I, Model II
 
 ## Fields examined
 
-* Architecture
-* Psychotherapy
-* Engineering
-* Town planning
-* Management
+* architecture
+* psychotherapy
+* engineering
+* town planning
+* management
 
 ## Outline
 
