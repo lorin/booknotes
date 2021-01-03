@@ -11,12 +11,14 @@ are likely to adapt to the changes they introduce.
 
 * abstract
 * adapt (adaptation, adaptability, adaptive)
+* adaptations
 * affordances
 * agents
 * alarms
 * anomaly response
 * anticipation
 * artifacts
+* attention
 * authentic(ity)
 * automation surprise
 * blunt end
@@ -25,6 +27,7 @@ are likely to adapt to the changes they introduce.
 * bumpless transfer of control
 * cascading
 * catch
+* change
 * clumsy automation
 * cognition
 * cognitive systems engineer
@@ -32,7 +35,10 @@ are likely to adapt to the changes they introduce.
 * coherent
 * collaboration
 * common ground
+* concrete situations
 * constraints
+* control
+* contexts
 * coordination (coordinated activity, coordination breakdown)
 * coupling
 * critical incidents
@@ -48,30 +54,37 @@ are likely to adapt to the changes they introduce.
 * disrupting event
 * double-bind
 * empirical jeopardy (p49, p59)
+* equilibrium
 * escalation (escalating demands)
+* field of practice
 * functional synthesis
 * generative
 * goal conflicts
 * hypotheses
 * insight
+* inter-connnected
 * interpredictability
 * joint cognitive systems
 * leverage points
 * limits
 * literal-mind agents
+* multithreaded
 * narrowing, premature
-* over-simplifications
+* nature of work
 * Norbert's contrast
+* over-simplifications
 * participants
 * participative
 * patttern base
 * patterns
 * perceptual cycle (Neisser)
 * practitioners
+* problem holders
 * problem sampling
+* problem space
 * problem structure
-* problem-holders
 * process tracing
+* processes
 * psychologists fallacy
 * readiness to respond
 * reframing
@@ -82,6 +95,7 @@ are likely to adapt to the changes they introduce.
 * shaping the conditions of observation
 * shared frame of reference
 * sharp end
+* situations
 * states
 * story archetype (p48)
 * strategies
@@ -94,6 +108,7 @@ are likely to adapt to the changes they introduce.
 * tempo
 * threads
 * tools
+* tradeoffs
 * wedge
 * work
 * workload
@@ -916,3 +931,19 @@ learn how (more or less visible) practitioner activities
 
 ### Demands and adaptation
 
+#### Demands 
+* general aspects of situations that make goal achievement difficult.
+* a kind of constraint on hwo to handle problems
+
+to discover how JCS works, need to connect practitioner behavior to constraints as a description of processes of change, adaptation, and equilibrium
+
+understanding adaptation depends on understanding demands adapted to
+
+to see demands in classes of situations, must observe processes of adaptation across varying but related contexts
+
+demands: concepts about the nature of work
+* ex:  multi-threaded situations present demands on control of attention
+
+One can only see general patterns defined by demands through how they play out in concrete situations.
+
+*problem space*: model of the way demands are inter-connected and how they play out in particular situations in a specific field of practice.
