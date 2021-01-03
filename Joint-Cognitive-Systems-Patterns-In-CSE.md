@@ -97,7 +97,7 @@ are likely to adapt to the changes they introduce.
 * sharp end
 * situations
 * states
-* story archetype (p48)
+* story archetype (p48, p62)
 * story lines (p62)
 * strategies
 * substitution myth
@@ -975,6 +975,16 @@ to abstract demands, look for story lines within cycles of adaptation, such as:
 1. affordance
 2. coordination
 3. resilience
+
+each property expresses relationship between:
+* people (& other agents)
+* artifacts (technological capabilities)
+* specific work settings (domains)
+
+This book captures samples of patterns (story archetypes) in:
+* coordination / miscoordination
+* resilience / brittleness
+* affordance / clumsiness
 
 
 
