@@ -62,6 +62,30 @@ Freud,
 Searle,
 Saussure
 
+## Criteria for a complex system
+
+1. Complex systems consist of a large number of elements.
+2. The elements have to interact, and this interaction must be dynamic: a complex system changes with time.
+3. The interaction is fairly rich.
+4. The interactions are non-linear.
+5. The interactions usually have a fairly short range: information is received primarily from immediate neighbors.
+6. There are loops in the interactions.
+7. Complex systems are usually open systems.
+8. Complex systems operate under conditions far from equilibrium.
+9. Complex systems have a history.
+10. Each element in the system is ignorant of the behavior of the system as a whole, it responds only to information that is available to it locally.
+
+## Attributes of self-organizing systems (p91)
+
+1. Structure is a result of interaction between system and its environment.
+2. Internal structure of system can adapt dynamically to changes in the environment.
+3. Self-organization is the result of higher-order, non-linear processes.
+4. Self-organization is an emergent property of a system as a whole. Individual components only operate on local information & general principles.
+5. Self-organizing systems increase in complexity.
+6. Self-organization is impossible without some form of memory. A self-organising system therefore always has a history. This diachronic component cannot be ignored in any description of the system since previous conditions of the system form vital influences on present behavior.
+7. The notion of function is intimately linked to our *descriptions* of complex systems. You can only really talk about the function of a system in the context of a larger system that it forms a part of.
+8. The various 'levels' of the system cannot be given independent descriptions. The levels are in principle intertwined.
+
 ## Ch. 3: Post-structuralism, connectionism and complexity
 
 * Introduces post-structuralism
