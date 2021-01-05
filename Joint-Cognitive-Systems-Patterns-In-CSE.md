@@ -715,11 +715,11 @@ Example: How does the presence of an initail distrubance that masks key cues to 
 2. Shift analysis from concrete case to abstract story: describe how practitioners handled the demands of the problem designed into the staged situation.
 3. Contrast different performance descriptions
 
-**Concrete case***
+**Concrete case**
 
 Analyze the process for handling situation in specific context.
 
-**From concrete case to abstract story***
+**From concrete case to abstract story**
 
 Identify general patterns or demands about JCSs. 
 
