@@ -676,7 +676,7 @@ People:
 * may not have access to the critical factors that influence their behavior
 * never fail to have some model of:
     - how they work
-    - the people, devices, and processes tehy interact with
+    - the people, devices, and processes they interact with
 
 No such thing as a cognitive vacuum for people as meaning-seeking agents.
 
