@@ -689,7 +689,7 @@ Concrete situation staged is an instantiation of the generic situation of intere
 
 Problem of the effective stimulus: mapping between target situation to be understood and test situation where observations are made must be explicit.
 
-Fundamental attribute of staged world studies: invsetigators' ability to design the scenarios that participants face.
+Fundamental attribute of staged world studies: investigators' ability to design the scenarios that participants face.
 
 Allows for repeated observations.
 
@@ -701,13 +701,13 @@ The capability critical for moving to Staged World studies is this ability to *d
 
 A central skil in CSE is this ability to design problems and instantiate them in scenarios meaningful to actual practitioners.
 
-Scenarios are a tentative model of practice: what is the nvelope of textbook situations, what complicating factors challenge this envelope, what demands and constraints drive practice.
+Scenarios are a tentative model of practice: what is the envelope of textbook situations, what complicating factors challenge this envelope, what demands and constraints drive practice.
 
 In designing the situation, probes, and context, the goal is to uncover or make tangible, and, therefore, observable, what has been encoded in practice.
 
 Once the problem structure is defined relative to domain-specific characteristics, can then *trace the process** of how the JCS responds to the challenges embedded through the probe events in context.
 
-Example: How does the presence of an initail distrubance that masks key cues to the main fault affect the diagnostic search process.
+Example: How does the presence of an initial disturbance that masks key cues to the main fault affect the diagnostic search process.
 
 #### Process tracing
 
