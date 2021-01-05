@@ -384,7 +384,7 @@ and work activities into meaningful parts and their interactions? How do we use
 general patterns to guide cahnge and innovate new possibilities in concert with
 other stakeholders? This chapter introduces the basics of how to shape the
 conditions of observation, the consequences of the Law of Fluency, and the
-central role of the Law of Deamdns in studying JCSs.
+central role of the Law of Demands in studying JCSs.
 
 ### Adaptation in joint cognitive systems at work
 
@@ -727,7 +727,7 @@ General patterns or demands about JCSs that were instantiated in the concrete
 case are used to shift the analysis away from language of domain and specific
 scenario, and into abstract story in terms of concepts being studied.
 
-Analysis then shifts to develop a description of how practitionres handled the deamnds of the problem designed into the situation staged.
+Analysis then shifts to develop a description of how practitionres handled the demands of the problem designed into the situation staged.
 
 
 Re-tell each episode in terms of general conceptual patterns. Examples:
