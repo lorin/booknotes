@@ -148,7 +148,7 @@ p11
 
 ### Law of stretched systems 
 
-Every system is stretched to operate at its capacity; as soon as there is some immprovement, for example, int eh form of new technology, it will be exploited to achieve a new intensity and tempo of activity.
+Every system is stretched to operate at its capacity; as soon as there is some improvement, for example, in the form of new technology, it will be exploited to achieve a new intensity and tempo of activity.
 
 p18
 
