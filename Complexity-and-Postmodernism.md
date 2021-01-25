@@ -8,9 +8,11 @@ A lot about meaning and representation, because of analogies to language.
 
 action,
 active,
+agonistics,
 brain,
 change (principle of),
 closed,
+capacity,
 communication,
 complexity,
 connectionism,
@@ -19,6 +21,8 @@ context,
 contigent,
 continuity (principle of),
 deconstruction,
+denotation,
+determinate,
 diachronic,
 différance,
 disruption,
@@ -29,13 +33,19 @@ embedded,
 energy,
 entrainment,
 feedback,
+finite,
 fixed,
 foundationalism,
+iconic,
 immutability,
+incommensurable,
+information,
 interaction,
 iterability,
 language (nature of),
+langauge game,
 large-scale,
+linear,
 loops,
 machine,
 master key,
@@ -45,14 +55,17 @@ memory,
 meta-narrative,
 metaphysics of presence,
 mutability,
-narrative,
+narrative (understanding of knowledge),
 natural,
+network,
 non-linear,
 open,
+paralogy,
 passive,
 patterns,
 postmodernism,
 post-structuralism,
+prediction,
 primordial characteristics,
 reductionism,
 reflexivity,
@@ -65,7 +78,9 @@ self-organized criticality,
 signified,
 signifier,
 signs,
+smaller stories
 spacing,
+stability,
 stacked deck,
 structural,
 stucture,
@@ -82,6 +97,8 @@ writing,
 Austin,
 Derrida,
 Freud,
+Lyotard,
+Pattee,
 Searle,
 Saussure
 
@@ -349,24 +366,170 @@ reflexivity: self-organization is a self-transforming process; the system acts u
 
 #### Stability and prediction
 
+classical def'n of stability: small causes produce small effects
+
+by this def'n, critically organized system is unstable
+
+Poincare described instability probabilistically, chance events
+
+In complex systems, it's not about randomness, but complex interaction of a large number of factors. Not about first-order logic, either.
+
+'I find no alternative but to accept multiple, formally incmpatible descriptions as satisfactory explanation of many types of biological events.' - Pattee
+
+It is the interaction of complex constraints that produces interesting behaviour — behaviour that cannot be described as chance events or instabilities.
+
+A theory based on chance events, including those of quantum theory, 'serves only as an escape from classical determinism: it is not a theory of self-oranization" - Pattee
+
+To be able to predict the behavior of a system is one of the classic crtieria
+for a successful theory. We are working with systems, however, that cannot be
+fully described by means of a classical theory.
+
+Since the certainty with which the future can be predicted has been geatly
+reuced, any plan of action ahs to be adapted continuously. If the plan is too
+rigid — too much central control — the system will not be able to cope with unpredictable changes.
+
+On the other hand, it will also be disastrous if the system tries to adjust itself to every superficial change, since such changes may easily be reversed witout notice. THe system will waste its resources in trying to follow every fluctuation instead of adapting to higher-order trends.
+
+Being able to discriminate between changes that should be followed and changes that should be resisted is vital to the survival of any organisation (or organism). This is achieved optimally when the control fo the system is not rigid and localizd, but distributed over the system, ensuring the positive dyanmics of self-organization is utilized effectively.
+
+#### Ethics of self-organization
+
+Values understood as emergent properties of social system
+
+purely selfish behavior by members is deterimental not only to the system, but ultimately also to particular individuals
 
 
-
+distributed, decentralized control makes system more flexible, therefore increases survability.
 
 ### Lorin's personal observations
 
 Reminded of Woods's notions of:
 * constraints
 * finite resources
-* reciprocity
+* reciprocity (ethics)
+* adaptation (fixation vs vagabonding)
 
 
-Starting with large number of relatively undifferentiated units: not sure how much that applies. Although, in a sense, if you think of an organization made up of people,
-it's true that a start-up is sort of a clump of people, and then it grows and specializes into organizational structures. Similar with competition between groups.
+Starting with large number of relatively undifferentiated units: 
 
-Hard to see how this applies to language, though.
+makes sense for human systems (e.g., organization starts as a startup, grows and specializes), but not for socio-technical, where it's more heterogeneous.
 
+Hard to see how this applies to language
+
+For the ethics aspect, where selfish behavior ultimately hurts the individual, that can take a while
+
+Gets to distributed, but not to polycentric. Need some centraliztaion. 
 
 
 ## Ch. 7 Complexity and postmdoernism
 
+### Postmodernism
+
+Lyotard:
+
+I will use the term *modern* to designate any science that legitimates
+itself with reference to a metadiscoruse of this kind making explict appeal to
+some grand narrative, such as the dialectics of the Spirit,  the hermeneutics of meaning, the emanticipation of the rational or workign subject, or the creation fo welath.
+
+Postmodernism: incredulity towards meta-narratives
+
+Must cope with multiplicity of discourses
+
+Different institutions and diferent contexts produce different narratives which are not reducible to each other.
+
+narrative understanding of knowledge
+
+pluarity of smaller stories
+
+refines our sensitivity to differences and reinforces our ability to tolerate the incommensurable
+
+knowledge takes the form of narratives that are instrumental in allowing groups to achieve their goals and to make sense of what they are doing.
+
+narratives are all local
+
+cannot be linked together to form a grand narrative which unifies all knowledge
+
+Postmodern ocndition: characterized by co-existence of  a multiplicity of heterogeneous discourses
+
+Discussion of "anything goes" critique of postmdoernism
+Local narratives only make sense in terms of their contrasts adn differences to surrounding narratives.
+
+Meaning is generated through a dynamic process.
+
+Discourses are in constant interaction, battling with each toher for territory, the provisional boundaries between them being the very stakes in the game.
+
+This strategy of 'throwing away' \[falsification\] has the result of makign the body of knowledge qualifying as 'scientific' leaner and leaner. Eveyrthing too complex or containing uncertainties or unpredictability is, for the time being at least, left aside.
+
+Discard consensus since it is impoverishing.
+
+Dissenting voices receive no special privilege; tehy ahve to enter the
+'agonistics fo the network', where their relevance is dynamically determined
+through competition and co-operation in terms of the history as well as the
+changing needs and goals of the system.
+
+Since all networks we have talked about are conteingent entities, they are finite.
+
+Robustness and flexibility are two sides of the same coin. In terms of our social condition, this means that we would experience less postmodern stress by becoming less rigid in our interaction with each other and our environment.
+
+### Complex systems and postmodern society
+
+Implications of the ten characteristics of complex systems for contemporary culture. 
+
+society can only survive as a *process*. It is defined not by its origins or goals, but by what it is doing. 
+
+What postmodernism does reect is an interpretaition of history which elevates it ot amaster key for unlocking the true meaning of present conditions.
+
+Since we are in part creating society through our actions, no complete picture of its present state is avilable to anyone.
+
+### Language as a complex system
+
+Language is constantly transformed by the ways in which it is used.
+
+Meaning is *local* phenomenon, valid in a certain frame of time and space.
+
+Meaning is only generated when idnvidiaul words are cuaght in the play of the system.
+
+Self organization describes how a complex system can develop and change its internal structure. The process id driven by competition for the resources of the system.
+
+Information has a direct, non-determinate influence on the system: it *causes* certain changes in teh system, but it does not fully *determine* the nature of these changes.
+
+Language interacts with the environment through the *users* of the language who have to interaact with the env't to surveive and operate in it.
+
+We try to makes sense of our experiences, and in the process create and expand our language.
+
+Meaning flows from a complex process of interaction between information from the world, on the one hand, and a web of already existing relationships, built up through previous interactions, on the other hand.
+
+### Understanding scientific knoweldge from a postmodern perspective
+
+Lyotard's pragmatics of science:
+
+1. Scientific knowledge requires that one language game — *denotation* — be retained and all others excluded.
+2. Scientific knoweldge generated in this way is not part of the general 'social bond', but the property of the epxerts adn professionalls who organize themselves into exclusive institutes and institutiosn.
+3. In the process of research, only the competence of the researcher is at stake.
+4. Scientific statements do not increase their validty by being reported or through popularity.
+5. Scientific knowledge is cumultative.
+
+Lyotard's narrative knowledge:
+
+1. The criteria for narrative knowledge are flexible and are dynamically defined by the society in which the narrative functions.
+2. No specific linguistic form is privileged in these narratives.
+3. In the 'transmission' of these narratives, sender, receive and the subjects discussed  are all considered in a way that strengthens the social bond.
+4. Narratives have a strengate temporal nature. Their function is not primarily to *remember* the past, but to re-eanct past events as present events. 
+
+
+
+### Lorin's comments
+
+The concept of incredulity towards meta-narratives is appealing.
+
+Political discourse implications are a bit scary.
+
+Describes engineering as an "empirical science" (!)
+
+Not sure I agree that robustness & flexibility are two sides of the same coin.
+"The interactions have fairly short range" - this is an interesting issue in
+the world of the internet, where the interaction is local in one sense, and
+yet is very long distance in another sense. I think it's still true, but
+"range" means something different here.
+
+Number 3 of narrative knoweldge reminds me of triangle of storytelling: story, storyteller, audience
