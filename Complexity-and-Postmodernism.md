@@ -179,3 +179,21 @@ Derrida critiques 'metaphysics of presence', tendency in whole tradition of west
 
 ### Networks and systems
 
+
+## Ch. 6 Problems with representation
+
+### Questions
+
+How does a word in a language represent something? 
+
+How do experts represent tehir knowledge?
+
+Does a pattern contain certain explict features that can be represented in a pattern-recognition machine?
+
+What is the relationship between the structure of the network and the phenomena that caused it?
+
+How does a network represent the information of the domain it models?
+
+Is it possible to analyze the structure of a successful network in order to determine how it solved the problem?
+
+How do you use a priori knowledge ot predtermine the structure of a network, should such implementation 
