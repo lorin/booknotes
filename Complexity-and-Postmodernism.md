@@ -97,6 +97,7 @@ writing,
 
 Austin,
 Derrida,
+Edelman,
 Freud,
 Lyotard,
 Pattee,
