@@ -532,7 +532,7 @@ ome places these conastraints can be fairly loose, in others they can be
 quite tight. THe fact that there are many narrative paths to follow, even
 between two specific points, does not imply that anything goes. All
 nartatives are subject to some form of constraint, and some paths are ruled
-out. All paths share the charactestirics of ocnteingency and provisionality.
+out. All paths share the characteristics of contingency and provisionality.
 
 
 ### Lorin's comments
