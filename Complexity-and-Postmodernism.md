@@ -521,7 +521,7 @@ Lyotard's narrative knowledge:
 
 These two forms of knowledge - scientific and narrative, have been kept apart so long that they have become uncommensurable.
 
-The world we lieve in is complex. This complexity is diverse but oragnized,
+The world we live in is complex. This complexity is diverse but oragnized,
 not chaotic. Descriptions of it cannot be reduced to simple coherent and
 university valid sicourses. If we model complexity in terms of a network, any
 given narrative will form a path, or trajectory, through the network. There
