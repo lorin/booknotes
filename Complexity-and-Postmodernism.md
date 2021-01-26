@@ -62,6 +62,7 @@ non-linear,
 open,
 paralogy,
 passive,
+paths,
 patterns,
 postmodernism,
 post-structuralism,
@@ -514,7 +515,23 @@ Lyotard's narrative knowledge:
 1. The criteria for narrative knowledge are flexible and are dynamically defined by the society in which the narrative functions.
 2. No specific linguistic form is privileged in these narratives.
 3. In the 'transmission' of these narratives, sender, receive and the subjects discussed  are all considered in a way that strengthens the social bond.
-4. Narratives have a strengate temporal nature. Their function is not primarily to *remember* the past, but to re-eanct past events as present events. 
+4. Narratives have a strengate temporal nature. Their function is not primarily to *remember* the past, but to re-eanct past events as present events. THe meaning of the narrative lies not in the fact that is is supported by some important piece of history, but in the metre and rhythm of its present telling.
+5. No special procedure is necessary to 'authorise' the narrative process. The narrator is not isolated, but performs the function of integrator, and all those who participate can find themselves in any of the available roles (narrator, narratee, hero, etc.)
+
+These two forms of knowledge - scientific and narrative, have been kept aprt so long that they have become uncommensurable.
+
+The world we lieve in is complex. This complexity is diverse but oragnized,
+not chaotic. Descriptions of it cannot be reduced to simple coherent and
+university valid sicourses. If we model complexity in terms of a netwokr, any
+given narrative will form a path, or trajectory, through the network. There
+are a great diversity of such paths. The network is not only complex, but
+also ydnamic. As we trace various narrative paths through it, it changes.
+However, all paths rae constrained by the local structure of the network. Ins
+ome places these conastraints can be fairly loose, in others they can be
+quite tight. THe fact that there are many narrative paths to follow, even
+between two specific points, does not imply that anything goes. All
+nartatives are subject to some form of constraint, and some paths are ruled
+out All paths shar ethe charactestirics of ocnteingency and provisionality.
 
 
 
