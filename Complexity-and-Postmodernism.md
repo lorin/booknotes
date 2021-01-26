@@ -390,7 +390,7 @@ Since the certainty with which the future can be predicted has been geatly
 reuced, any plan of action ahs to be adapted continuously. If the plan is too
 rigid — too much central control — the system will not be able to cope with unpredictable changes.
 
-On the other hand, it will also be disastrous if the system tries to adjust itself to every superficial change, since such changes may easily be reversed witout notice. THe system will waste its resources in trying to follow every fluctuation instead of adapting to higher-order trends.
+On the other hand, it will also be disastrous if the system tries to adjust itself to every superficial change, since such changes may easily be reversed witout notice. The system will waste its resources in trying to follow every fluctuation instead of adapting to higher-order trends.
 
 Being able to discriminate between changes that should be followed and changes that should be resisted is vital to the survival of any organisation (or organism). This is achieved optimally when the control fo the system is not rigid and localizd, but distributed over the system, ensuring the positive dyanmics of self-organization is utilized effectively.
 
@@ -516,7 +516,7 @@ Lyotard's narrative knowledge:
 1. The criteria for narrative knowledge are flexible and are dynamically defined by the society in which the narrative functions.
 2. No specific linguistic form is privileged in these narratives.
 3. In the 'transmission' of these narratives, sender, receive and the subjects discussed  are all considered in a way that strengthens the social bond.
-4. Narratives have a strengate temporal nature. Their function is not primarily to *remember* the past, but to re-eanct past events as present events. THe meaning of the narrative lies not in the fact that is is supported by some important piece of history, but in the metre and rhythm of its present telling.
+4. Narratives have a strengate temporal nature. Their function is not primarily to *remember* the past, but to re-eanct past events as present events. The meaning of the narrative lies not in the fact that is is supported by some important piece of history, but in the metre and rhythm of its present telling.
 5. No special procedure is necessary to 'authorise' the narrative process. The narrator is not isolated, but performs the function of integrator, and all those who participate can find themselves in any of the available roles (narrator, narratee, hero, etc.)
 
 These two forms of knowledge - scientific and narrative, have been kept apart so long that they have become uncommensurable.
@@ -527,8 +527,8 @@ university valid sicourses. If we model complexity in terms of a network, any
 given narrative will form a path, or trajectory, through the network. There
 are a great diversity of such paths. The network is not only complex, but
 also ydnamic. As we trace various narrative paths through it, it changes.
-However, all paths rae constrained by the local structure of the network. Ins
-ome places these conastraints can be fairly loose, in others they can be
+However, all paths rae constrained by the local structure of the network. In
+some places these constraints can be fairly loose, in others they can be
 quite tight. THe fact that there are many narrative paths to follow, even
 between two specific points, does not imply that anything goes. All
 nartatives are subject to some form of constraint, and some paths are ruled
