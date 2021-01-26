@@ -338,7 +338,7 @@ Structure of the brain is strongly influenced by action.
 
 Intelligence not an abstract process, it is embedded. Brains are part of our bodies.
 
-Structures for communication remain embedded in a neural structure, and therefore will always be subjected to teh complexities of network interaction.
+Structures for communication remain embedded in a neural structure, and therefore will always be subjected to the complexities of network interaction.
 
 ### Philosophical implications of self-organization
 
@@ -495,7 +495,7 @@ Self organization describes how a complex system can develop and change its inte
 
 Information has a direct, non-determinate influence on the system: it *causes* certain changes in teh system, but it does not fully *determine* the nature of these changes.
 
-Language interacts with the environment through the *users* of the language who have to interaact with the env't to surveive and operate in it.
+Language interacts with the environment through the *users* of the language who have to interaact with the env't to survive and operate in it.
 
 We try to makes sense of our experiences, and in the process create and expand our language.
 
