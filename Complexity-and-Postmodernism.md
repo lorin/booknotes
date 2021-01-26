@@ -325,7 +325,7 @@ aspects of cortical map formation:
 3. group competition -stability of groups determined by competitive interaction with other groups
 
 
-#### The relatinoship between the brain and the world
+#### The relationship between the brain and the world
 
 Structure of the brain does not become a mirror of the environment, because:
 1. effects are delayed
@@ -531,8 +531,7 @@ ome places these conastraints can be fairly loose, in others they can be
 quite tight. THe fact that there are many narrative paths to follow, even
 between two specific points, does not imply that anything goes. All
 nartatives are subject to some form of constraint, and some paths are ruled
-out All paths shar ethe charactestirics of ocnteingency and provisionality.
-
+out. All paths share the charactestirics of ocnteingency and provisionality.
 
 
 ### Lorin's comments
