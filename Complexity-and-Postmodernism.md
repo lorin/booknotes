@@ -298,7 +298,7 @@ the system organizes itself towards the critical point where single events have 
 
 To interepret its environment, system must have two attributes:
 * some form of resistance to change
-* mechanism for comparing different conditions in order to determine whether there has been en ough change to warrant som eresponse
+* mechanism for comparing different conditions in order to determine whether there has been enough change to warrant som eresponse
 
 biological systems encounter constraints
 * need to adapt to complex conditions
