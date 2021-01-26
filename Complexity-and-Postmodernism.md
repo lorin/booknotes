@@ -465,7 +465,7 @@ This strategy of 'throwing away' \[falsification\] has the result of makign the 
 Discard consensus since it is impoverishing.
 
 Dissenting voices receive no special privilege; tehy ahve to enter the
-'agonistics fo the network', where their relevance is dynamically determined
+'agonistics of the network', where their relevance is dynamically determined
 through competition and co-operation in terms of the history as well as the
 changing needs and goals of the system.
 
@@ -519,11 +519,11 @@ Lyotard's narrative knowledge:
 4. Narratives have a strengate temporal nature. Their function is not primarily to *remember* the past, but to re-eanct past events as present events. THe meaning of the narrative lies not in the fact that is is supported by some important piece of history, but in the metre and rhythm of its present telling.
 5. No special procedure is necessary to 'authorise' the narrative process. The narrator is not isolated, but performs the function of integrator, and all those who participate can find themselves in any of the available roles (narrator, narratee, hero, etc.)
 
-These two forms of knowledge - scientific and narrative, have been kept aprt so long that they have become uncommensurable.
+These two forms of knowledge - scientific and narrative, have been kept apart so long that they have become uncommensurable.
 
 The world we lieve in is complex. This complexity is diverse but oragnized,
 not chaotic. Descriptions of it cannot be reduced to simple coherent and
-university valid sicourses. If we model complexity in terms of a netwokr, any
+university valid sicourses. If we model complexity in terms of a network, any
 given narrative will form a path, or trajectory, through the network. There
 are a great diversity of such paths. The network is not only complex, but
 also ydnamic. As we trace various narrative paths through it, it changes.
