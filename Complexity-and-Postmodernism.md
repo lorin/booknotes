@@ -506,7 +506,7 @@ Meaning flows from a complex process of interaction between information from the
 Lyotard's pragmatics of science:
 
 1. Scientific knowledge requires that one language game — *denotation* — be retained and all others excluded.
-2. Scientific knoweldge generated in this way is not part of the general 'social bond', but the property of the epxerts adn professionalls who organize themselves into exclusive institutes and institutiosn.
+2. Scientific knoweldge generated in this way is not part of the general 'social bond', but the property of the experts and professionals who organize themselves into exclusive institutes and institutions.
 3. In the process of research, only the competence of the researcher is at stake.
 4. Scientific statements do not increase their validty by being reported or through popularity.
 5. Scientific knowledge is cumultative.
