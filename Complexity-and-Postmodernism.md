@@ -348,7 +348,7 @@ Self-organization argues against:
 * foundationalism (single origin, immutable principle)
 * reductionism
 
-postmernism denies single metta-narratives, emphasizes difference & opposition
+postmodernism denies single meta-narratives, emphasizes difference & opposition
 
 #### The role of history
 
