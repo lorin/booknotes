@@ -69,7 +69,7 @@ Wilder Penfield (p15),
 
 ### Part I
 
-- analysis of major warhorses of contemporary
+- analysis of major warhorses of contemporary action theory
 - demonstrates that action theory rests on two mistaken views of cause & expalnaation
 - this causes problems
 
