@@ -303,7 +303,7 @@ Voluntary actions are:
 
 Aristole distinguishes:
 * acting by reason of ignorance
-* someone who is druk or in a rage
+* someone who is drunk or in a rage
 
 Only those acts brought about by a person's own efforts as a result of deliberation should be described as "chosen".
 
