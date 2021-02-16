@@ -245,7 +245,7 @@ If human beings and their behavior are complex adaptive phenomena, the precise p
 
 ### hermeneutical interpretation / hermeneutics
 
-* meaning of complete text is constructed from relationships among indvidiaul passages
+* meaning of complete text is constructed from relationships among individual passages
 * meaning of the story's individual passages is derived from meaning of the entire text in which those passagse are embedded
 * continual, interpretive "tacking" from parts to whole adn back to parts
 * reprodues the way dynamical systems self-organize out of the interrelationships among the parts—and then loop back to constrain those parts
