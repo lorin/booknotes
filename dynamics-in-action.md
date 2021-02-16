@@ -220,22 +220,11 @@ Since actions are lower, motor-level implementations of higher-level intenationa
 
 evidence suggests: human brain is a self-organized, complex adaptive system that encodes stimuli w/context-sensitive constraints
 
-postulate: behavior constitues action when brain's self-organized dynamics
-originate, regulate, and constrain skeleto-muscular processes s.t. resulting
-behavior "satisfies the meaningful content" embodied in complex dynamics from
-which it issued.
+postulate: behavior constitues action when brain's self-organized dynamics originate, regulate, and constrain skeleto-muscular processes s.t. resulting behavior "satisfies the meaningful content" embodied in complex dynamics from which it issued.
 
-Bottom-up, formulating a prior intention to wink would be the felt
-counterpart of a neurological phase change, the dynamical self-organization
-of a more complex level of coherent brain activity that integrates neuronal
-patterns embodying wants, desired, meaning, and the like.
+Bottom-up, formulating a prior intention to wink would be the felt counterpart of a neurological phase change, the dynamical self-organization of a more complex level of coherent brain activity that integrates neuronal patterns embodying wants, desired, meaning, and the like.
 
-By serving as brain's operator or order parameter, contextual constraints
-that embody an intention (acting top-down) would provide the behavior
-w/continuous, ongoing control & direction by modifying in real time the
-probability distribution of lower-level neurological processes and, as a
-consequence, the behavioral alternatives available to and implemented by the
-agent.
+By serving as brain's operator or order parameter, contextual constraints that embody an intention (acting top-down) would provide the behavior w/continuous, ongoing control & direction by modifying in real time the probability distribution of lower-level neurological processes and, as a consequence, the behavioral alternatives available to and implemented by the agent.
 
 Time & context are as central to identity & behavior of these dynamic processes as they are to human beings.
 
@@ -380,4 +369,3 @@ Descartes's dualism: nonphysical mind activates the body as efficient cause
 mind does not require anything external to activate it, not even final cause
 
 causes must be external to their effects
-
