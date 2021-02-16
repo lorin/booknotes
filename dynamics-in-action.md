@@ -4,41 +4,53 @@ Alicia Juarrero
 
 ## Claims of book
 
-1. an inadequate, 350-year-old model of cause and explanation underlies contemporary theories of aciton (p3)
+1. an inadequate, 350-year-old model of cause and explanation underlies contemporary theories of action (p3)
 2. theory of complex adaptive systems can serve as a metaphor that permits reconceptualizaiton of a cause, and in consequence a rethinking of action. (p5)
 3. causal mechanism at work between levels of hierarchical organizaiton can best be understood as the operation of constraint (p6)
 
 ## Terms
 
 action theory (p1,15),
+actually (p17),
 agents (p3),
+awareness (p19),
 biological resonance (p6),
 catalyst (p6),
 cause, (efficient, final, formal, material) (p2),
 chosen (p17),
 complex adaptive systems (p4,8),
 constraints (context-free, context-sensitive) (p6)
+context (p22),
 covering law (p8),
 dynamical (p6),
 embodied (p7),
 entrainment (p6),
+epiphenomenal (p21),
 episteme (p2),
 feedback loop (p6),
+goal-directedness (p19),
 hermeneutics (p8),
 historical (p8),
 information theory (p5),
 intentions (p3),
 interlevel causality (p5),
+internal (p19),
 logical behaviorism (p4),
 meaningful content (p7),
-mechanistic (p2,3),
-unpredictable (p8),
+mechanistic (p2,3,21),
+orexis (p18,19),
 phase change (p6,9),
 phronesis (p3),
+potencies (p17),
+potentially (p17),
+primary properties (p22),
+reflexivity (p20),
 self-organise (p6,7),
 synchronize (p6),
 teleology (p4),
+unpredictable (p8),
 volitions (p3),
+voluntary (p19),
 
 ## People referneced
 
@@ -273,7 +285,11 @@ philosophers lack satisfactory theory of:
 
 All goes back to Aristotle
 
+### Boat / cargo scenario
+
 Example: boat threatened by oncoming storm. Captain throws cargo overboard to lighten load & prevent capsizing. Is this behavior voluntary, involuntary, or compulsory?
+
+### Aristotle analysis
 
 Aristotle: it depends on whether the "origin" or "principle of movement" is within the agent.
 
@@ -285,4 +301,83 @@ Voluntary actions are:
 * purposive
 * appropriate to the situation
 
-Only those acts brought about by a person's own efforts as a result of deliberation should be described as "chosen."
+Aristole distinguishes:
+* acting by reason of ignorance
+* someone who is druk or in a rage
+
+Only those acts brought about by a person's own efforts as a result of deliberation should be described as "chosen".
+
+### Aristotle's views on changes & potencies
+all becoming involves transformation of something that is so only "potentially" into something that is "actually" so
+
+potencies: originative sources of change in another thing or in the thing itself *qua* other
+
+two kinds:
+* passive - to be acted upon (a potenticy to receive change that is "Contained in matter)
+* active - to act on (a potentcy foudn in agents to impart change)
+
+Since nothing can simultaenously possess both potencies wrt same property, nothing can act on itself.
+
+### Aristotle's views on animal/human motion
+
+movement: 
+* part moves and part is moved 
+* does not move as a whole
+* is not moved as a whole
+
+*orexis* – psyche or soul's one-way reaching out toward an object in the external world perceived by the animal or human as significant
+
+orexis as unmoved mover
+
+soul (active aspect) of lion causes body (passive aspect) to move
+
+
+explains animal self-motion by splitting organism in two: soul (unmoved mover) body (moved)
+
+Lion's pursuit of gazelle: voluntary self-motion
+
+
+blinks: efficiently caused by something external to agent's soul (compulsory behavior)
+
+Gazelle is not the final cause (goal) for the lion, lion must perceive the gazelle as food for it to be object of lion's desire.
+
+awareness and goal-directedness are hinges connecting the inside and outside
+
+* with this split, Aristotle embeds organism in the environment
+* organism's internal state is dependent on something outside it
+
+
+Aristotle's concept of "voluntary" suggest sense of "free" that means in part "routed through agent's soul"
+
+### Reflexivity
+
+Self cause is example of puzzle of reflexivity
+
+Probem is circumvented by maintaining that nothing deceives, contradicts, or efficiently causes itself (no strange loops!)
+
+### Mechanistic causes of Newtonian science
+
+By early 17th C, modern science insisted that:
+* organic wholes reduce to their component parts
+* only efficient causes (forces) are properly causal
+
+wholes are epiphenominal (causally impotent by-products)
+
+deterministic universe of universal laws + fully specifiable initial conditions = perfect prediction (Laplace's demon!)
+
+context contributes nothing to reality
+
+object's only real properties were its *primary* properties, which are internal to object (e.g., mass)
+
+Newtonian physics: time-reversible
+
+time-reversibility means that final cause is an illusion
+
+### Modern philosophy
+
+Descartes's dualism: nonphysical mind activates the body as efficient cause
+
+mind does not require anything external to activate it, not even final cause
+
+causes must be external to their effects
+
