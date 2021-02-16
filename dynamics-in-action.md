@@ -70,7 +70,7 @@ Wilder Penfield (p15),
 ### Part I
 
 - analysis of major warhorses of contemporary action theory
-- demonstrates that action theory rests on two mistaken views of cause & expalnaation
+- demonstrates that action theory rests on two mistaken views of cause & expalanation
 - this causes problems
 
 #### Chapters 1 & 2
@@ -261,7 +261,7 @@ geneaological narrative that makes references temporal and contextual events
 
 narrative, interpretive, and historical explanations of action require expanded appreciation of what counta sas "reason" and "explanation"
 
-they provide insight into and understanding of wht actually happened
+they provide insight into and understanding of what actually happened
 
 supply a rich descirption of the precise, detailed path that the agent took, including teh temporal and spatial dynamics in which agent was embedded and in which the action occurred
 
