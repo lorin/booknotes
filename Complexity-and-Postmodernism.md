@@ -464,10 +464,7 @@ This strategy of 'throwing away' \[falsification\] has the result of makign the 
 
 Discard consensus since it is impoverishing.
 
-Dissenting voices receive no special privilege; tehy ahve to enter the
-'agonistics of the network', where their relevance is dynamically determined
-through competition and co-operation in terms of the history as well as the
-changing needs and goals of the system.
+Dissenting voices receive no special privilege; they have to enter the 'agonistics of the network', where their relevance is dynamically determined through competition and co-operation in terms of the history as well as the changing needs and goals of the system.
 
 Since all networks we have talked about are conteingent entities, they are finite.
 
@@ -479,7 +476,7 @@ Implications of the ten characteristics of complex systems for contemporary cult
 
 society can only survive as a *process*. It is defined not by its origins or goals, but by what it is doing. 
 
-What postmodernism does reect is an interpretaition of history which elevates it ot amaster key for unlocking the true meaning of present conditions.
+What postmodernism does reject is an interpretation of history which elevates it to a master key for unlocking the true meaning of present conditions.
 
 Since we are in part creating society through our actions, no complete picture of its present state is avilable to anyone.
 
