@@ -56,7 +56,7 @@ that has long attributed technological accomplishments to the virtue of
 of actors, machines, and paper that construct technological innovation.
 
 
-The drawings and sketches themselves structure the work process as well as its prouct.
+The drawings and sketches themselves structure the work process as well as its product.
 
 this study looks at the role of visual presentaitons in present-day engineering practices.
 
