@@ -462,50 +462,50 @@ Book by Lee Clarke
     - must establish authority via expertise in order to successfully justify their standard
     - also need to convince others
 ## Experts, organizations, and social conflict
-        - experts bridge the gap between an organization and its constituents that live outside of the organization
-        - experts take political judgments and couch them in technocratic, “value-free” (neutral) terms
-            - they do value-laundering
-        - experts get authority from organization affiliation
-            - consequence: organizations influence experts
-        - ideas the author borrows from other fields:
-            - from study of orgs: organizations are the man agents that create danger
-                - we can’t ignore their influence in our analysis of dangers
-            - from sociology: symbols, including fantasy documents, are developed through negotiation (social construction)
-            - rhetoric: the envisioned audience influences the shape and content of the fantasy document
-                - to understand fantasy docs, we must understand the audience
+- experts bridge the gap between an organization and its constituents that live outside of the organization
+- experts take political judgments and couch them in technocratic, “value-free” (neutral) terms
+    - they do value-laundering
+- experts get authority from organization affiliation
+    - consequence: organizations influence experts
+- ideas the author borrows from other fields:
+    - from study of orgs: organizations are the man agents that create danger
+        - we can’t ignore their influence in our analysis of dangers
+    - from sociology: symbols, including fantasy documents, are developed through negotiation (social construction)
+    - rhetoric: the envisioned audience influences the shape and content of the fantasy document
+        - to understand fantasy docs, we must understand the audience
 ## Power in Alaska
-        - There are two ways that political power influenced spill response planning docs in Alaska
-            - 1. Role of oil in political economy
-            - 2. Negotiations over jurisdiction and profits
+- There are two ways that political power influenced spill response planning docs in Alaska
+    1. Role of oil in political economy
+    2. Negotiations over jurisdiction and profits
 ## Institutional context of fantasy
-        - p105-106
-        - story of how Alaska ended up with a pipeline->tanker transport system instead of a pipeline that passed through Canada (role of politics)
-        - most of the oil company’s spill plan related to pipeline spills
-            - but the pipeline part of the transport is safer than the tanker part
-            - land spills are easier to clean up than open water spills
+- p105-106
+- story of how Alaska ended up with a pipeline->tanker transport system instead of a pipeline that passed through Canada (role of politics)
+- most of the oil company’s spill plan related to pipeline spills
+    - but the pipeline part of the transport is safer than the tanker part
+    - land spills are easier to clean up than open water spills
 ## Microstruggles
-        - p107
-        - **disqualification heuristic **- tendency for experts to discount evidence that conflicts with their preexisting beliefs about the safety of a sociotechnical system
-        - apparent affinity between small spill cleanup and large spill cleanup traces back to historical conflict between the oil company and the Alaska Department of Environmental Conservation (ADEC)
-        - enforcing more realistic planning for large oil spills was de jure within ADEC's scope but de facto was not
+- p107
+- **disqualification heuristic **- tendency for experts to discount evidence that conflicts with their preexisting beliefs about the safety of a sociotechnical system
+- apparent affinity between small spill cleanup and large spill cleanup traces back to historical conflict between the oil company and the Alaska Department of Environmental Conservation (ADEC)
+- enforcing more realistic planning for large oil spills was de jure within ADEC's scope but de facto was not
 ## Federalism on Long Island
-        - p110
-        - locals fought against Long Island nuclear plant by refusing to participating in the emergency planning process
-        - by doing so, they effectively vetoed the plant
-        - p111
-        - there wasn't a single expert authority making estimates about worst-case scenarios, instead there were multiple experts making conflicting estimates
-            - estimates from power company estimates conflicted with county experts
-        - pp112-113
-        - power company ran an evacuation exercise, but state and local governments refued to participate
-        - p116
-        - __realism doctrine__ - when it comes to a real emergency, state and local agencies will participate properly in the evacuation plan, if they don't take part in the simulated exercises
-            - this was assumed by the power company to justify the success of the evacuation exercises even though local agencies didn't participate in them
-## Local wisdom and civil defenece
-        - p120
-        - polls showed that people didn't believe in civil defence
-        - p125
-        - rhetoric changed from nuclear defense to emergency preparedness (apparent affinity)
-        - Federal Emergency Management Agency (FEMA) focused on dual hazards, people supported emergency prepardness
+- p110
+- locals fought against Long Island nuclear plant by refusing to participating in the emergency planning process
+- by doing so, they effectively vetoed the plant
+- p111
+- there wasn't a single expert authority making estimates about worst-case scenarios, instead there were multiple experts making conflicting estimates
+    - estimates from power company estimates conflicted with county experts
+- pp112-113
+- power company ran an evacuation exercise, but state and local governments refued to participate
+- p116
+- __realism doctrine__ - when it comes to a real emergency, state and local agencies will participate properly in the evacuation plan, if they don't take part in the simulated exercises
+    - this was assumed by the power company to justify the success of the evacuation exercises even though local agencies didn't participate in them
+## Local wisdom and civil defense
+    - p120
+    - polls showed that people didn't believe in civil defence
+    - p125
+    - rhetoric changed from nuclear defense to emergency preparedness (apparent affinity)
+    - Federal Emergency Management Agency (FEMA) focused on dual hazards, people supported emergency prepardness
 ## Power and rhetoric
 - p127
 - We overestimate the role of intent on the effects that systems have
