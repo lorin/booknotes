@@ -507,109 +507,109 @@ Book by Lee Clarke
         - rhetoric changed from nuclear defense to emergency preparedness (apparent affinity)
         - Federal Emergency Management Agency (FEMA) focused on dual hazards, people supported emergency prepardness
 ## Power and rhetoric
-        - p127
-        - We overestimate the role of intent on the effects that systems have
-        - many outcomes are not intended
-        - even the most powerful aren't good enough at reasoning about the feature that outcomes are due to their intent
-        - intention of the planners does not give us insight into how orgs use planning docs
-        - docs don't emerge fully formed, they do so incrementally, through power struggle/conflict
+- p127
+- We overestimate the role of intent on the effects that systems have
+- many outcomes are not intended
+- even the most powerful aren't good enough at reasoning about the feature that outcomes are due to their intent
+- intention of the planners does not give us insight into how orgs use planning docs
+- docs don't emerge fully formed, they do so incrementally, through power struggle/conflict
 ## Producing expertise
-        - p128
-        - nobody has experience with things like nuclear war
-        - the ways you become perceived as an expert are
-            - 1. appearing to have esoteric knowledge
-            - 2. not contradicted by other potential experts
-        - p129
-        - no real research to draw on for reasoning about disaster that have never happened (nuclear war)
-        - simulate and extrapolate based on unverifiable assumptions, then cite those findings
-        - p130
-        - professors built models of evacuation, these took on rhetorical power
-        - demonstrated expertise (we can model this!)
+- p128
+- nobody has experience with things like nuclear war
+- the ways you become perceived as an expert are
+    - 1. appearing to have esoteric knowledge
+    - 2. not contradicted by other potential experts
+- p129
+- no real research to draw on for reasoning about disaster that have never happened (nuclear war)
+- simulate and extrapolate based on unverifiable assumptions, then cite those findings
+- p130
+- professors built models of evacuation, these took on rhetorical power
+- demonstrated expertise (we can model this!)
 ## Muting other voices
-        - power company failed to establish sole voice of expertise
-            - too much visible disagreement with other experts
-        - true expertise requires
-            - experience
-            - conceptualization
-            - understanding
-        - p133
-        - once experts cement tehir status, issues around values are discussed as technical issues
-            - e.g., are the backup systems sufficient?
-        - before this happens, there is social conflict (negotiation?) over who gets to determine the framing
-        - p134
-        - rhetoric of technical expertise tends to win out over community, democratic expression of opinion
-        - expertsie is socially and politically constructed, results from power struggle
-            - what alternative ways of knowing are excluded?
+- power company failed to establish sole voice of expertise
+    - too much visible disagreement with other experts
+- true expertise requires
+    - experience
+    - conceptualization
+    - understanding
+- p133
+- once experts cement tehir status, issues around values are discussed as technical issues
+    - e.g., are the backup systems sufficient?
+- before this happens, there is social conflict (negotiation?) over who gets to determine the framing
+- p134
+- rhetoric of technical expertise tends to win out over community, democratic expression of opinion
+- expertsie is socially and politically constructed, results from power struggle
+    - what alternative ways of knowing are excluded?
 # Chapter 6: Organizations, symbols, publics
-    - p135
-    - fantasy docs aren't useful as blueprints for action, but to 
-        - convince people
-        - make them feel better about risks
-        - protect the organziation
-    - the docs are symbols of expertise
-    - organizations tend to address new problems the way they did previous ones
-    - you get fantasy docs when the new problem being addressed is too different from the old ones that the solutions are based on
-    - want to transform uncertainty into risk
-    - fantasy docs convince others that you have done so
-    - p136
-    - orgs put "civil defense" and "city evacuation" in the same category
-    - they socially construct the categories and how different things fall into them
-    - they make too many assumptions
-    - planning itself is a claim about expertise
+- p135
+- fantasy docs aren't useful as blueprints for action, but to 
+    - convince people
+    - make them feel better about risks
+    - protect the organziation
+- the docs are symbols of expertise
+- organizations tend to address new problems the way they did previous ones
+- you get fantasy docs when the new problem being addressed is too different from the old ones that the solutions are based on
+- want to transform uncertainty into risk
+- fantasy docs convince others that you have done so
+- p136
+- orgs put "civil defense" and "city evacuation" in the same category
+- they socially construct the categories and how different things fall into them
+- they make too many assumptions
+- planning itself is a claim about expertise
 ## Rhetoric and the Public
-        - p137
-        - fantasy documents are tools to convince an audience that the authors have expertise
-        - written by professionals
-        - culture dictates who is inside vs outside the profession
-        - p138
-        - document's language is shaped by intended audience
-        - p139
-        - audience for docs is typically other organizations
-            - regulators
-            - courts
-            - state and local governments
+- p137
+- fantasy documents are tools to convince an audience that the authors have expertise
+- written by professionals
+- culture dictates who is inside vs outside the profession
+- p138
+- document's language is shaped by intended audience
+- p139
+- audience for docs is typically other organizations
+    - regulators
+    - courts
+    - state and local governments
 ## Why do they do it?
-        - p140
-        - are authors of fantasy documents lying?
+- p140
+- are authors of fantasy documents lying?
 ## The question of deception
-        - p141
-        - not lying, but effect of them is misleading
-        - not creating a reality that the authors don't believe, but creating a reality that authors also believe
+- p141
+- not lying, but effect of them is misleading
+- not creating a reality that the authors don't believe, but creating a reality that authors also believe
 ## Psychological need and pathology
-        - p143
-        - psychological need for control isn't enough to explain fantasy docs
-        - p144
-        - need to understand the forces at work inside of organizations
+- p143
+- psychological need for control isn't enough to explain fantasy docs
+- p144
+- need to understand the forces at work inside of organizations
 ## Political palliative
-        - p145
-        - Edelman's theory:
-            - fantasy docs reassure the public
-        - Brunsson's theory
-            - political orgs have to satisfy multiple, conflicting interests, so they say one thing and do another
-        - p148
-        - there are limits to social construction
+- p145
+- Edelman's theory:
+    - fantasy docs reassure the public
+- Brunsson's theory
+    - political orgs have to satisfy multiple, conflicting interests, so they say one thing and do another
+- p148
+- there are limits to social construction
 ## Managerial imperative
 ### The environment
-            - p150
-            - environments constrain what organizations can do
-            - relationship to fantasy docs:
-                - 1. the environment contains the audience, and the audience shapes the document
-                - 2. the environment is composed of other organizations
-                    - rhetoric is aimed specifically at organizations
-                - 3. plans emerge from social conflict/struggle
+- p150
+- environments constrain what organizations can do
+- relationship to fantasy docs:
+    - 1. the environment contains the audience, and the audience shapes the document
+    - 2. the environment is composed of other organizations
+        - rhetoric is aimed specifically at organizations
+    - 3. plans emerge from social conflict/struggle
 ### Professions
-            - p151
-            - hot air balloon metaphor for influence of management on organization
-                - can nudge in a direction, but also subject to weather
-                - https://twitter.com/norootcause/status/1416923508001546242
-            - p152
-            - managers need to project that they are leading in situations with a lot of uncertainty
-            - they fall back to what they know how to do, what problems they know how to manage
-            - p153
-            - managers implicitly assume that all problems are manageable, that situations can be __controlled__
-            - p154
-            - all risks are controllable (they think)
-            - p155 this is part of the profesionnal culture of management
+- p151
+- hot air balloon metaphor for influence of management on organization
+    - can nudge in a direction, but also subject to weather
+    - https://twitter.com/norootcause/status/1416923508001546242
+- p152
+- managers need to project that they are leading in situations with a lot of uncertainty
+- they fall back to what they know how to do, what problems they know how to manage
+- p153
+- managers implicitly assume that all problems are manageable, that situations can be __controlled__
+- p154
+- all risks are controllable (they think)
+- p155 this is part of the profesionnal culture of management
 ## Expert knowledge
 - p158
 - general view is
