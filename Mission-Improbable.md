@@ -211,7 +211,7 @@ Book by Lee Clarke
             - most of the elements of the plan will actually work as expected
             - we can know in advance what the different bad scenarios are
             - we can prepare effectively for them
-        - ## Nuclear war fantasies
+## Nuclear war fantasies
             - p31
             - post office post-nuclear war contingency plan
             - p34
@@ -227,7 +227,7 @@ Book by Lee Clarke
                 - e.g. argue over jurisdiction
             - p40
             - civil defense plans assume existence of social order, but after a nuclear attack, there would be chaos
-        - ## Symbols and uncertainty
+## Symbols and uncertainty
             - p41
             - planning is __interactive__, __social__
             - planners have analyzed the problem, and they can handle it
@@ -242,16 +242,16 @@ Book by Lee Clarke
             - insiders become overconfident
             - outsiders feel safe
         - 
-- # Chapter 3: Planning the C-Shibboleths
+# Chapter 3: Planning the C-Shibboleths
     - p43
     - fantasy means: we cannot know the likelihood that a plan will succeed or fail
     - p44
-    - ## Non-fantasy planning
+## Non-fantasy planning
         - p47
         - All plans have a symbolic role
             - e.g. syllabus is an instrumental plan that also serves to establish the authority of the professor
-    - ## The theory of good planning
-    - ## Texas City explosions
+## The theory of good planning
+## Texas City explosions
         - p48
         - Two ships blew up in two days (April 16 and 17, 1947)
         - first ship (The __Grandcamp__)  held fertilizer
@@ -259,23 +259,23 @@ Book by Lee Clarke
         - p49
         - no plan existed for a coordinated response
         - a contingency plan would’ve likely helped
-    - ## Chernobyl catastrophe
+## Chernobyl catastrophe
         - evacuation only started 36 hours after accident
         - general population was not informed about the accident until the evacuation
         - no evacuation plan in place before accident
         - **__theory of good planning__:** planning improves effectiveness of response
-    - ## Miamisburg train wreck
+## Miamisburg train wreck
         - p51
         - train wreck carrying chemicals, big fire
         - initially, jurisdiction fight between trainmaster and firechief
         - local officials took control and executed existing plan
         - p52
         - response was effectively managed, good coordination
-    - ## World Trade Center Bombing & 1993 Snow storm
+## World Trade Center Bombing & 1993 Snow storm
         - Feb. 1993: WTC Bombing
         - Mar. 1993: NJ snow storm
         - effectively executed emergency management plans
-    - ## Livingston train wreck
+## Livingston train wreck
         - p53
         - contingency plan helped make evacuation effective
         - p54
@@ -283,7 +283,7 @@ Book by Lee Clarke
         - p55
         - no jurisdictional rguments
         - effective flow of information
-    - ## The C-Shibboleths
+## The C-Shibboleths
         - p56
         - the things that are always blamed when disaster response goes poorly
         - The three C-Shibboleths are:
@@ -291,16 +291,16 @@ Book by Lee Clarke
             - communication among people who need information
             - co-operation among individuals and organizations
         - these are always discussed in accident accounts
-    - ## Planning sometimes fails us
+## Planning sometimes fails us
         - p57
         - planning is not always related to outcomes
             - sometimes there are plans and poor outcomes
             - sometimes there are no plans and good outcomes
-    - ## The case of the worst case
+## The case of the worst case
         - p57
         - sometimes responders are overwhelmed (saturated!) by events
             - saturation
-        - ### Washington D.C.’s worst case
+### Washington D.C.’s worst case
             - big snowstorm
             - OPM closed government offices 3 hours early because of the snow
             - a plane leaving DCA had ice and snow on the wings, it crashed into a bridge that connects DC and VA
@@ -315,12 +315,12 @@ Book by Lee Clarke
                 - emptying out DC
                 - subway crash
             - but they didn’t plan for all three happening at the same time!
-    - ## Accidental success
+## Accidental success
         - p61
-        - ### Ohio River Flood
+### Ohio River Flood
             - 1937 - Ohio River flooded
             - 11 cities on the river were evacuated effectively, even though there weren’t evac plans in place
-        - ### Duluth train wreck
+### Duluth train wreck
             - p62
             - train carrying toxic chemicals derailed
             - there was a disaster plan in place, but it was not activated
@@ -329,7 +329,7 @@ Book by Lee Clarke
             - p63
             - hypothesis: people had prescience experience with evacuations due to history of accidents in the area
             - the people __remembered__ how to evac
-        - ### Three Mile Island
+### Three Mile Island
             - there was not a pre-existing plan for evac’ing nearby population
             - plan had been written, but not approved
             - p64
@@ -337,7 +337,7 @@ Book by Lee Clarke
             - people didn’t trust federal, state, utility authorities
             - people evac’d on their own, didn’t panic
             - no official co-ordinated response
-    - ## Planning, experience, and symbolism
+## Planning, experience, and symbolism
         - p66
         - __operational rationality:__ when operators can turn uncertainty into risk so that they can control the problem.]
             - Examples:
@@ -352,14 +352,14 @@ Book by Lee Clarke
             -  why systems break down
             - role of expert knowledge
         - 
-- # Chapter 4: Apparent affinities: normalizing danger through simile
+# Chapter 4: Apparent affinities: normalizing danger through simile
     - p70
     - problem with plans for scenarios like oil spills and nuclear power plant area evacuations is that they claim future events are knowable/controlable in circumstances where we don't have reason to believe they are knowable/controlable
     - they are more __ideology__ than __knowledge__
     - experts aren't really allowed to say
         - there's no way of knowing (e.g., post-nuclear-war scenario)
         - it can't be done (e.g., large oil spill cleanup)
-    - ## Apparent affinities
+## Apparent affinities
         - p71
         - __Apparent affinities__ between two categories of entities is a claim that the two categories are essentially the same
             - knowing about one of them means we know about the other one
@@ -373,7 +373,7 @@ Book by Lee Clarke
         - Shoreham (Long Island Power): apparent affinity between evacuation and commuting
             - "Long Island evacuates five times a week" experts
         - large oil spills: apparent affinity to small spills
-    - ## Oil spills and ecological fallacy
+## Oil spills and ecological fallacy
         - ex: Exxon Valdez
         - p75
         - there were five spill contingency plans
@@ -385,7 +385,7 @@ Book by Lee Clarke
         - assumes close to best-case weather conditions
         - p82
         - company basically updated smaller spill plan for larger spill
-    - ## Civilian Nuclear Evacuation & the Suburban Condition
+## Civilian Nuclear Evacuation & the Suburban Condition
         - Shoreham nuclear power station in Long Island was cancelled, after construction had completed on the plant, because power company failed to convince the public that Long Island could be effectively evacuated in an ermergency
         - p83
         - opponents won by shifting the narrative from discussion of __probabilities__ of failure to __possibilities__ of bad outcomes
@@ -393,7 +393,7 @@ Book by Lee Clarke
         - supporters argued: meltdown is like an ice storm
             - Long Island knows how to handle an ice storm
         - opponents argued: evacuation is inherently impossible
-    - ## Meltdowns are ordinary
+## Meltdowns are ordinary
         - p84
         - supporters claim: people would follow the evacuation plan
         - opponents claim:
@@ -420,7 +420,7 @@ Book by Lee Clarke
             - nonspecial
             - mundane
         - opponents: people interpret nuclear accidents differently than natural disasters
-    - ## Civil defense and dual-hazards planning
+## Civil defense and dual-hazards planning
         - p90
         - In the 60s, U.S. gov't claimed they could save 80% of people in nuclear war
         - __declaratory policy:__ what leaders say in public
@@ -443,7 +443,7 @@ Book by Lee Clarke
             - full spectrum preparedness
         - the new Defense Civil Preparedness Agency started in the 70s had an explicit dual-planning mandate for both civil defense and natural disasters
         - p97
-    - ## Risk similes and normalization of danger
+## Risk similes and normalization of danger
         - p98
         - apparent affinities enable prediction, transmute uncertainty into risk
         - p99
@@ -451,7 +451,7 @@ Book by Lee Clarke
         - first, have to define “The Problem” 
         - experts must establish experience so that people will have confidence in them
     - 
-- # Chapter 5: Authority and audience in accepting risk
+# Chapter 5: Authority and audience in accepting risk
     - p101
     - __political constructionist view__: the role of power in the process that transforms uncertainty to risk
     - __acceptability of risk__ is always a moral judgment
@@ -461,7 +461,7 @@ Book by Lee Clarke
     - p102
     - must establish authority via expertise in order to successfully justify their standard
     - also need to convince others
-    - ## Experts, organizations, and social conflict
+## Experts, organizations, and social conflict
         - experts bridge the gap between an organization and its constituents that live outside of the organization
         - experts take political judgments and couch them in technocratic, “value-free” (neutral) terms
             - they do value-laundering
@@ -473,22 +473,22 @@ Book by Lee Clarke
             - from sociology: symbols, including fantasy documents, are developed through negotiation (social construction)
             - rhetoric: the envisioned audience influences the shape and content of the fantasy document
                 - to understand fantasy docs, we must understand the audience
-    - ## Power in Alaska
+## Power in Alaska
         - There are two ways that political power influenced spill response planning docs in Alaska
             - 1. Role of oil in political economy
             - 2. Negotiations over jurisdiction and profits
-    - ## Institutional context of fantasy
+## Institutional context of fantasy
         - p105-106
         - story of how Alaska ended up with a pipeline->tanker transport system instead of a pipeline that passed through Canada (role of politics)
         - most of the oil company’s spill plan related to pipeline spills
             - but the pipeline part of the transport is safer than the tanker part
             - land spills are easier to clean up than open water spills
-    - ## Microstruggles
+## Microstruggles
         - p107
         - **disqualification heuristic **- tendency for experts to discount evidence that conflicts with their preexisting beliefs about the safety of a sociotechnical system
         - apparent affinity between small spill cleanup and large spill cleanup traces back to historical conflict between the oil company and the Alaska Department of Environmental Conservation (ADEC)
         - enforcing more realistic planning for large oil spills was de jure within ADEC's scope but de facto was not
-    - ## Federalism on Long Island
+## Federalism on Long Island
         - p110
         - locals fought against Long Island nuclear plant by refusing to participating in the emergency planning process
         - by doing so, they effectively vetoed the plant
@@ -500,20 +500,20 @@ Book by Lee Clarke
         - p116
         - __realism doctrine__ - when it comes to a real emergency, state and local agencies will participate properly in the evacuation plan, if they don't take part in the simulated exercises
             - this was assumed by the power company to justify the success of the evacuation exercises even though local agencies didn't participate in them
-    - ## Local wisdom and civil defenece
+## Local wisdom and civil defenece
         - p120
         - polls showed that people didn't believe in civil defence
         - p125
         - rhetoric changed from nuclear defense to emergency preparedness (apparent affinity)
         - Federal Emergency Management Agency (FEMA) focused on dual hazards, people supported emergency prepardness
-    - ## Power and rhetoric
+## Power and rhetoric
         - p127
         - We overestimate the role of intent on the effects that systems have
         - many outcomes are not intended
         - even the most powerful aren't good enough at reasoning about the feature that outcomes are due to their intent
         - intention of the planners does not give us insight into how orgs use planning docs
         - docs don't emerge fully formed, they do so incrementally, through power struggle/conflict
-    - ## Producing expertise
+## Producing expertise
         - p128
         - nobody has experience with things like nuclear war
         - the ways you become perceived as an expert are
@@ -525,7 +525,7 @@ Book by Lee Clarke
         - p130
         - professors built models of evacuation, these took on rhetorical power
         - demonstrated expertise (we can model this!)
-    - ## Muting other voices
+## Muting other voices
         - power company failed to establish sole voice of expertise
             - too much visible disagreement with other experts
         - true expertise requires
@@ -540,7 +540,7 @@ Book by Lee Clarke
         - rhetoric of technical expertise tends to win out over community, democratic expression of opinion
         - expertsie is socially and politically constructed, results from power struggle
             - what alternative ways of knowing are excluded?
-- # Chapter 6: Organizations, symbols, publics
+# Chapter 6: Organizations, symbols, publics
     - p135
     - fantasy docs aren't useful as blueprints for action, but to 
         - convince people
@@ -556,7 +556,7 @@ Book by Lee Clarke
     - they socially construct the categories and how different things fall into them
     - they make too many assumptions
     - planning itself is a claim about expertise
-    - ## Rhetoric and the Public
+## Rhetoric and the Public
         - p137
         - fantasy documents are tools to convince an audience that the authors have expertise
         - written by professionals
@@ -568,19 +568,19 @@ Book by Lee Clarke
             - regulators
             - courts
             - state and local governments
-    - ## Why do they do it?
+## Why do they do it?
         - p140
         - are authors of fantasy documents lying?
-    - ## The question of deception
+## The question of deception
         - p141
         - not lying, but effect of them is misleading
         - not creating a reality that the authors don't believe, but creating a reality that authors also believe
-    - ## Psychological need and pathology
+## Psychological need and pathology
         - p143
         - psychological need for control isn't enough to explain fantasy docs
         - p144
         - need to understand the forces at work inside of organizations
-    - ## Political palliative
+## Political palliative
         - p145
         - Edelman's theory:
             - fantasy docs reassure the public
@@ -588,8 +588,8 @@ Book by Lee Clarke
             - political orgs have to satisfy multiple, conflicting interests, so they say one thing and do another
         - p148
         - there are limits to social construction
-    - ## Managerial imperative
-        - ### The environment
+## Managerial imperative
+### The environment
             - p150
             - environments constrain what organizations can do
             - relationship to fantasy docs:
@@ -597,7 +597,7 @@ Book by Lee Clarke
                 - 2. the environment is composed of other organizations
                     - rhetoric is aimed specifically at organizations
                 - 3. plans emerge from social conflict/struggle
-        - ### Professions
+### Professions
             - p151
             - hot air balloon metaphor for influence of management on organization
                 - can nudge in a direction, but also subject to weather
@@ -610,17 +610,17 @@ Book by Lee Clarke
             - p154
             - all risks are controllable (they think)
             - p155 this is part of the profesionnal culture of management
-    - ## Expert knowledge
+## Expert knowledge
         - p158
         - general view is
             - __assessment__ of risk is technical, objective, value-free facts
             - __acceptability__ of risk is value-laden, political, choice
         - author claims assessment is also political, value-laden
-        - ### Experts and prediction
+### Experts and prediction
             - all experts make predictions
             - p162
             - experts predict well when their models are based on experience and history
-        - ### When experts err
+### When experts err
             - experts make mistakes when
                 - they're missing important knowledge
                 - they only apply experience to cases where it isn't applicable
@@ -631,14 +631,14 @@ Book by Lee Clarke
                 - production pressure
                 - power struggles
                 - political interests
-    - ## Ending reflections
+## Ending reflections
         - p166
         - fantasy docs appear in
             - impossible goals (e.g., zero accidents)
             - novel situations (e.g., post-nuclear war)
             - scale-up of known situations (e.g., big oil spills)
         - these scenarios are all cases where we are missing the relevant history/experience to draw upon
-        - ### Normalizing danger
+### Normalizing danger
             - p167
             - Fantasy documents set the terms for discussing dangers
             - p168
