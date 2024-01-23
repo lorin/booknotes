@@ -90,7 +90,7 @@ Book by Lee Clarke
 - becomes marketing: trust us, we can control these events
 
 ## The relevance of organizations
-    - The __organization__ is the right unit to think of then considering disaster response
+- The __organization__ is the right unit to think of then considering disaster response
 - p5
 - orgs create plans
 - orgs are the ones that __socially construct__ risk, danger, safety
@@ -376,107 +376,113 @@ Book by Lee Clarke
     - it can't be done (e.g., large oil spill cleanup)
 
 ## Apparent affinities
-        - p71
-        - __Apparent affinities__ between two categories of entities is a claim that the two categories are essentially the same
-            - knowing about one of them means we know about the other one
-        - p73
-        - rationality is both
-            - instrumental: we use it to solve problems
-            - symbolic: we use it to convince others that we can solve problems
-        - p74
-        - post-nuclear scenarios: apparent affinity is claimed through the __all-hazards__ concepts
-            -  preparing for one type of hazard is similar to preparing for another type
-        - Shoreham (Long Island Power): apparent affinity between evacuation and commuting
-            - "Long Island evacuates five times a week" experts
-        - large oil spills: apparent affinity to small spills
+- p71
+- __Apparent affinities__ between two categories of entities is a claim that the two categories are essentially the same
+    - knowing about one of them means we know about the other one
+- p73
+- rationality is both
+    - instrumental: we use it to solve problems
+    - symbolic: we use it to convince others that we can solve problems
+- p74
+- post-nuclear scenarios: apparent affinity is claimed through the __all-hazards__ concepts
+    -  preparing for one type of hazard is similar to preparing for another type
+- Shoreham (Long Island Power): apparent affinity between evacuation and commuting
+    - "Long Island evacuates five times a week" experts
+- large oil spills: apparent affinity to small spills
+
 ## Oil spills and ecological fallacy
-        - ex: Exxon Valdez
-        - p75
-        - there were five spill contingency plans
-        - this book focuses on one plan: written by the pipeline company
-        - plan itself was not very detailed
-        - p78
-        - assumed good communications and coordination between agencies
-        - estimated 50% oil recovery
-        - assumes close to best-case weather conditions
-        - p82
-        - company basically updated smaller spill plan for larger spill
+- ex: Exxon Valdez
+- p75
+- there were five spill contingency plans
+- this book focuses on one plan: written by the pipeline company
+- plan itself was not very detailed
+- p78
+- assumed good communications and coordination between agencies
+- estimated 50% oil recovery
+- assumes close to best-case weather conditions
+- p82
+- company basically updated smaller spill plan for larger spill
+
 ## Civilian Nuclear Evacuation & the Suburban Condition
-        - Shoreham nuclear power station in Long Island was cancelled, after construction had completed on the plant, because power company failed to convince the public that Long Island could be effectively evacuated in an ermergency
-        - p83
-        - opponents won by shifting the narrative from discussion of __probabilities__ of failure to __possibilities__ of bad outcomes
-            - harm to children & homes
-        - supporters argued: meltdown is like an ice storm
-            - Long Island knows how to handle an ice storm
-        - opponents argued: evacuation is inherently impossible
+- Shoreham nuclear power station in Long Island was cancelled, after construction had completed on the plant, because power company failed to convince the public that Long Island could be effectively evacuated in an ermergency
+- p83
+- opponents won by shifting the narrative from discussion of __probabilities__ of failure to __possibilities__ of bad outcomes
+    - harm to children & homes
+- supporters argued: meltdown is like an ice storm
+    - Long Island knows how to handle an ice storm
+- opponents argued: evacuation is inherently impossible
+
 ## Meltdowns are ordinary
-        - p84
-        - supporters claim: people would follow the evacuation plan
-        - opponents claim:
-            - people would __overinterpret__ what officials said
-            - evacuation workers wouldn't show up to perform their duties
-            - evacuation wouldn't be effectively controlled
-            - ther emight be cahos
-        - p85
-        - surveys showed that people would prioritize keeping their families safe over following their roles in an evacuation
-            - e.g., bus drivers
-        - power company experts said that 
-            - surveys were not good predictors of real behavior
-            - they knew from scientific research how people tend to respond during similar events
-        - experts claimed that it didn't matter what "the public" would do, because plans are carried out by __organizations__, not the public
-        - experts also noted that emergency workers were historically effective
-            - in previous emergencies, they didn't abandon their posts to care for their own families 
-        - p86
-        - the plan depended on school bus drivers evacuating kids from schools in the affected area to a community center in a neighboring county
-            - assumed that these drivers would not focus on their own families, and would drive into the "hot zone"
-            - school bus drivers are not traditional emergency workers
-        - p87
-        - opponents focused on the __role conflict__ the bus drivers
-        - supporters tried to cast meltdown (which we have no experience with) as akin to natural disasters and commuting (which we do have experience with)
-            - nonspecial
-            - mundane
-        - opponents: people interpret nuclear accidents differently than natural disasters
+- p84
+- supporters claim: people would follow the evacuation plan
+- opponents claim:
+    - people would __overinterpret__ what officials said
+    - evacuation workers wouldn't show up to perform their duties
+    - evacuation wouldn't be effectively controlled
+    - ther emight be cahos
+- p85
+- surveys showed that people would prioritize keeping their families safe over following their roles in an evacuation
+    - e.g., bus drivers
+- power company experts said that 
+    - surveys were not good predictors of real behavior
+    - they knew from scientific research how people tend to respond during similar events
+- experts claimed that it didn't matter what "the public" would do, because plans are carried out by __organizations__, not the public
+- experts also noted that emergency workers were historically effective
+    - in previous emergencies, they didn't abandon their posts to care for their own families 
+- p86
+- the plan depended on school bus drivers evacuating kids from schools in the affected area to a community center in a neighboring county
+    - assumed that these drivers would not focus on their own families, and would drive into the "hot zone"
+    - school bus drivers are not traditional emergency workers
+- p87
+- opponents focused on the __role conflict__ the bus drivers
+- supporters tried to cast meltdown (which we have no experience with) as akin to natural disasters and commuting (which we do have experience with)
+    - nonspecial
+    - mundane
+- opponents: people interpret nuclear accidents differently than natural disasters
+
 ## Civil defense and dual-hazards planning
-        - p90
-        - In the 60s, U.S. gov't claimed they could save 80% of people in nuclear war
-        - __declaratory policy:__ what leaders say in public
-            - as opposed to what they actually do
-        - p91
-        - U.S. government never invested in fallout shelters for the population, indicates they weren't planning for fallout shelters as a defense mechanism
-        - p93
-        - U.S. strategy switched to evacuation, but:
-            - warning time for a nuclear strike might be measured in minutes
-            - enemy could retarget inbound missiles to hit sites where populace was evacuating to
-            - would there even be somewhere to return to after the evacuation?
-        - these concerns were never addressed
-        - experts would have had to admit they had no idea if the proposed civil defense plans would work
-        - government crated an __apparent affinity__ to natural disaster planning
-        - p94
-        - they actually combined nuclear civil defense and natural disaster planning into one thing.
-        - terms for this
-            - dual-planning
-            - all-hazards planning
-            - full spectrum preparedness
-        - the new Defense Civil Preparedness Agency started in the 70s had an explicit dual-planning mandate for both civil defense and natural disasters
-        - p97
+- p90
+- In the 60s, U.S. gov't claimed they could save 80% of people in nuclear war
+- __declaratory policy:__ what leaders say in public
+    - as opposed to what they actually do
+- p91
+- U.S. government never invested in fallout shelters for the population, indicates they weren't planning for fallout shelters as a defense mechanism
+- p93
+- U.S. strategy switched to evacuation, but:
+    - warning time for a nuclear strike might be measured in minutes
+    - enemy could retarget inbound missiles to hit sites where populace was evacuating to
+    - would there even be somewhere to return to after the evacuation?
+- these concerns were never addressed
+- experts would have had to admit they had no idea if the proposed civil defense plans would work
+- government crated an __apparent affinity__ to natural disaster planning
+- p94
+- they actually combined nuclear civil defense and natural disaster planning into one thing.
+- terms for this
+    - dual-planning
+    - all-hazards planning
+    - full spectrum preparedness
+- the new Defense Civil Preparedness Agency started in the 70s had an explicit dual-planning mandate for both civil defense and natural disasters
+- p97
+
 ## Risk similes and normalization of danger
-        - p98
-        - apparent affinities enable prediction, transmute uncertainty into risk
-        - p99
-        - when orgs don’t have real control, they create symbolic control through planning
-        - first, have to define “The Problem” 
-        - experts must establish experience so that people will have confidence in them
-    - 
+- p98
+- apparent affinities enable prediction, transmute uncertainty into risk
+- p99
+- when orgs don’t have real control, they create symbolic control through planning
+- first, have to define “The Problem” 
+- experts must establish experience so that people will have confidence in them
+
 # Chapter 5: Authority and audience in accepting risk
-    - p101
-    - __political constructionist view__: the role of power in the process that transforms uncertainty to risk
-    - __acceptability of risk__ is always a moral judgment
-        - not objective!
-        - contrast with object world
-        - always judged with respect to an arbitrary standard
-    - p102
-    - must establish authority via expertise in order to successfully justify their standard
-    - also need to convince others
+- p101
+- __political constructionist view__: the role of power in the process that transforms uncertainty to risk
+- __acceptability of risk__ is always a moral judgment
+    - not objective!
+    - contrast with object world
+    - always judged with respect to an arbitrary standard
+- p102
+- must establish authority via expertise in order to successfully justify their standard
+- also need to convince others
+
 ## Experts, organizations, and social conflict
 - experts bridge the gap between an organization and its constituents that live outside of the organization
 - experts take political judgments and couch them in technocratic, “value-free” (neutral) terms
