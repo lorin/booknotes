@@ -182,182 +182,199 @@ Book by Lee Clarke
     - political risk
 
 ## Radiation fantasies
-        - p24
-        - Example: Shoreham nuclear power plant on Long Island
-        - plant was never completed
-        - perceived danger was not a meltdown itself but risk of not being able to evacuate Long Island
-        - p25
-        - power company argued that response would be similar to non-nuclear disasters
-            - people wouldn’t panic
-            - emergency responders would do their job
-        - critics argued that evacuation workers would focus on protecting their families first
-        - p27
-        - describes what went wrong during evacuation exercise
-            - bus evacuations didn’t work as expected
-            - p28
-            - emergency broadcast system messages were confusing, contradictory
-            - p29
-            - large latency between information request and response
-            - traffic guides very late
-        - p30
-        - disasters that were never planned for
-            - Three Mile Island
-            - Chernobyl
-            - Bhopal
-            - Challenger
-            - Exxon Valdez
-        - the fantasy is that
-            - most of the elements of the plan will actually work as expected
-            - we can know in advance what the different bad scenarios are
-            - we can prepare effectively for them
+- p24
+- Example: Shoreham nuclear power plant on Long Island
+- plant was never completed
+- perceived danger was not a meltdown itself but risk of not being able to evacuate Long Island
+- p25
+- power company argued that response would be similar to non-nuclear disasters
+    - people wouldn’t panic
+    - emergency responders would do their job
+- critics argued that evacuation workers would focus on protecting their families first
+- p27
+- describes what went wrong during evacuation exercise
+    - bus evacuations didn’t work as expected
+    - p28
+    - emergency broadcast system messages were confusing, contradictory
+    - p29
+    - large latency between information request and response
+    - traffic guides very late
+- p30
+- disasters that were never planned for
+    - Three Mile Island
+    - Chernobyl
+    - Bhopal
+    - Challenger
+    - Exxon Valdez
+- the fantasy is that
+    - most of the elements of the plan will actually work as expected
+    - we can know in advance what the different bad scenarios are
+    - we can prepare effectively for them
+
 ## Nuclear war fantasies
-            - p31
-            - post office post-nuclear war contingency plan
-            - p34
-            - FEMA evacuation plan
-            - p35
-            - claim: 80% of the population could be saved in the wake of a nuclear attack
-                - original source: 1978 Presidential Directive 41
-                - no evidence provided to support the claim
-            - pp36-37
-            - 80% number takes on life of its own
-            - pp38-39
-            - people generally don’t panic in natural disasters, but they also have trouble coordinating
-                - e.g. argue over jurisdiction
-            - p40
-            - civil defense plans assume existence of social order, but after a nuclear attack, there would be chaos
+- p31
+- post office post-nuclear war contingency plan
+- p34
+- FEMA evacuation plan
+- p35
+- claim: 80% of the population could be saved in the wake of a nuclear attack
+    - original source: 1978 Presidential Directive 41
+    - no evidence provided to support the claim
+- pp36-37
+- 80% number takes on life of its own
+- pp38-39
+- people generally don’t panic in natural disasters, but they also have trouble coordinating
+    - e.g. argue over jurisdiction
+- p40
+- civil defense plans assume existence of social order, but after a nuclear attack, there would be chaos
+
 ## Symbols and uncertainty
-            - p41
-            - planning is __interactive__, __social__
-            - planners have analyzed the problem, and they can handle it
-            - audiences:
-                - oil spill - regulatory agencies
-                - civil defense post nuclear war - state and local government agencies
-                - civilian nuclear power - the courts
-            - fantasy docs are most likely when they written in support of
-                - very large scale systems
-                - newly scaled up systems
-            - p42
-            - insiders become overconfident
-            - outsiders feel safe
-        - 
+- p41
+- planning is __interactive__, __social__
+- planners have analyzed the problem, and they can handle it
+- audiences:
+    - oil spill - regulatory agencies
+    - civil defense post nuclear war - state and local government agencies
+    - civilian nuclear power - the courts
+- fantasy docs are most likely when they written in support of
+    - very large scale systems
+    - newly scaled up systems
+- p42
+- insiders become overconfident
+- outsiders feel safe
+
 # Chapter 3: Planning the C-Shibboleths
-    - p43
-    - fantasy means: we cannot know the likelihood that a plan will succeed or fail
-    - p44
+- p43
+- fantasy means: we cannot know the likelihood that a plan will succeed or fail
+
 ## Non-fantasy planning
-        - p47
-        - All plans have a symbolic role
-            - e.g. syllabus is an instrumental plan that also serves to establish the authority of the professor
+- p47
+- All plans have a symbolic role
+    - e.g. syllabus is an instrumental plan that also serves to establish the authority of the professor
+
 ## The theory of good planning
+
 ## Texas City explosions
-        - p48
-        - Two ships blew up in two days (April 16 and 17, 1947)
-        - first ship (The __Grandcamp__)  held fertilizer
-        - second ship (The __High Flyer__) was close by, caught fire 16 hours later
-        - p49
-        - no plan existed for a coordinated response
-        - a contingency plan would’ve likely helped
+- p48
+- Two ships blew up in two days (April 16 and 17, 1947)
+- first ship (The __Grandcamp__)  held fertilizer
+- second ship (The __High Flyer__) was close by, caught fire 16 hours later
+- p49
+- no plan existed for a coordinated response
+- a contingency plan would’ve likely helped
+
 ## Chernobyl catastrophe
-        - evacuation only started 36 hours after accident
-        - general population was not informed about the accident until the evacuation
-        - no evacuation plan in place before accident
-        - **__theory of good planning__:** planning improves effectiveness of response
+- evacuation only started 36 hours after accident
+- general population was not informed about the accident until the evacuation
+- no evacuation plan in place before accident
+- **__theory of good planning__:** planning improves effectiveness of response
+
 ## Miamisburg train wreck
-        - p51
-        - train wreck carrying chemicals, big fire
-        - initially, jurisdiction fight between trainmaster and firechief
-        - local officials took control and executed existing plan
-        - p52
-        - response was effectively managed, good coordination
+- p51
+- train wreck carrying chemicals, big fire
+- initially, jurisdiction fight between trainmaster and firechief
+- local officials took control and executed existing plan
+- p52
+- response was effectively managed, good coordination
+
 ## World Trade Center Bombing & 1993 Snow storm
-        - Feb. 1993: WTC Bombing
-        - Mar. 1993: NJ snow storm
-        - effectively executed emergency management plans
+- Feb. 1993: WTC Bombing
+- Mar. 1993: NJ snow storm
+- effectively executed emergency management plans
+
 ## Livingston train wreck
-        - p53
-        - contingency plan helped make evacuation effective
-        - p54
-        - good coordination among different orgs
-        - p55
-        - no jurisdictional rguments
-        - effective flow of information
+- p53
+- contingency plan helped make evacuation effective
+- p54
+- good coordination among different orgs
+- p55
+- no jurisdictional rguments
+- effective flow of information
+
 ## The C-Shibboleths
-        - p56
-        - the things that are always blamed when disaster response goes poorly
-        - The three C-Shibboleths are:
-            - co-ordination among organizations
-            - communication among people who need information
-            - co-operation among individuals and organizations
-        - these are always discussed in accident accounts
+- p56
+- the things that are always blamed when disaster response goes poorly
+- The three C-Shibboleths are:
+    - co-ordination among organizations
+    - communication among people who need information
+    - co-operation among individuals and organizations
+- these are always discussed in accident accounts
+
 ## Planning sometimes fails us
-        - p57
-        - planning is not always related to outcomes
-            - sometimes there are plans and poor outcomes
-            - sometimes there are no plans and good outcomes
+- p57
+- planning is not always related to outcomes
+    - sometimes there are plans and poor outcomes
+    - sometimes there are no plans and good outcomes
+
 ## The case of the worst case
-        - p57
-        - sometimes responders are overwhelmed (saturated!) by events
-            - saturation
+- p57
+- sometimes responders are overwhelmed (saturated!) by events
+
 ### Washington D.C.’s worst case
-            - big snowstorm
-            - OPM closed government offices 3 hours early because of the snow
-            - a plane leaving DCA had ice and snow on the wings, it crashed into a bridge that connects DC and VA
-            - traffic was high due to the early closing
-            - rescue workers had trouble with thick ice in the river
-            - 25 minutes after the crash, there was a Metro crash @ Smithsonian stop
-            - some rescue workers were rerouted to Metro
-            - p60
-            - who could have foreseen two concurrent accidents under heavy traffic and horrible weather conditions?
-            - they had plans in place for
-                - airplane crash
-                - emptying out DC
-                - subway crash
-            - but they didn’t plan for all three happening at the same time!
+- big snowstorm
+- OPM closed government offices 3 hours early because of the snow
+- a plane leaving DCA had ice and snow on the wings, it crashed into a bridge that connects DC and VA
+- traffic was high due to the early closing
+- rescue workers had trouble with thick ice in the river
+- 25 minutes after the crash, there was a Metro crash @ Smithsonian stop
+- some rescue workers were rerouted to Metro
+- p60
+- who could have foreseen two concurrent accidents under heavy traffic and horrible weather conditions?
+- they had plans in place for
+    - airplane crash
+    - emptying out DC
+    - subway crash
+- but they didn’t plan for all three happening at the same time!
+
 ## Accidental success
-        - p61
+- p61
+
 ### Ohio River Flood
-            - 1937 - Ohio River flooded
-            - 11 cities on the river were evacuated effectively, even though there weren’t evac plans in place
+- 1937 - Ohio River flooded
+- 11 cities on the river were evacuated effectively, even though there weren’t evac plans in place
+
 ### Duluth train wreck
-            - p62
-            - train carrying toxic chemicals derailed
-            - there was a disaster plan in place, but it was not activated
-            - local officials worked effectively together
-            - people found out about the danger and evacuated on their own
-            - p63
-            - hypothesis: people had prescience experience with evacuations due to history of accidents in the area
-            - the people __remembered__ how to evac
+- p62
+- train carrying toxic chemicals derailed
+- there was a disaster plan in place, but it was not activated
+- local officials worked effectively together
+- people found out about the danger and evacuated on their own
+- p63
+- hypothesis: people had prescience experience with evacuations due to history of accidents in the area
+- the people __remembered__ how to evac
+
 ### Three Mile Island
-            - there was not a pre-existing plan for evac’ing nearby population
-            - plan had been written, but not approved
-            - p64
-            - Emergency orgs (NRC, FEMA) didn’t want to tell people what was happening
-            - people didn’t trust federal, state, utility authorities
-            - people evac’d on their own, didn’t panic
-            - no official co-ordinated response
+- there was not a pre-existing plan for evac’ing nearby population
+- plan had been written, but not approved
+- p64
+- Emergency orgs (NRC, FEMA) didn’t want to tell people what was happening
+- people didn’t trust federal, state, utility authorities
+- people evac’d on their own, didn’t panic
+- no official co-ordinated response
+
 ## Planning, experience, and symbolism
-        - p66
-        - __operational rationality:__ when operators can turn uncertainty into risk so that they can control the problem.]
-            - Examples:
-                - plans are designed to dump fuel in flight
-                - cargo ship splits up the hold into cells such that, if the ship hits the rocks, it does not spill all of its cargo
-        - p67
-        - operational rationality is based on relevant experience
-        - p68
-        - we want to believe planning leads to better outcomes because we believe in **Western rationalism:** expert knowledge can be brought to bear to control situations
-        - we don’t know when planning works and when it doesn’t
-        - if planning is not directly related to response effectiveness, harder to assess
-            -  why systems break down
-            - role of expert knowledge
-        - 
+- p66
+- __operational rationality:__ when operators can turn uncertainty into risk so that they can control the problem.]
+    - Examples:
+        - plans are designed to dump fuel in flight
+        - cargo ship splits up the hold into cells such that, if the ship hits the rocks, it does not spill all of its cargo
+- p67
+- operational rationality is based on relevant experience
+- p68
+- we want to believe planning leads to better outcomes because we believe in **Western rationalism:** expert knowledge can be brought to bear to control situations
+- we don’t know when planning works and when it doesn’t
+- if planning is not directly related to response effectiveness, harder to assess
+    -  why systems break down
+    - role of expert knowledge
+
 # Chapter 4: Apparent affinities: normalizing danger through simile
-    - p70
-    - problem with plans for scenarios like oil spills and nuclear power plant area evacuations is that they claim future events are knowable/controlable in circumstances where we don't have reason to believe they are knowable/controlable
-    - they are more __ideology__ than __knowledge__
-    - experts aren't really allowed to say
-        - there's no way of knowing (e.g., post-nuclear-war scenario)
-        - it can't be done (e.g., large oil spill cleanup)
+- p70
+- problem with plans for scenarios like oil spills and nuclear power plant area evacuations is that they claim future events are knowable/controlable in circumstances where we don't have reason to believe they are knowable/controlable
+- they are more __ideology__ than __knowledge__
+- experts aren't really allowed to say
+    - there's no way of knowing (e.g., post-nuclear-war scenario)
+    - it can't be done (e.g., large oil spill cleanup)
+
 ## Apparent affinities
         - p71
         - __Apparent affinities__ between two categories of entities is a claim that the two categories are essentially the same
