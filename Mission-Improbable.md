@@ -128,59 +128,58 @@ Book by Lee Clarke
 - __time __and __chance __into __classification__ and __command__
 
 ## Symbolic planning
-        - p13
-        - some orgs use planning as __signalling__
-            - they collect info but they don’t really act on it
-        - making a plan acts as a claim of expertise
-        - because claims fo expertise exclude non-experts from the process, planning is inherently political
-        - fantasy documents try to turn the following uncertainties into risk: 
-            - how future events will unfold 
-            - how future agents will react to to those events
-        - p14
-        - __apparent affinities__ - the idea that a potential future catastrophe is similar enough to something that has occurred in the past that we can plan effectively to deal with it
-        - Examples of fantasy documents, plans for…
-            - recovery after general nuclear war
-            - evacuation after (or during) a total meltdown of the Shoreham nuclear power station on Long Island
-            - containing and cleaning up massive oil spills
-            - 
+- p13
+- some orgs use planning as __signalling__
+    - they collect info but they don’t really act on it
+- making a plan acts as a claim of expertise
+- because claims fo expertise exclude non-experts from the process, planning is inherently political
+- fantasy documents try to turn the following uncertainties into risk: 
+    - how future events will unfold 
+    - how future agents will react to to those events
+- p14
+- __apparent affinities__ - the idea that a potential future catastrophe is similar enough to something that has occurred in the past that we can plan effectively to deal with it
+- Examples of fantasy documents, plans for…
+    - recovery after general nuclear war
+    - evacuation after (or during) a total meltdown of the Shoreham nuclear power station on Long Island
+    - containing and cleaning up massive oil spills
 
 # Chapter 2: Fantasy documents
-    - p16
-    - The function of an instrumental plan is to set out a design description for acting and coordinating
-    - the function of a symbolic plan is to communicate to others, “we can actually control these uncontrollable things”
-    - author calls them “fantasy documents” because either they can’t keep the promises they make, or there’s no way for us to know that they could
-    - they act as __rationally badges__: “we are in control”
-    - when fantasy docs are accepted as legitimate, they function as a constraint on political debate, because they provide consensus-accepted language which sets the terms of the debate
-        - shapes, frames the debate
-        - they reinforce systems that “seem increasingly beyond our comprehension and control”
-    - they’re like a TV script, describing work-as-imagined of agents in the wake of a disaster
-    - p17
-    - docs are __coherent__ and clear about unfolding of events
-    - no ambiguity
-    - p18
-    - docs describe a closed system
-        - cf. Object-world is hard to get out of
-    - p19
-    - managers need to __do something__ about potential disasters
-    - three sets of docs covered in this book
-        - major oil spill cleanups
-        - civilian nuclear plant evacuations
-        - civil defense & post-nuclear war survival
+- p16
+- The function of an instrumental plan is to set out a design description for acting and coordinating
+- the function of a symbolic plan is to communicate to others, “we can actually control these uncontrollable things”
+- author calls them “fantasy documents” because either they can’t keep the promises they make, or there’s no way for us to know that they could
+- they act as __rationally badges__: “we are in control”
+- when fantasy docs are accepted as legitimate, they function as a constraint on political debate, because they provide consensus-accepted language which sets the terms of the debate
+    - shapes, frames the debate
+    - they reinforce systems that “seem increasingly beyond our comprehension and control”
+- they’re like a TV script, describing work-as-imagined of agents in the wake of a disaster
+- p17
+- docs are __coherent__ and clear about unfolding of events
+- no ambiguity
+- p18
+- docs describe a closed system
+    - cf. Object-world is hard to get out of
+- p19
+- managers need to __do something__ about potential disasters
+- three sets of docs covered in this book
+    - major oil spill cleanups
+    - civilian nuclear plant evacuations
+    - civil defense & post-nuclear war survival
 
 ## Oil spill fantasies
-        - p21
-        - every cleanup attempt of major oil spills has failed to recover more than a small fraction of the spilled oil
-        - p23
-        - Newfoundland experiment demonstrates that cleanup is basically impossible
-        - plans are symbolic, they show that orgs can manage __negative externalities__ of large-scale oil production
-        - oil spill planning docs shape the debate around the “problems” of
-            - insufficient money
-            - lack of determination
-            - poor coordination
-        - this means that certain topics don’t even get discussed:
-            - conservation
-            - corporate power
-            - political risk
+- p21
+- every cleanup attempt of major oil spills has failed to recover more than a small fraction of the spilled oil
+- p23
+- Newfoundland experiment demonstrates that cleanup is basically impossible
+- plans are symbolic, they show that orgs can manage __negative externalities__ of large-scale oil production
+- oil spill planning docs shape the debate around the “problems” of
+    - insufficient money
+    - lack of determination
+    - poor coordination
+- this means that certain topics don’t even get discussed:
+    - conservation
+    - corporate power
+    - political risk
 
 ## Radiation fantasies
         - p24
