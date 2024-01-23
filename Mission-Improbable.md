@@ -523,11 +523,11 @@ Book by Lee Clarke
 - __realism doctrine__ - when it comes to a real emergency, state and local agencies will participate properly in the evacuation plan, if they don't take part in the simulated exercises
     - this was assumed by the power company to justify the success of the evacuation exercises even though local agencies didn't participate in them
 ## Local wisdom and civil defense
-    - p120
-    - polls showed that people didn't believe in civil defence
-    - p125
-    - rhetoric changed from nuclear defense to emergency preparedness (apparent affinity)
-    - Federal Emergency Management Agency (FEMA) focused on dual hazards, people supported emergency prepardness
+- p120
+- polls showed that people didn't believe in civil defence
+- p125
+- rhetoric changed from nuclear defense to emergency preparedness (apparent affinity)
+- Federal Emergency Management Agency (FEMA) focused on dual hazards, people supported emergency prepardness
 ## Power and rhetoric
 - p127
 - We overestimate the role of intent on the effects that systems have
