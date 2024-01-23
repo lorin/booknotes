@@ -611,38 +611,38 @@ Book by Lee Clarke
             - all risks are controllable (they think)
             - p155 this is part of the profesionnal culture of management
 ## Expert knowledge
-        - p158
-        - general view is
-            - __assessment__ of risk is technical, objective, value-free facts
-            - __acceptability__ of risk is value-laden, political, choice
-        - author claims assessment is also political, value-laden
+- p158
+- general view is
+    - __assessment__ of risk is technical, objective, value-free facts
+    - __acceptability__ of risk is value-laden, political, choice
+- author claims assessment is also political, value-laden
 ### Experts and prediction
-            - all experts make predictions
-            - p162
-            - experts predict well when their models are based on experience and history
+- all experts make predictions
+- p162
+- experts predict well when their models are based on experience and history
 ### When experts err
-            - experts make mistakes when
-                - they're missing important knowledge
-                - they only apply experience to cases where it isn't applicable
-                - p164
-                - they apply methods b/c they are are familiar with them, rather than because the method is the best one to use given the circumstances
-            - p165
-            - experts influenced by organizational factors
-                - production pressure
-                - power struggles
-                - political interests
+- experts make mistakes when
+    - they're missing important knowledge
+    - they only apply experience to cases where it isn't applicable
+    - p164
+    - they apply methods b/c they are are familiar with them, rather than because the method is the best one to use given the circumstances
+- p165
+- experts influenced by organizational factors
+    - production pressure
+    - power struggles
+    - political interests
 ## Ending reflections
-        - p166
-        - fantasy docs appear in
-            - impossible goals (e.g., zero accidents)
-            - novel situations (e.g., post-nuclear war)
-            - scale-up of known situations (e.g., big oil spills)
-        - these scenarios are all cases where we are missing the relevant history/experience to draw upon
+- p166
+- fantasy docs appear in
+    - impossible goals (e.g., zero accidents)
+    - novel situations (e.g., post-nuclear war)
+    - scale-up of known situations (e.g., big oil spills)
+- these scenarios are all cases where we are missing the relevant history/experience to draw upon
 ### Normalizing danger
-            - p167
-            - Fantasy documents set the terms for discussing dangers
-            - p168
-            - planning processes contain embedded theory on how organization works
-            - fantasy documents noramlize danger - "it's under control"
-            - p171
-            - opposite of fantasy document: honest about dangers and uncertainty
+- p167
+- Fantasy documents set the terms for discussing dangers
+- p168
+- planning processes contain embedded theory on how organization works
+- fantasy documents noramlize danger - "it's under control"
+- p171
+- opposite of fantasy document: honest about dangers and uncertainty
